@@ -638,5 +638,1605 @@
     "correct": 0,
     "explanation": "((1.045)^2/1.04)−1 = 5.0024%, which rounds to 5.00%.",
     "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "c92244688db8373d2acacef37e54cafe",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Easy",
+    "question": "Which record stores employee identifiers, pay rates, and authorized employment information?",
+    "options": [
+      "Payroll register",
+      "Receiving report",
+      "Employee master file",
+      "Sales order"
+    ],
+    "correct": 2,
+    "explanation": "Employee master data supports HR and payroll processing.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "9dfd70998c47288d5196d1c3e1f37225",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Easy",
+    "question": "Which process captures employee hours for subsequent wage calculations?",
+    "options": [
+      "Vendor onboarding",
+      "Timekeeping",
+      "Production scheduling",
+      "Customer billing"
+    ],
+    "correct": 1,
+    "explanation": "Timekeeping records hours worked for payroll.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "b9a35a278fae99befcda89232e81791d",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Easy",
+    "question": "Which report summarizes gross earnings, deductions, and net pay for a pay period?",
+    "options": [
+      "Payroll register",
+      "Purchase journal",
+      "Inventory status report",
+      "A/R aging"
+    ],
+    "correct": 0,
+    "explanation": "The payroll register records detailed payroll calculation outcomes.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "28ef84b9a8b1f1dfab36f53d211683cb",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Easy",
+    "question": "What best describes direct deposit in payroll?",
+    "options": [
+      "Mailing paychecks through a lockbox",
+      "Charging an employee credit card",
+      "Increasing the employee time balance",
+      "Electronic transfer of net pay to the employee bank account"
+    ],
+    "correct": 3,
+    "explanation": "Direct deposit transfers payroll electronically.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "c9dd1b950c863d306a1f9fa5764158f6",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Medium",
+    "question": "A terminated employee remains active in payroll. Which preventive action most directly addresses this risk?",
+    "options": [
+      "Increase the marketing budget",
+      "Review outstanding customer invoices",
+      "Promptly deactivate terminated employees in the HR/payroll master file",
+      "Recount raw material inventory"
+    ],
+    "correct": 2,
+    "explanation": "Timely termination updates prevent post-termination payments.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "40468369056d6d49cee0566b884abc42",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Hard",
+    "question": "An HR clerk can both create fictitious employees and release payments. Which control is most important?",
+    "options": [
+      "Use fewer general-ledger accounts",
+      "Separate employee authorization from payroll payment release",
+      "Print the receiving report twice",
+      "Increase production lot sizes"
+    ],
+    "correct": 1,
+    "explanation": "Segregation of duties reduces ghost employee fraud.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "0a3e895d860578e2b01dc20179f5aeb5",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Medium",
+    "question": "An employee changes their direct-deposit account. Which control best limits diversion of pay?",
+    "options": [
+      "Independently verify and authorize bank-account changes",
+      "Allow any payroll user to edit banking details",
+      "Use a higher default withholding percentage",
+      "Disable all payroll audit logs"
+    ],
+    "correct": 0,
+    "explanation": "Verified changes and restricted access protect routing information.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "cad8ce075113465fbd2915bb1bc6b67c",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Medium",
+    "question": "Which sequence is most logical for paying hourly employees?",
+    "options": [
+      "Distribute pay, create employee, approve time, record taxes",
+      "Record cash disbursement, then determine hours worked",
+      "Send invoices, receive goods, and calculate salaries",
+      "Collect/approve time, calculate pay, authorize/distribute funds, record payroll"
+    ],
+    "correct": 3,
+    "explanation": "Approved time and master data are inputs to payroll computation before disbursement.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "ac7833dab2996c74beb3573d8a65fb0f",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Hard",
+    "question": "A supervisor approves hours employees did not work. Which control most directly detects the issue?",
+    "options": [
+      "Match customer sales orders to invoices",
+      "Reconcile supplier statements to receiving reports",
+      "Compare approved timecards with independent attendance or schedule evidence",
+      "Review customer credit limits"
+    ],
+    "correct": 2,
+    "explanation": "Independent review of time data can detect overstated hours.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "f8f79e1b7e838ae2131c1b05db6f1b17",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Easy",
+    "question": "Who should normally authorize hiring and changes to base pay?",
+    "options": [
+      "An accounts payable vendor",
+      "Appropriate HR/management personnel",
+      "The employee receiving the raise alone",
+      "An unrelated customer"
+    ],
+    "correct": 1,
+    "explanation": "Personnel and pay changes require authorized HR or management approval.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "f5cd69c8022455aebe9e467a3700573f",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Easy",
+    "question": "Payroll tax withholding and employer reporting are part of which responsibility?",
+    "options": [
+      "Payroll compliance",
+      "Vendor selection",
+      "Quality inspection",
+      "Order fulfillment"
+    ],
+    "correct": 0,
+    "explanation": "Payroll compliance includes withholding and tax filings.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "ab36d6eaae563e310e22e9f5120d4fbf",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Medium",
+    "question": "Payroll lists one employee twice under slightly different names. Which analytic is most useful?",
+    "options": [
+      "Compare bill of materials to routings",
+      "Review advertising click rates",
+      "Analyze reorder points only",
+      "Search for duplicate employee identifiers or bank accounts"
+    ],
+    "correct": 3,
+    "explanation": "Duplicate identifiers or deposit destinations may reveal duplicate or ghost employees.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "0ddc45e5f91f7a011a37124fc5d3bb70",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Medium",
+    "question": "Which record is most useful for independently verifying authorized hourly wage rates?",
+    "options": [
+      "A customer shipping notice",
+      "A vendor quote",
+      "Approved employee master-file pay rate",
+      "A cash receipts journal"
+    ],
+    "correct": 2,
+    "explanation": "Approved HR master data establishes authorized compensation terms.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "7c6cbab696ae2ddefa10f96034f78c04",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Medium",
+    "question": "Which exposure results from failing to revoke access when an employee leaves?",
+    "options": [
+      "The BOM automatically increases",
+      "Former employees can access sensitive company systems",
+      "All supplier invoices become invalid",
+      "Customer payments must be cash"
+    ],
+    "correct": 1,
+    "explanation": "Offboarding includes timely removal of logical and physical access.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "581baa909cc8c337acb52d56abeeba03",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Medium",
+    "question": "A payroll clerk mistakenly pays 48 hours instead of 40. Which check is most targeted?",
+    "options": [
+      "Reconcile approved time records to payroll calculation inputs",
+      "Review the vendor master",
+      "Match purchase orders to receipts",
+      "Test production output for defects"
+    ],
+    "correct": 0,
+    "explanation": "Input-to-payroll reconciliation detects excess hours.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "963fbb2e719b7680373412a00d794e23",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Easy",
+    "question": "Which item is a payroll deduction rather than an employer purchase expense?",
+    "options": [
+      "Payment of a supplier invoice",
+      "Purchase of machine parts",
+      "Customer discount allowed",
+      "Employee income-tax withholding"
+    ],
+    "correct": 3,
+    "explanation": "Withholding reduces employees’ gross wages to net pay.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "f68112c914e3a3700b259227f61bebed",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Medium",
+    "question": "A company wants to prevent one worker from approving their own overtime. Which control is best?",
+    "options": [
+      "Let employees update their own approved hours",
+      "Eliminate payroll registers",
+      "Require supervisor authorization of overtime",
+      "Use automatic vendor matching"
+    ],
+    "correct": 2,
+    "explanation": "Independent approval addresses unauthorized overtime.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "010d565655fc41b8b5cf4c10edf41b17",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Hard",
+    "question": "Which audit trail best supports investigating an unexpected salary increase?",
+    "options": [
+      "Customer shopping-cart history",
+      "User and time logs for changes to employee pay-rate fields",
+      "Raw-material movement records",
+      "Purchase receipt lot codes"
+    ],
+    "correct": 1,
+    "explanation": "Pay-rate change logs reveal who modified compensation and when.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "f8eb1485d72a40c0e7757b3399f2be9d",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Medium",
+    "question": "When an employee is hired, which activity should occur before processing their first payroll?",
+    "options": [
+      "Create an approved employee record and compensation terms",
+      "Issue a customer refund",
+      "Close the accounts payable period",
+      "Revalue finished goods"
+    ],
+    "correct": 0,
+    "explanation": "Payroll must use authorized employee and compensation data.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "aeb1a512d25dbf4328a24dc67ce12f80",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Hard",
+    "question": "A payroll payment is rejected by the bank. Which response supports accurate records?",
+    "options": [
+      "Mark the payment as cleared anyway",
+      "Change vendor bank details",
+      "Increase reported hours",
+      "Investigate rejection and reconcile disbursement records before reissuing"
+    ],
+    "correct": 3,
+    "explanation": "Bank reconciliation and investigation prevent duplicate or missing payments.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "86bf7b6aae7a580c154aeb67540b0468",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Easy",
+    "question": "A manager asks why net pay differs from gross wages. What explains the difference?",
+    "options": [
+      "A change in the company sales price",
+      "Work-in-process inventory",
+      "Authorized taxes and other deductions",
+      "The number of suppliers"
+    ],
+    "correct": 2,
+    "explanation": "Net pay equals gross earnings less employee deductions.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "3a89fd1416f066ae44e37b8224303af6",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Hard",
+    "question": "Which function should be restricted from independently adding employees?",
+    "options": [
+      "Viewing aggregate payroll totals",
+      "Personnel creation by an unauthorized payroll-disbursement user",
+      "Receiving approved time reports",
+      "Reviewing payroll exception reports"
+    ],
+    "correct": 1,
+    "explanation": "Separating personnel updates from fund disbursements reduces fraud.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "d06d2c9791d321b945a8b233d03a0365",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Medium",
+    "question": "Which exception report would best detect negative net pay or unusually large compensation?",
+    "options": [
+      "Payroll outlier and exception report",
+      "Customer order backlog",
+      "Bill of operations",
+      "Vendor delivery schedule"
+    ],
+    "correct": 0,
+    "explanation": "Payroll exception analytics flag implausible payment amounts.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "f44bf19120e72b01622e530e57c36a2a",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Hard",
+    "question": "A payroll bank reconciliation shows checks issued but not recorded in payroll. What is the principal concern?",
+    "options": [
+      "Incorrect sales-tax classification",
+      "Understated raw-material usage",
+      "Inaccurate production capacity",
+      "Unrecorded or unauthorized payroll disbursements"
+    ],
+    "correct": 3,
+    "explanation": "Independent reconciliation ties payroll payments to payroll records.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "dc0a19cd46550c9fb77bb9f65f39b506",
+    "course": "ACCTG 433",
+    "chapter": "9",
+    "difficulty": "Hard",
+    "question": "Which data relationship best links payroll transactions to the employee master?",
+    "options": [
+      "InvoiceID as a foreign key in employee addresses",
+      "PurchaseOrderID in product inventory",
+      "EmployeeID as a foreign key in payroll records",
+      "SalesOrderID as primary key of employee master"
+    ],
+    "correct": 2,
+    "explanation": "EmployeeID connects individual payments to their authorized employee.",
+    "source": "ACCTG 433 Savage AIS Chapter 9 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "af58c3d1d033137a33c7e3590d52f9e6",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Easy",
+    "question": "Which document initiates an internal request to buy goods?",
+    "options": [
+      "Customer invoice",
+      "Purchase requisition",
+      "Payroll register",
+      "Bill of operations"
+    ],
+    "correct": 1,
+    "explanation": "A requisition requests procurement; it is not the supplier-facing authorization.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "dbc2eff35a3beb5bfee4dcf6222c9771",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Easy",
+    "question": "Which document formally authorizes a supplier purchase?",
+    "options": [
+      "Purchase order",
+      "Deposit slip",
+      "Sales quotation",
+      "Timecard"
+    ],
+    "correct": 0,
+    "explanation": "An authorized purchase order communicates order terms to the vendor.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "be270453e0b2958a9b2212d263512cff",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Easy",
+    "question": "Which document records the actual goods and quantities delivered?",
+    "options": [
+      "Sales invoice",
+      "Payroll register",
+      "Employee master file",
+      "Receiving report"
+    ],
+    "correct": 3,
+    "explanation": "Receiving personnel document actual arrival and inspection of goods.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "c9d60e0574c9ca4f7d2a3387387508e7",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Easy",
+    "question": "Which three documents form the classic three-way match before payment?",
+    "options": [
+      "Purchase requisition, payroll register, sales order",
+      "Sales order, packing slip, customer remittance",
+      "Purchase order, receiving report, vendor invoice",
+      "Bill of materials, route sheet, job ticket"
+    ],
+    "correct": 2,
+    "explanation": "Matching verifies authorization, receipt, and vendor billing.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "38d03e210c8dfeb468f56868e7505111",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Medium",
+    "question": "A supplier bills for 110 units, but only 100 arrived. Which control best detects the overbilling?",
+    "options": [
+      "Compare payroll hours to pay rates",
+      "Match invoice quantity to the receiving report",
+      "Analyze customer payment aging",
+      "Reconcile sales orders to shipping logs"
+    ],
+    "correct": 1,
+    "explanation": "The receiving report supports the actual goods accepted.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "742ffad88020302f973dcd8d5553e36e",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Hard",
+    "question": "Which segregation reduces unauthorized payments to fake vendors?",
+    "options": [
+      "Separate vendor-master maintenance from payment approval",
+      "Combine vendor setup and bank release duties",
+      "Have one employee approve their own invoice",
+      "Let receiving staff alter payable bank details"
+    ],
+    "correct": 0,
+    "explanation": "Independently controlled vendor setup and payments reduce fraudulent disbursement risk.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "f481426dbbcc88a8efa3d68e97fc35d7",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Medium",
+    "question": "Which report helps detect purchase orders that have not yet been received?",
+    "options": [
+      "A/R aging report",
+      "Payroll tax return",
+      "Finished-goods sales trend",
+      "Open purchase order report"
+    ],
+    "correct": 3,
+    "explanation": "Open-PO monitoring identifies outstanding receipts.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "11703772156df6180a510fa956e3e32f",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Easy",
+    "question": "What does electronic data interchange (EDI) enable?",
+    "options": [
+      "Automatic printing of employee paychecks",
+      "Only cash payment to suppliers",
+      "Structured electronic exchange of business documents between organizations",
+      "Conversion of raw materials to finished goods"
+    ],
+    "correct": 2,
+    "explanation": "EDI electronically transmits standardized procurement and other documents.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "c3648565ab85aa1518f88c914f0e3804",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Medium",
+    "question": "Which activity should precede disbursement for a standard goods purchase?",
+    "options": [
+      "Disburse cash before verifying delivery",
+      "Verify the approved order, receipt, and invoice agree",
+      "Change the vendor bank account without approval",
+      "Close the receiving function"
+    ],
+    "correct": 1,
+    "explanation": "Three-way matching should occur before authorized supplier payment.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "24181442b21e41c82216b200298a56c6",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Hard",
+    "question": "A buyer splits one large order into smaller purchases to avoid an approval limit. What control helps?",
+    "options": [
+      "Review related orders for cumulative amounts and approval thresholds",
+      "Increase net employee wages",
+      "Review only invoice dates",
+      "Disable purchase order numbering"
+    ],
+    "correct": 0,
+    "explanation": "Aggregate-transaction monitoring can reveal purchases split to evade controls.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "293fc553dbea59e1436c8fa13fe3900c",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Medium",
+    "question": "Which purchasing risk is reduced by an approved supplier list?",
+    "options": [
+      "Employee overtime underreporting",
+      "Customer invoice nonpayment",
+      "Production scrap misclassification",
+      "Purchases from unvetted or unauthorized vendors"
+    ],
+    "correct": 3,
+    "explanation": "Vendor approval improves purchasing authorization and supplier screening.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "fd71feb62721b3510b3279d09beed10c",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Medium",
+    "question": "A purchase invoice is recorded twice. Which automated validation can prevent this?",
+    "options": [
+      "Require a second customer order",
+      "Add an extra wage withholding",
+      "Reject duplicate vendor-invoice numbers for the same vendor",
+      "Increase reorder quantities"
+    ],
+    "correct": 2,
+    "explanation": "Duplicate-invoice checks help prevent duplicate liabilities and payments.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "a95f21517a9e5a70331e2c1f2d7b9535",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Easy",
+    "question": "Which department usually records a liability after an authorized invoice is matched?",
+    "options": [
+      "Marketing",
+      "Accounts payable",
+      "Payroll administration",
+      "Customer support"
+    ],
+    "correct": 1,
+    "explanation": "Accounts payable manages amounts owed to suppliers.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "e1658b2f4f9289d108f4c0075539ac8c",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Hard",
+    "question": "Which control addresses a receiving employee who claims goods arrived when nothing was delivered?",
+    "options": [
+      "Independent count and documentation of physical receipts",
+      "Auto-approve every invoice",
+      "Raise credit limits for customers",
+      "Change overtime approval rules"
+    ],
+    "correct": 0,
+    "explanation": "Independent receiving evidence verifies that goods exist.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "f6b1d22afac2a742319cc5fa84528889",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Hard",
+    "question": "A vendor master record lists an employee’s bank account. What should auditors investigate?",
+    "options": [
+      "Improved inventory turnover",
+      "Automatic depreciation",
+      "Higher customer loyalty",
+      "Possible fictitious or diverted supplier payments"
+    ],
+    "correct": 3,
+    "explanation": "Matching employee and vendor bank data can expose conflicts or fraud.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "f3b2e1a4b773878477ee8929e3d9cbe0",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Medium",
+    "question": "A report showing how long supplier balances are outstanding supports which activity?",
+    "options": [
+      "Payroll hiring",
+      "Product quality testing",
+      "Accounts payable aging and cash planning",
+      "Revenue recognition performance obligations"
+    ],
+    "correct": 2,
+    "explanation": "AP aging helps prioritize liabilities and upcoming disbursements.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "c255b31dda0390794bdbd0666c2cbe4a",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Medium",
+    "question": "An invoice price differs from the contracted purchase-order price. What control is most direct?",
+    "options": [
+      "Approval of marketing content",
+      "Price-tolerance matching to the approved purchase order",
+      "Analysis of employee termination dates",
+      "Inventory physical counts only"
+    ],
+    "correct": 1,
+    "explanation": "PO-to-invoice price checks catch unapproved price differences.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "e78814a87941eda7d451a1212a6757df",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Medium",
+    "question": "What does the fixed asset acquisition stage generally involve?",
+    "options": [
+      "Authorization, purchase, receipt, and capitalization of an asset",
+      "Determination of customer credit scores",
+      "Payroll garnishment processing",
+      "Closing a customer sales order"
+    ],
+    "correct": 0,
+    "explanation": "Fixed-asset acquisition covers the purchase and recording of capital items.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "756aa6f4ecd669cc50d5adb44599da32",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Medium",
+    "question": "Which action belongs to the fixed asset disposal stage?",
+    "options": [
+      "Create a supplier requisition for all disposals",
+      "Adjust employee pay rates",
+      "Match customer invoices to sales orders",
+      "Authorize removal and record any gain or loss on disposal"
+    ],
+    "correct": 3,
+    "explanation": "Asset disposals require approval and correct removal of recorded values.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "cb20adf67edda30e973a515158c00bb8",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Medium",
+    "question": "What is the role of the vendor statement reconciliation?",
+    "options": [
+      "Reconcile payroll timecards to sales volumes",
+      "Compare quality checks to employee rates",
+      "Compare supplier balances and transactions with the AP records",
+      "Measure production run time"
+    ],
+    "correct": 2,
+    "explanation": "Supplier statement reconciliation can uncover omitted bills or payments.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "492d6a9b3cd3cc56d1e62a4c1740a28e",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Medium",
+    "question": "A purchasing employee accepts undisclosed personal benefits from a bidder. Which safeguard helps?",
+    "options": [
+      "Ignoring the vendor-selection process",
+      "Conflict-of-interest disclosure and competitive bidding",
+      "Giving purchasing staff sole payment access",
+      "Skipping receipt inspections"
+    ],
+    "correct": 1,
+    "explanation": "Disclosure and oversight reduce procurement conflicts.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "5e40481894407dc74cf8519b101092b7",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Medium",
+    "question": "Which order of activities is most reasonable in the purchasing cycle?",
+    "options": [
+      "Requisition, approve/order, receive, verify invoice, pay",
+      "Pay, receive, requisition, approve, verify",
+      "Receive, pay, approve, request, reconcile",
+      "Approve sales, process payroll, make product, buy"
+    ],
+    "correct": 0,
+    "explanation": "A procurement flow begins with need authorization and finishes with validated payment.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "96730f82b6c645fd2b375ea55b263e9b",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Hard",
+    "question": "Which field in an invoice table would typically reference its vendor parent row?",
+    "options": [
+      "InvoiceTotal as primary key for vendor",
+      "EmployeeHours as foreign key",
+      "CustomerBalance as vendor identifier",
+      "VendorID as foreign key"
+    ],
+    "correct": 3,
+    "explanation": "VendorID links multiple invoices to a vendor.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "0c3bcfd14b79f9f4c744a01ad412d4f6",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Hard",
+    "question": "A firm pays for inventory never received. Which control was most likely ineffective?",
+    "options": [
+      "Customer credit authorization",
+      "Payroll bank-account validation",
+      "Requiring approved receiving evidence before payment",
+      "Product advertising review"
+    ],
+    "correct": 2,
+    "explanation": "A supported match to receipt evidence guards against paying for undelivered inventory.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "10d9014fbd7c6eedd23168c5e7df0bf0",
+    "course": "ACCTG 433",
+    "chapter": "10",
+    "difficulty": "Medium",
+    "question": "A purchase order is approved for 50 units and the receiving report shows 50, but the vendor invoice shows 60. Which record should trigger investigation?",
+    "options": [
+      "The employee master-file salary",
+      "The vendor invoice quantity differs from matched documents",
+      "The sales order delivery date",
+      "The production bill of operations"
+    ],
+    "correct": 1,
+    "explanation": "Three-way matching exposes the 10-unit discrepancy.",
+    "source": "ACCTG 433 Savage AIS Chapter 10 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "7514e4dc3a325ca07286ec1f5726d66c",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Easy",
+    "question": "Which sequence represents the manufacturing conversion process?",
+    "options": [
+      "Product development, production planning, production scheduling, manufacturing operations, quality management",
+      "Production scheduling, quality management, product development, planning, operations",
+      "Manufacturing operations, sales, payroll, receipts, development",
+      "Production planning, manufacturing, purchases, sales, collections"
+    ],
+    "correct": 0,
+    "explanation": "The course conversion flow follows development through quality control.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "f60d2cc504c63895b0f947afa3a803d6",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Easy",
+    "question": "Which record lists the materials and parts required for a product?",
+    "options": [
+      "Bill of operations (BOO)",
+      "Master production schedule (MPS)",
+      "Payroll register",
+      "Bill of materials (BOM)"
+    ],
+    "correct": 3,
+    "explanation": "A BOM identifies materials/components for production.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "6cb879ebf7e413fcff449ed2cca29a2d",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Easy",
+    "question": "Which record primarily identifies sequential manufacturing steps or routings?",
+    "options": [
+      "Bill of materials (BOM)",
+      "Accounts payable aging",
+      "Bill of operations (BOO)",
+      "Vendor invoice"
+    ],
+    "correct": 2,
+    "explanation": "A BOO outlines production steps or operations.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "b45f17de57c2a2887bfa768789e29db7",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Medium",
+    "question": "What is a master production schedule (MPS)?",
+    "options": [
+      "A list of employees approved for overtime",
+      "A short-term plan of which products to build and when",
+      "A listing of customer cash receipts",
+      "An invoice for equipment repairs"
+    ],
+    "correct": 1,
+    "explanation": "The MPS converts production plans into scheduled output.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "ba4981843f58d7d1e1db308684922075",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Easy",
+    "question": "What does a work order generally authorize?",
+    "options": [
+      "Production of a specified quantity of a product",
+      "A new supplier banking relationship",
+      "Collection of overdue customer debt",
+      "Employee termination"
+    ],
+    "correct": 0,
+    "explanation": "Work orders approve specific manufacturing activity.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "1a2e0249cd2be5cb4783d59acd297928",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Easy",
+    "question": "Which inventory stage includes partially completed goods?",
+    "options": [
+      "Finished goods",
+      "Raw materials before use",
+      "Accounts receivable",
+      "Work in process"
+    ],
+    "correct": 3,
+    "explanation": "WIP includes production begun but not yet completed.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "bbc20c07b152391815edf943d32bd06b",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Medium",
+    "question": "A manufacturer traces direct material and labor costs to an individual customer batch. Which costing approach fits?",
+    "options": [
+      "Process costing only",
+      "Cash-basis revenue recognition",
+      "Job costing",
+      "Retail inventory markdown"
+    ],
+    "correct": 2,
+    "explanation": "Job costing accumulates costs for specific jobs or batches.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "25decaab5725d83d543ed9e941b08415",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Easy",
+    "question": "What is the purpose of just-in-time (JIT) inventory management?",
+    "options": [
+      "Maximize raw-material storage for every part",
+      "Reduce inventory held by coordinating materials with demand",
+      "Eliminate quality checks",
+      "Recognize manufacturing revenue earlier"
+    ],
+    "correct": 1,
+    "explanation": "JIT reduces inventory by timing deliveries with production needs.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "1dc733905dfeaad69219edb580dcb387",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Medium",
+    "question": "A BOM understates components needed per unit. What risk is most immediate?",
+    "options": [
+      "Material shortages and incorrect production cost estimates",
+      "Overstated customer remittances",
+      "Unauthorized salary increases",
+      "Incorrect vendor tax IDs"
+    ],
+    "correct": 0,
+    "explanation": "Inaccurate BOM quantities distort material planning and costing.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "1b675a85e919bdd3ee2a3380d59e26e9",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Hard",
+    "question": "An unapproved production routing change increases scrap. Which control helps?",
+    "options": [
+      "Let operators modify routing without logging",
+      "Approve supplier invoices earlier",
+      "Lower customer credit limits",
+      "Formal approval and version control of manufacturing instructions"
+    ],
+    "correct": 3,
+    "explanation": "Controlled versions and approvals protect standardized operations.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "1235a3deb90d42b858cba17d0e806356",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Medium",
+    "question": "What is overall equipment effectiveness (OEE) commonly based on?",
+    "options": [
+      "Market share × gross margin × cash flow",
+      "Coupon rate × maturity × yield",
+      "Availability × performance × quality",
+      "Invoice count × price × sales returns"
+    ],
+    "correct": 2,
+    "explanation": "OEE combines availability, performance, and quality rates.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "06d17f18832a0b54b39e8405a5e5d802",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Hard",
+    "question": "Availability is 90%, performance 80%, and quality 95%. What is OEE?",
+    "options": [
+      "85.0%",
+      "68.4%",
+      "75.0%",
+      "94.0%"
+    ],
+    "correct": 1,
+    "explanation": "0.90 × 0.80 × 0.95 = 0.684 = 68.4%.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "e6f9b35c78959273feee09cbdcef9a92",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Medium",
+    "question": "Which control best detects missing raw materials?",
+    "options": [
+      "Periodic inventory counts reconciled to perpetual records",
+      "Increasing employee direct deposits",
+      "Removing credit checks on customers",
+      "Reviewing sales promotion approvals"
+    ],
+    "correct": 0,
+    "explanation": "Physical-to-record reconciliation detects inventory discrepancies.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "554854e2755550d2f17e3bee5cc29b38",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Medium",
+    "question": "Production reports reveal frequent rework. Which stage should analyze defects and corrective actions?",
+    "options": [
+      "Cash collections",
+      "Vendor master setup",
+      "Employee onboarding",
+      "Quality management"
+    ],
+    "correct": 3,
+    "explanation": "Quality management monitors defects, rework, and compliance.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "f2d07d2563ff00546c026c1bedc6ff3a",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Hard",
+    "question": "A manufacturer needs to forecast material requirements from planned production. Which combination helps?",
+    "options": [
+      "Payroll register and W-2",
+      "A/R aging and bank remittance",
+      "MPS and BOM",
+      "Sales return and credit memo only"
+    ],
+    "correct": 2,
+    "explanation": "The schedule supplies planned quantities; the BOM supplies materials per unit.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "3114ab79542e068017fb806c7e60673d",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Medium",
+    "question": "A product needs four bolts, and an approved production order is for 250 units. How many bolts are required before scrap allowance?",
+    "options": [
+      "250",
+      "1,000",
+      "500",
+      "1,250"
+    ],
+    "correct": 1,
+    "explanation": "Four bolts per unit × 250 units = 1,000 bolts.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "605b370cdaa4cd0ed666c1682da8305a",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Medium",
+    "question": "Which digital manufacturing control reduces risk of unauthorized equipment-parameter changes?",
+    "options": [
+      "Role-based access and machine-setting audit logs",
+      "Unrestricted shared operator passwords",
+      "No changes to production records",
+      "Reconciling customer invoices only"
+    ],
+    "correct": 0,
+    "explanation": "Authorized access and change logs improve production integrity.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "f5136e2be8676f00bed522151153b2d3",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Hard",
+    "question": "Why are segregation of duties and approval controls important for recording scrap?",
+    "options": [
+      "They eliminate all machinery maintenance",
+      "They replace the BOM with a sales invoice",
+      "They increase the number of product defects",
+      "They reduce opportunities to conceal theft as waste"
+    ],
+    "correct": 3,
+    "explanation": "Independent authorization and review help validate actual scrap.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "b102dabee1d13e91c1f9a3a2de0760e4",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Medium",
+    "question": "A bottleneck causes frequent missed production deadlines. Which process should revise detailed sequencing?",
+    "options": [
+      "Customer billing",
+      "Payroll processing",
+      "Production scheduling",
+      "Accounts payable reconciliation"
+    ],
+    "correct": 2,
+    "explanation": "Production scheduling allocates time and capacity to orders.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "e589b48e6e0bb8d40b1fd63048079258",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Medium",
+    "question": "Which activity primarily belongs to product development rather than manufacturing operations?",
+    "options": [
+      "Executing an approved work order",
+      "Designing and specifying a new product",
+      "Inspecting a produced batch",
+      "Recording wages paid to factory workers"
+    ],
+    "correct": 1,
+    "explanation": "Product development defines specifications before routine manufacturing.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "1ca27e3578719eaecfd5cc9a613f4fc7",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Medium",
+    "question": "A shop makes identical units continuously and accumulates costs by department. Which method generally fits?",
+    "options": [
+      "Process costing",
+      "Specific job costing for each unique customer job",
+      "Bank reconciliation",
+      "Asset retirement accounting"
+    ],
+    "correct": 0,
+    "explanation": "Process costing pools costs across continuous homogeneous production.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "9bc696db0e050ea0ea6ac39dfbc3f781",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Medium",
+    "question": "An MPS calls for 300 units, available finished inventory is 80, and no safety stock is required. How many additional units are needed?",
+    "options": [
+      "380",
+      "300",
+      "80",
+      "220"
+    ],
+    "correct": 3,
+    "explanation": "Required new units = scheduled requirement 300 − available 80 = 220.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "1f6dee7bce6df4f223d6b5e38f49bf9b",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Medium",
+    "question": "Which control most directly addresses machine injury risks during production?",
+    "options": [
+      "Raising vendor credit limits",
+      "Mailing customer statements sooner",
+      "Safety training, guarding, and maintenance procedures",
+      "Updating payroll tax forms"
+    ],
+    "correct": 2,
+    "explanation": "Safety procedures reduce manufacturing hazards and operational interruptions.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "9f7065ed679dc695a9d5cc24e20020c9",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Hard",
+    "question": "Why reconcile raw material issues to approved work orders?",
+    "options": [
+      "To measure overdue trade receivables",
+      "To detect unauthorized material use and inaccurate production charges",
+      "To set customer sales discounts",
+      "To approve annual employee vacation"
+    ],
+    "correct": 1,
+    "explanation": "Issued materials should tie to authorized production activity.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "459887fb5609883b0b98ffb8d9fbfc18",
+    "course": "ACCTG 433",
+    "chapter": "11",
+    "difficulty": "Medium",
+    "question": "An operator reports 980 good units out of 1,000 completed units. What is the quality component of OEE?",
+    "options": [
+      "98%",
+      "2%",
+      "102%",
+      "95%"
+    ],
+    "correct": 0,
+    "explanation": "Quality factor = good units / total units = 980/1000 = 98%.",
+    "source": "ACCTG 433 Savage AIS Chapter 11 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "5255fa8ab14fa65df2486ee10ba3e290",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Easy",
+    "question": "Which document confirms a customer order for sale?",
+    "options": [
+      "Purchase requisition",
+      "Payroll register",
+      "Bill of operations",
+      "Sales order"
+    ],
+    "correct": 3,
+    "explanation": "A sales order captures customer products, quantities, and terms.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "b2fc86a875e6877b5bba4cef0169d38d",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Easy",
+    "question": "Which document requests payment for goods or services provided?",
+    "options": [
+      "Receiving report",
+      "Work order",
+      "Sales invoice",
+      "Timecard"
+    ],
+    "correct": 2,
+    "explanation": "An invoice bills the customer for the sale.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "055d65e68f1d7999f3af347412a424ce",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Easy",
+    "question": "What does accounts receivable aging show?",
+    "options": [
+      "Payroll employees grouped by tenure",
+      "Outstanding customer balances grouped by time overdue",
+      "Raw material orders grouped by supplier type",
+      "Finished goods grouped by defect category"
+    ],
+    "correct": 1,
+    "explanation": "A/R aging helps collect balances based on age.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "4bc7ff2c9705623fe3f5a620db1e0f9f",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Medium",
+    "question": "Which control best reduces uncollectible sales made on credit?",
+    "options": [
+      "Review customer creditworthiness and authorize credit limits",
+      "Allow unlimited credit to all customers",
+      "Remove customer account reviews",
+      "Skip invoice recording"
+    ],
+    "correct": 0,
+    "explanation": "Credit approval manages exposure to customer nonpayment.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "5597609a98f798241a6483cdda7d0526",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Medium",
+    "question": "Which control directly addresses tampering with delivered food products in B2C sales?",
+    "options": [
+      "Only cashless employee payroll",
+      "A higher vendor purchase limit",
+      "Omit shipping confirmation",
+      "Tamper-evident packaging seals"
+    ],
+    "correct": 3,
+    "explanation": "Tamper-evident seals make interference with deliveries more detectable.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "a1ca76c5faa69e2c2fb19db5b93f6e11",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Easy",
+    "question": "What is an electronic funds transfer (EFT) in collections?",
+    "options": [
+      "A printed supplier packing slip",
+      "An employee timekeeping report",
+      "Electronic payment from a customer bank account to the company",
+      "A production routing sheet"
+    ],
+    "correct": 2,
+    "explanation": "EFT moves funds electronically between bank accounts.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "581fa7107c05c4822d6e9effc43de5a1",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Easy",
+    "question": "What is a lockbox arrangement used for?",
+    "options": [
+      "Production inventory storage",
+      "Bank-controlled receipt and processing of mailed customer payments",
+      "Employee onboarding",
+      "Vendor product engineering"
+    ],
+    "correct": 1,
+    "explanation": "A bank lockbox expedites cash receipts and separates handling from recording.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "6049699c541095c0bc41d31f8f6a6248",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Easy",
+    "question": "Which document evidences the amount deposited in the bank?",
+    "options": [
+      "Deposit slip",
+      "Bill of materials",
+      "Vendor purchase order",
+      "Payroll timecard"
+    ],
+    "correct": 0,
+    "explanation": "A deposit slip supports the bank deposit amount.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "34f0331fef6d097e4f6b95a8daaad8db",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Medium",
+    "question": "Which data most directly supports matching customer payments to accounts receivable?",
+    "options": [
+      "Employee salary history",
+      "Manufacturing routings",
+      "Supplier approved bid list",
+      "Customer remittance information"
+    ],
+    "correct": 3,
+    "explanation": "Remittance details identify which customer invoices were paid.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "a03a8f44133f20bc1ea4899b0320abda",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Medium",
+    "question": "What is the first step of ASC 606 revenue recognition?",
+    "options": [
+      "Recognize revenue before contracting",
+      "Determine equipment depreciation",
+      "Identify the contract with a customer",
+      "Pay a supplier invoice"
+    ],
+    "correct": 2,
+    "explanation": "The five-step model starts by identifying a customer contract.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "18f685e90d3f28cf93a1a0eedc007ba7",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Medium",
+    "question": "What is Step 2 of the ASC 606 framework?",
+    "options": [
+      "Determine whether employees worked overtime",
+      "Identify performance obligations in the contract",
+      "Calculate payroll tax",
+      "Release an unapproved shipment"
+    ],
+    "correct": 1,
+    "explanation": "Step 2 identifies the distinct promises to transfer goods or services.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "06e9959807a4e338edb2fa8ddda2e387",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Medium",
+    "question": "What is Step 3 of ASC 606?",
+    "options": [
+      "Determine the transaction price",
+      "Identify the seller’s vendors",
+      "Pay the sales force",
+      "Inspect raw materials"
+    ],
+    "correct": 0,
+    "explanation": "Step 3 establishes the consideration expected for the contract.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "feb990fa5aa20263328bbba7a615074d",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Medium",
+    "question": "What is Step 4 of ASC 606?",
+    "options": [
+      "Collect customer cash before recording any revenue",
+      "Reconcile employee bank accounts",
+      "Create a manufacturing work order",
+      "Allocate transaction price to performance obligations"
+    ],
+    "correct": 3,
+    "explanation": "Step 4 allocates consideration among distinct performance obligations.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "af929e91d00d7f7ef2b8a014c1c0c1b7",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Medium",
+    "question": "When is revenue recognized under Step 5 of ASC 606?",
+    "options": [
+      "Whenever a sales lead is entered",
+      "Only when all trade receivables are collected",
+      "As or when the entity satisfies a performance obligation",
+      "As soon as a vendor is onboarded"
+    ],
+    "correct": 2,
+    "explanation": "Revenue follows satisfaction of performance obligations.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "86511e65072c3e41c3ae9bb60aec0159",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Hard",
+    "question": "A customer pays $400 before the company delivers the goods. What is generally recorded until delivery?",
+    "options": [
+      "Earned revenue immediately regardless of performance",
+      "Contract liability / deferred revenue",
+      "Employee expense",
+      "Accounts payable to a supplier"
+    ],
+    "correct": 1,
+    "explanation": "Before the performance obligation is satisfied, advance cash usually creates a contract liability.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "be8d1f04c477f537bf23e00d56245313",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Hard",
+    "question": "Which control best detects recorded sales invoices omitted from the general ledger?",
+    "options": [
+      "Reconcile billing records to recorded revenue and receivables",
+      "Match payroll records to employee shifts",
+      "Inspect vendor physical inventory",
+      "Approve every equipment disposal"
+    ],
+    "correct": 0,
+    "explanation": "Sales-to-ledger reconciliations test completeness of recording.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "d839396c38390d0514b31c793eb0eebe",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Medium",
+    "question": "A firm wants to prevent unauthorized customer refunds. Which control best fits?",
+    "options": [
+      "Allow a sales clerk to approve their own refunds",
+      "Stop using customer identifiers",
+      "Change the bill of operations",
+      "Independent review and approval of credit memos/refunds"
+    ],
+    "correct": 3,
+    "explanation": "Approved credit memos reduce fictitious customer credits.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "ab0e884ec79f646f158a8eb11bbde188",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Medium",
+    "question": "A company ships only 6 of 10 units ordered. Which document helps prevent billing the full 10 as shipped?",
+    "options": [
+      "Employee pay-rate file",
+      "Vendor statement",
+      "Shipping confirmation / delivery record",
+      "Work-center maintenance log"
+    ],
+    "correct": 2,
+    "explanation": "Billing should reflect actual goods shipped and contract terms.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "2706db4bbad35ece67b697f1fc78be6f",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Easy",
+    "question": "Which ERP function normally tracks amounts customers owe?",
+    "options": [
+      "Payroll withholding submodule only",
+      "Financial module / accounts receivable",
+      "Manufacturing routings only",
+      "Vendor quality management only"
+    ],
+    "correct": 1,
+    "explanation": "AR is a finance/accounting receivables function.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "10a50db8f4a4b63295896af7551489c4",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Medium",
+    "question": "Which stage most directly follows authorization of a credit sale?",
+    "options": [
+      "Fulfill and ship the accepted customer order",
+      "Terminate the sales employee",
+      "Pay the company supplier",
+      "Perform a raw material count before accepting any order"
+    ],
+    "correct": 0,
+    "explanation": "Sales fulfillment transfers the ordered goods/services after approval.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "932e4ccbb789882034625b3f3e23e528",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Hard",
+    "question": "Which control best detects lapping of customer receipts?",
+    "options": [
+      "Allow one clerk to receive and post all payments with no review",
+      "Hide daily bank deposit records",
+      "Permit unmatched account credits",
+      "Separate cash handling from A/R posting and reconcile customer payments independently"
+    ],
+    "correct": 3,
+    "explanation": "Independent posting/reconciliation makes diversion and delayed posting harder.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "879b9740f212e85b1b84a2fbde1cd2fb",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Easy",
+    "question": "A customer balance remains unpaid for 120 days. What report highlights this for collections?",
+    "options": [
+      "Payroll register",
+      "Bill of materials",
+      "Accounts receivable aging report",
+      "Production schedule"
+    ],
+    "correct": 2,
+    "explanation": "A/R aging identifies old unpaid accounts.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "54f2408f1bcb2fac3dc81ea1fc80bf61",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Hard",
+    "question": "Which field in a SalesOrderLineItem table would normally reference its parent sales order?",
+    "options": [
+      "UnitPrice primary key of the sales order",
+      "SalesOrderID foreign key",
+      "Quantity as employee foreign key",
+      "VendorBankAccount as customer identifier"
+    ],
+    "correct": 1,
+    "explanation": "The SalesOrderID references the associated sales order.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "51dbc626a5bf4bfa1702af22a3338c89",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Medium",
+    "question": "A price advertised online differs from the approved catalog price. Which control most directly helps?",
+    "options": [
+      "Approved price master and controlled price changes",
+      "Employee termination checklists",
+      "Raw material defect sampling",
+      "Supplier statement reconciliation"
+    ],
+    "correct": 0,
+    "explanation": "Controlled price data protect sales pricing accuracy.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
+  },
+  {
+    "id": "4b8484d7e9d55bba9c0c1b7e1c98ffcf",
+    "course": "ACCTG 433",
+    "chapter": "12",
+    "difficulty": "Hard",
+    "question": "A $2,400 contract has two equally priced distinct deliverables. How much transaction price is allocated to each under equal stand-alone values?",
+    "options": [
+      "$2,400",
+      "$600",
+      "$4,800",
+      "$1,200"
+    ],
+    "correct": 3,
+    "explanation": "With equal stand-alone selling prices, allocate 2,400/2 = 1,200 to each.",
+    "source": "ACCTG 433 Savage AIS Chapter 12 slides; Exam 2 study guide; professor quiz-style practice"
   }
 ]
