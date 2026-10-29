@@ -2238,5 +2238,981 @@
     "correct": 0,
     "explanation": "((1.045)^2/1.04)−1 = 5.0024%, which rounds to 5.00%.",
     "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "880b818985bb83bc46687592ed80ebec",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Medium",
+    "question": "A nominal Treasury yields 4.80%, and a same-maturity TIPS yields 1.70%. What is the approximate breakeven inflation rate?",
+    "options": [
+      "6.50%",
+      "3.60%",
+      "2.82%",
+      "1.70%"
+    ],
+    "correct": 1,
+    "explanation": "Professor FIN421 convention: breakeven = nominal Treasury yield − TIPS real yield + 0.50 percentage points = 4.80% − 1.70% + 0.50% = 3.60%.",
+    "source": "FIN421 Exam 2 slides, course study guide and formula sheet; professor-style practice"
+  },
+  {
+    "id": "2c63c048958823622e8b277bbbbc6085",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Medium",
+    "question": "If desired investment spending increases at every real interest rate while saving supply is unchanged, what happens to loanable-funds equilibrium?",
+    "options": [
+      "Higher real rate and smaller quantity",
+      "Unchanged real rate and quantity",
+      "Higher real rate and larger quantity",
+      "Lower real rate and larger quantity"
+    ],
+    "correct": 2,
+    "explanation": "Higher demand shifts equilibrium real interest rate and quantity upward.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "868de21751407bce6748625195931eb2",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Medium",
+    "question": "Which fixed-rate lender is generally hurt by unexpectedly high inflation?",
+    "options": [
+      "Lender receiving higher real repayment",
+      "Lender whose nominal principal automatically rises",
+      "Lender protected from all purchasing-power changes",
+      "Lender repaid in dollars with lower purchasing power"
+    ],
+    "correct": 3,
+    "explanation": "Unexpected inflation reduces the real value of fixed nominal repayments.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "b430214dab9018515e023ef8038d915d",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Easy",
+    "question": "Why do investors value inflation-protected Treasury securities?",
+    "options": [
+      "Their indexed principal offers inflation protection",
+      "Their coupon never changes in dollar terms",
+      "They have no market-price risk",
+      "Their real yield must equal nominal bond yields"
+    ],
+    "correct": 0,
+    "explanation": "TIPS principal adjusts with inflation, while prices can still fluctuate.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "864ab49dc47943b5b9fcd0ee8e7690b3",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Medium",
+    "question": "For a floating-rate note linked to a market benchmark, rising benchmark rates usually do what at reset dates?",
+    "options": [
+      "Permanently fix coupons at the original rate",
+      "Raise subsequent coupon payments",
+      "Immediately reduce contractual face value",
+      "Eliminate all default risk"
+    ],
+    "correct": 1,
+    "explanation": "Coupon resets transmit market benchmark increases into coupons.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "879bf5eb5493500ded6076d6dbf70f65",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Medium",
+    "question": "Under covered interest parity, an unexpectedly expensive foreign-currency forward creates which opportunity before transaction costs?",
+    "options": [
+      "Only a decrease in foreign exchange turnover",
+      "An obligation to buy foreign bonds with no hedge",
+      "Covered arbitrage through spot borrowing/investment and a forward",
+      "Guaranteed unsecured stock profits"
+    ],
+    "correct": 2,
+    "explanation": "An out-of-line forward relative to interest rates and spot can allow covered arbitrage.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "66a1c4162bfe8755725e7bfc1cfe3b32",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Easy",
+    "question": "Which bond typically has Macaulay duration equal to its final maturity?",
+    "options": [
+      "A par coupon bond with annual coupons",
+      "An amortizing bond with coupons",
+      "A floating-rate bond between resets",
+      "A zero-coupon bond"
+    ],
+    "correct": 3,
+    "explanation": "Only the final payment has weight for a zero-coupon bond.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "1e9f1992621b25a579331abaa6deef19",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Medium",
+    "question": "Holding yield, coupon, and other conditions fixed, lengthening maturity ordinarily does what to fixed-rate bond price sensitivity?",
+    "options": [
+      "Increases it",
+      "Eliminates it",
+      "Always decreases it",
+      "Does not affect it"
+    ],
+    "correct": 0,
+    "explanation": "Longer maturity generally increases duration and price sensitivity.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "4954dc6cf941d0dc4ce8f3ee19ab05b5",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Medium",
+    "question": "A bond trading above par generally has which relationship for a standard fixed-coupon noncallable bond?",
+    "options": [
+      "Current yield must exceed coupon rate",
+      "Coupon rate exceeds YTM",
+      "Coupon rate equals YTM",
+      "Coupon rate is below YTM"
+    ],
+    "correct": 1,
+    "explanation": "Premium fixed-coupon bonds offer coupons larger than prevailing yield.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "6dc9ed77153226701b4d1580bba8038b",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Easy",
+    "question": "What additional condition, besides rising market yields, typically exposes investors to reinvestment risk?",
+    "options": [
+      "Principal is never repaid",
+      "The bond has no interim cash flows",
+      "Coupons must be reinvested at potentially lower future rates",
+      "The bond is a pure discount security"
+    ],
+    "correct": 2,
+    "explanation": "Interim coupon cash flows face uncertain future reinvestment rates.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "a3a5a8deb700081221d770632594cabc",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Medium",
+    "question": "What is the key limitation of a duration-only estimate for large interest-rate changes?",
+    "options": [
+      "It assumes positive coupon payments",
+      "It requires a bond market price",
+      "It discounts future cash flows",
+      "It omits price-yield curvature (convexity)"
+    ],
+    "correct": 3,
+    "explanation": "Convexity makes the price-yield relation nonlinear.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "4ee99ba0e73247291337b0a6b7c661a2",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Medium",
+    "question": "For the same yield and maturity, which bond tends to have higher duration?",
+    "options": [
+      "A low-coupon bond",
+      "A high-coupon bond",
+      "A bond with faster early cash flows",
+      "A bond that prepays immediately"
+    ],
+    "correct": 0,
+    "explanation": "Lower early coupons shift present value weight toward later cash flows.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "aff16242fd66a6f8e1d7cb6eb1beae81",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Easy",
+    "question": "A call provision usually becomes most valuable to the issuer when what occurs?",
+    "options": [
+      "The issuer cannot refinance",
+      "Market interest rates decline",
+      "Market interest rates jump sharply",
+      "The bond price is well below call price"
+    ],
+    "correct": 1,
+    "explanation": "Falling rates let issuers replace high-coupon debt with cheaper borrowing.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "e8eb89ec774ae4079f7a81e3d947d404",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Medium",
+    "question": "Which quantity is the present-value-weighted average receipt time of a bond’s cash flows?",
+    "options": [
+      "Credit spread",
+      "Nominal yield",
+      "Macaulay duration",
+      "Coupon rate"
+    ],
+    "correct": 2,
+    "explanation": "Macaulay duration weights payment times by present-value proportions.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "b8824328d75f23dd5d9f8983de496168",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Medium",
+    "question": "Why might a bond with lower credit quality have a higher required yield than a Treasury of equal maturity?",
+    "options": [
+      "The lower-rated bond is necessarily more liquid",
+      "Both bonds have identical default probabilities",
+      "Tax treatment can never affect yields",
+      "Investors demand compensation for credit risk"
+    ],
+    "correct": 3,
+    "explanation": "A credit spread compensates for additional expected credit/default exposure.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "3cbd9316d11adafe1c8ca16f897928cd",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Easy",
+    "question": "What assumption separates pure expectations theory from liquidity premium theory?",
+    "options": [
+      "Pure expectations omits a separate positive maturity premium",
+      "Pure expectations assumes all future short rates equal zero",
+      "Pure expectations ignores compounding",
+      "Pure expectations requires every curve to be inverted"
+    ],
+    "correct": 0,
+    "explanation": "Liquidity premium theory adds compensation for longer maturities.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "f8cf5fb12258cae7ca34cdfd05952616",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Medium",
+    "question": "Which yield curve tends to accompany expectations that short-term rates will fall?",
+    "options": [
+      "A curve that plots prices not yields",
+      "Downward-sloping/inverted",
+      "Steeply upward-sloping without exceptions",
+      "Perfectly vertical"
+    ],
+    "correct": 1,
+    "explanation": "An inverted yield curve can signal expectations of declining future short rates.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "65ee2ce33a619bfd15958d922fd94209",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Medium",
+    "question": "Why can longer Treasury yields exceed the geometric average of expected short rates under liquidity premium theory?",
+    "options": [
+      "Inflation must always be negative",
+      "All yields must equal the first-year spot yield",
+      "Investors require an additional term or liquidity premium",
+      "Credit default is guaranteed for Treasuries"
+    ],
+    "correct": 2,
+    "explanation": "Positive maturity premiums increase yields above pure expectation averages.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "a6dcef15e7643da3d0013f7336cedbeb",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Easy",
+    "question": "A bond is downgraded by a credit-rating agency. Holding the general rate environment fixed, what is the usual price implication?",
+    "options": [
+      "Price always increases",
+      "Coupon rate automatically increases",
+      "Maturity automatically shortens",
+      "Price decreases as required credit yield rises"
+    ],
+    "correct": 3,
+    "explanation": "A downgrade usually widens the credit spread, reducing price.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "997da634b2b32a5661c2026efdab00d8",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Medium",
+    "question": "Which input is required to infer a one-year forward rate beginning two years from now using annual compounding?",
+    "options": [
+      "Two-year and three-year zero-coupon spot yields",
+      "Only the current dividend yield",
+      "Coupon on one corporate bond",
+      "Only today’s overnight rate"
+    ],
+    "correct": 0,
+    "explanation": "The ratio of compounded three-year and two-year spot returns isolates the third-year forward rate.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "908f678af938e6a303b257c7f36e9c70",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Medium",
+    "question": "Which combination best describes a corporate bond yield spread?",
+    "options": [
+      "The bond’s annual coupon dollars",
+      "Yield above a comparable reference Treasury",
+      "The difference between its coupon rate and face value",
+      "A shareholder dividend adjustment"
+    ],
+    "correct": 1,
+    "explanation": "Credit spreads compare required yields on similar-maturity credit and benchmark debt.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "eaf3f858f2e6a1d48ce68cb554c5373a",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Medium",
+    "question": "Use your FIN421 professor’s breakeven inflation convention (nominal Treasury yield − TIPS yield + 0.50 percentage points). A nominal Treasury yields 4.60% and a TIPS yields 1.70%. What is breakeven inflation? Round to two decimals.",
+    "options": [
+      "6.30%",
+      "3.90%",
+      "3.40%",
+      "2.90%"
+    ],
+    "correct": 2,
+    "explanation": "4.60% − 1.70% + 0.50% = 3.40%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "499ce7c14c0de5e52184e8a8f357f50f",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Medium",
+    "question": "Use your FIN421 professor’s breakeven inflation convention (nominal Treasury yield − TIPS yield + 0.50 percentage points). A nominal Treasury yields 5.05% and a TIPS yields 1.92%. What is breakeven inflation? Round to two decimals.",
+    "options": [
+      "3.13%",
+      "6.97%",
+      "4.13%",
+      "3.63%"
+    ],
+    "correct": 3,
+    "explanation": "5.05% − 1.92% + 0.50% = 3.63%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "2826de0f9e2d69a2424604881bf95203",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Medium",
+    "question": "Use your FIN421 professor’s breakeven inflation convention (nominal Treasury yield − TIPS yield + 0.50 percentage points). A nominal Treasury yields 5.50% and a TIPS yields 2.14%. What is breakeven inflation? Round to two decimals.",
+    "options": [
+      "3.86%",
+      "3.36%",
+      "7.64%",
+      "4.36%"
+    ],
+    "correct": 0,
+    "explanation": "5.50% − 2.14% + 0.50% = 3.86%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "d8d02d73fb72165e7101a7826a4fdd44",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Medium",
+    "question": "Use your FIN421 professor’s breakeven inflation convention (nominal Treasury yield − TIPS yield + 0.50 percentage points). A nominal Treasury yields 5.95% and a TIPS yields 2.36%. What is breakeven inflation? Round to two decimals.",
+    "options": [
+      "4.59%",
+      "4.09%",
+      "3.59%",
+      "8.31%"
+    ],
+    "correct": 1,
+    "explanation": "5.95% − 2.36% + 0.50% = 4.09%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "4e1d331c2f60c6dec787f188bb7e783f",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Medium",
+    "question": "Use your FIN421 professor’s breakeven inflation convention (nominal Treasury yield − TIPS yield + 0.50 percentage points). A nominal Treasury yields 6.40% and a TIPS yields 2.58%. What is breakeven inflation? Round to two decimals.",
+    "options": [
+      "8.98%",
+      "4.82%",
+      "4.32%",
+      "3.82%"
+    ],
+    "correct": 2,
+    "explanation": "6.40% − 2.58% + 0.50% = 4.32%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "23fd3cf4697e68583f5217e1c854b4ea",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "Find the price of a $1,000 par bond with a 4.0% annual coupon, 3 years to maturity, and 6.0% annual YTM. Round to cents.",
+    "options": [
+      "$991.54",
+      "$901.54",
+      "$1,000.00",
+      "$946.54"
+    ],
+    "correct": 3,
+    "explanation": "P = Σ(40/(1+0.0600)^t), t=1 to 3, plus 1000/(1+0.0600)^3 = $946.54.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "2c5b9b659fc2818a773d9705e787d0bb",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "Find the price of a $1,000 par bond with a 5.0% annual coupon, 4 years to maturity, and 6.5% annual YTM. Round to cents.",
+    "options": [
+      "$948.61",
+      "$993.61",
+      "$903.61",
+      "$1,000.00"
+    ],
+    "correct": 0,
+    "explanation": "P = Σ(50/(1+0.0650)^t), t=1 to 4, plus 1000/(1+0.0650)^4 = $948.61.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "2b529c4f3fd54fc7ec76588a17d70d8d",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "Find the price of a $1,000 par bond with a 6.0% annual coupon, 5 years to maturity, and 7.0% annual YTM. Round to cents.",
+    "options": [
+      "$1,000.00",
+      "$959.00",
+      "$1,004.00",
+      "$914.00"
+    ],
+    "correct": 1,
+    "explanation": "P = Σ(60/(1+0.0700)^t), t=1 to 5, plus 1000/(1+0.0700)^5 = $959.00.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "e2aa743636f8dbf22145ecab09b8a6f5",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "Find the price of a $1,000 par bond with a 7.0% annual coupon, 6 years to maturity, and 7.5% annual YTM. Round to cents.",
+    "options": [
+      "$931.53",
+      "$1,000.00",
+      "$976.53",
+      "$1,021.53"
+    ],
+    "correct": 2,
+    "explanation": "P = Σ(70/(1+0.0750)^t), t=1 to 6, plus 1000/(1+0.0750)^6 = $976.53.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "0d7331822c8c31306d254093537be69e",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "Find the price of a $1,000 par bond with a 8.0% annual coupon, 7 years to maturity, and 8.0% annual YTM. Round to cents.",
+    "options": [
+      "$1,045.00",
+      "$955.00",
+      "$1,075.00",
+      "$1,000.00"
+    ],
+    "correct": 3,
+    "explanation": "P = Σ(80/(1+0.0800)^t), t=1 to 7, plus 1000/(1+0.0800)^7 = $1,000.00.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "87c296a649f9083144cd2d9c630fed64",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "A $1,000 bond pays 5.0% coupons semiannually and matures in 4 years. Its nominal annual YTM is 5.0% compounded semiannually. What is its price? Round to cents.",
+    "options": [
+      "$1,000.00",
+      "$1,035.00",
+      "$965.00",
+      "$1,075.00"
+    ],
+    "correct": 0,
+    "explanation": "Use 8 periods, coupon $25.00 per half-year, period yield 0.02500. PV of coupons and $1,000 principal is $1,000.00.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "1308b7e09b370aebce5aca53ea3b8e04",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "A $1,000 bond pays 6.0% coupons semiannually and matures in 5 years. Its nominal annual YTM is 5.5% compounded semiannually. What is its price? Round to cents.",
+    "options": [
+      "$1,000.00",
+      "$1,021.60",
+      "$1,056.60",
+      "$986.60"
+    ],
+    "correct": 1,
+    "explanation": "Use 10 periods, coupon $30.00 per half-year, period yield 0.02750. PV of coupons and $1,000 principal is $1,021.60.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "447ff8cfa26abd3f524edafc3caf3902",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "A $1,000 bond pays 7.0% coupons semiannually and matures in 6 years. Its nominal annual YTM is 6.0% compounded semiannually. What is its price? Round to cents.",
+    "options": [
+      "$1,014.77",
+      "$1,000.00",
+      "$1,049.77",
+      "$1,084.77"
+    ],
+    "correct": 2,
+    "explanation": "Use 12 periods, coupon $35.00 per half-year, period yield 0.03000. PV of coupons and $1,000 principal is $1,049.77.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "9ac90fc7594af619711c0441c6efc459",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "A $1,000 bond pays 8.0% coupons semiannually and matures in 7 years. Its nominal annual YTM is 6.5% compounded semiannually. What is its price? Round to cents.",
+    "options": [
+      "$1,118.29",
+      "$1,048.29",
+      "$1,000.00",
+      "$1,083.29"
+    ],
+    "correct": 3,
+    "explanation": "Use 14 periods, coupon $40.00 per half-year, period yield 0.03250. PV of coupons and $1,000 principal is $1,083.29.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "e49a66b39f4034e5431964781d133f70",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "A $1,000 bond pays 9.0% coupons semiannually and matures in 8 years. Its nominal annual YTM is 7.0% compounded semiannually. What is its price? Round to cents.",
+    "options": [
+      "$1,120.94",
+      "$1,155.94",
+      "$1,085.94",
+      "$1,000.00"
+    ],
+    "correct": 0,
+    "explanation": "Use 16 periods, coupon $45.00 per half-year, period yield 0.03500. PV of coupons and $1,000 principal is $1,120.94.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "d0638c3847e3f3b0284852bcc34d8f9b",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Medium",
+    "question": "Price a $1,000 zero-coupon bond with 4 years left and a 4.0% annual yield. Round to cents.",
+    "options": [
+      "$821.93",
+      "$854.80",
+      "$889.00",
+      "$862.07"
+    ],
+    "correct": 1,
+    "explanation": "Zero-coupon price = 1000/(1+0.0400)^4 = $854.80.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "e96fe862cc9710247ef18d89203b9772",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Medium",
+    "question": "Price a $1,000 zero-coupon bond with 5 years left and a 4.5% annual yield. Round to cents.",
+    "options": [
+      "$816.33",
+      "$767.90",
+      "$802.45",
+      "$838.56"
+    ],
+    "correct": 2,
+    "explanation": "Zero-coupon price = 1000/(1+0.0450)^5 = $802.45.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "a22092ba74d86fceb58e983b9ba0936e",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Medium",
+    "question": "Price a $1,000 zero-coupon bond with 6 years left and a 5.0% annual yield. Round to cents.",
+    "options": [
+      "$783.53",
+      "$769.23",
+      "$710.68",
+      "$746.22"
+    ],
+    "correct": 3,
+    "explanation": "Zero-coupon price = 1000/(1+0.0500)^6 = $746.22.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "6597ef7454286d2dd7a062042e2b9c9c",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Medium",
+    "question": "Price a $1,000 zero-coupon bond with 7 years left and a 5.5% annual yield. Round to cents.",
+    "options": [
+      "$687.44",
+      "$725.25",
+      "$722.02",
+      "$651.60"
+    ],
+    "correct": 0,
+    "explanation": "Zero-coupon price = 1000/(1+0.0550)^7 = $687.44.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "6d1cdff0bc4672c3646162227e30c977",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Medium",
+    "question": "Price a $1,000 zero-coupon bond with 8 years left and a 6.0% annual yield. Round to cents.",
+    "options": [
+      "$591.90",
+      "$627.41",
+      "$665.06",
+      "$675.68"
+    ],
+    "correct": 1,
+    "explanation": "Zero-coupon price = 1000/(1+0.0600)^8 = $627.41.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "72255955670043127fa7738c21897873",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "A bond has Macaulay duration 4.5 years and YTM 4.0% with annual compounding. Estimate its percentage price change for a yield change of +0.50 percentage points using modified duration. Round to two decimals.",
+    "options": [
+      "-2.25%",
+      "-4.33%",
+      "-2.16%",
+      "+2.16%"
+    ],
+    "correct": 2,
+    "explanation": "Modified duration = 4.5/(1+0.040) = 4.326923. Estimated ΔP/P = −4.326923×(+0.0050) = -2.16%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "4ef192a907f2027365c6159fc8274223",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "A bond has Macaulay duration 5.0 years and YTM 4.5% with annual compounding. Estimate its percentage price change for a yield change of -1.00 percentage points using modified duration. Round to two decimals.",
+    "options": [
+      "-4.78%",
+      "+5.00%",
+      "+9.57%",
+      "+4.78%"
+    ],
+    "correct": 3,
+    "explanation": "Modified duration = 5.0/(1+0.045) = 4.784689. Estimated ΔP/P = −4.784689×(-0.0100) = +4.78%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "3adfe3b168009b8c5741824167586577",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "A bond has Macaulay duration 5.5 years and YTM 5.0% with annual compounding. Estimate its percentage price change for a yield change of +0.50 percentage points using modified duration. Round to two decimals.",
+    "options": [
+      "-2.62%",
+      "+2.62%",
+      "-2.75%",
+      "-5.24%"
+    ],
+    "correct": 0,
+    "explanation": "Modified duration = 5.5/(1+0.050) = 5.238095. Estimated ΔP/P = −5.238095×(+0.0050) = -2.62%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "f2e5cef7a09d11cea3d6cd9d5a5eb1c1",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "A bond has Macaulay duration 6.0 years and YTM 5.5% with annual compounding. Estimate its percentage price change for a yield change of -1.00 percentage points using modified duration. Round to two decimals.",
+    "options": [
+      "+11.37%",
+      "+5.69%",
+      "-5.69%",
+      "+6.00%"
+    ],
+    "correct": 1,
+    "explanation": "Modified duration = 6.0/(1+0.055) = 5.687204. Estimated ΔP/P = −5.687204×(-0.0100) = +5.69%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "b586e0d8f6febf5f79f674daba39464f",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "A bond has Macaulay duration 6.5 years and YTM 6.0% with annual compounding. Estimate its percentage price change for a yield change of +0.50 percentage points using modified duration. Round to two decimals.",
+    "options": [
+      "-3.25%",
+      "-6.13%",
+      "-3.07%",
+      "+3.07%"
+    ],
+    "correct": 2,
+    "explanation": "Modified duration = 6.5/(1+0.060) = 6.132075. Estimated ΔP/P = −6.132075×(+0.0050) = -3.07%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "c801380ffd72ae6e32da9cf4b8eb0229",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Hard",
+    "question": "Under annual compounding, a one-year zero-coupon spot yield is 3.00% and a two-year spot yield is 4.00%. What is the one-year forward rate beginning in year 1? Round to two decimals.",
+    "options": [
+      "5.00%",
+      "4.00%",
+      "3.00%",
+      "5.01%"
+    ],
+    "correct": 3,
+    "explanation": "f₁,₁ = ((1+0.0400)²/(1+0.0300))−1 = 5.01%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "4b15248d1295489a31aa6277471c5589",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Hard",
+    "question": "Under annual compounding, a one-year zero-coupon spot yield is 3.40% and a two-year spot yield is 4.30%. What is the one-year forward rate beginning in year 1? Round to two decimals.",
+    "options": [
+      "5.21%",
+      "5.20%",
+      "4.30%",
+      "3.40%"
+    ],
+    "correct": 0,
+    "explanation": "f₁,₁ = ((1+0.0430)²/(1+0.0340))−1 = 5.21%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "a82bb7f3d0097cd2782424d44fe5c29b",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Hard",
+    "question": "Under annual compounding, a one-year zero-coupon spot yield is 3.80% and a two-year spot yield is 4.60%. What is the one-year forward rate beginning in year 1? Round to two decimals.",
+    "options": [
+      "3.80%",
+      "5.41%",
+      "5.40%",
+      "4.60%"
+    ],
+    "correct": 1,
+    "explanation": "f₁,₁ = ((1+0.0460)²/(1+0.0380))−1 = 5.41%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "9eb572aae74d9092304f7985a8e20979",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Hard",
+    "question": "Under annual compounding, a one-year zero-coupon spot yield is 4.20% and a two-year spot yield is 4.90%. What is the one-year forward rate beginning in year 1? Round to two decimals.",
+    "options": [
+      "4.20%",
+      "6.44%",
+      "5.60%",
+      "4.90%"
+    ],
+    "correct": 2,
+    "explanation": "f₁,₁ = ((1+0.0490)²/(1+0.0420))−1 = 5.60%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "3ef7c771a5041191d73f72712c6310ad",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Hard",
+    "question": "Under annual compounding, a one-year zero-coupon spot yield is 4.60% and a two-year spot yield is 5.20%. What is the one-year forward rate beginning in year 1? Round to two decimals.",
+    "options": [
+      "5.20%",
+      "4.60%",
+      "6.67%",
+      "5.80%"
+    ],
+    "correct": 3,
+    "explanation": "f₁,₁ = ((1+0.0520)²/(1+0.0460))−1 = 5.80%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "1cb206c9248d31fc0307aad4ce3bf9bb",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Hard",
+    "question": "The two-year spot rate is 3.50%, and the three-year spot rate is 4.20%, both annually compounded. Find the one-year forward rate beginning two years from now, rounded to two decimals.",
+    "options": [
+      "5.61%",
+      "5.60%",
+      "4.20%",
+      "3.50%"
+    ],
+    "correct": 0,
+    "explanation": "Forward rate = (1+0.04200)³/(1+0.03500)² − 1 = 5.61%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "cc84d3141d0acc155e540401f236fcd7",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Hard",
+    "question": "The two-year spot rate is 3.70%, and the three-year spot rate is 4.45%, both annually compounded. Find the one-year forward rate beginning two years from now, rounded to two decimals.",
+    "options": [
+      "3.70%",
+      "5.97%",
+      "5.95%",
+      "4.45%"
+    ],
+    "correct": 1,
+    "explanation": "Forward rate = (1+0.04450)³/(1+0.03700)² − 1 = 5.97%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "708a6286e64b31c2e1b48e7e9d55852b",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Hard",
+    "question": "The two-year spot rate is 3.90%, and the three-year spot rate is 4.70%, both annually compounded. Find the one-year forward rate beginning two years from now, rounded to two decimals.",
+    "options": [
+      "4.70%",
+      "3.90%",
+      "6.32%",
+      "6.30%"
+    ],
+    "correct": 2,
+    "explanation": "Forward rate = (1+0.04700)³/(1+0.03900)² − 1 = 6.32%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "b4d8307a0379dde86e4a21c2f85c3569",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Hard",
+    "question": "The two-year spot rate is 4.10%, and the three-year spot rate is 4.95%, both annually compounded. Find the one-year forward rate beginning two years from now, rounded to two decimals.",
+    "options": [
+      "6.65%",
+      "4.95%",
+      "4.10%",
+      "6.67%"
+    ],
+    "correct": 3,
+    "explanation": "Forward rate = (1+0.04950)³/(1+0.04100)² − 1 = 6.67%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "5358c1d9dc5beb2ae760e7b600f09ffa",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Hard",
+    "question": "The two-year spot rate is 4.30%, and the three-year spot rate is 5.20%, both annually compounded. Find the one-year forward rate beginning two years from now, rounded to two decimals.",
+    "options": [
+      "7.02%",
+      "7.00%",
+      "5.20%",
+      "4.30%"
+    ],
+    "correct": 0,
+    "explanation": "Forward rate = (1+0.05200)³/(1+0.04300)² − 1 = 7.02%.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "4994a79bc32571f9b1fbac377d583e76",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Hard",
+    "question": "The spot quote is $0.0062 per foreign-currency unit (FCU). One-year USD interest is 4.50% and FCU interest is 2.50%. Under covered interest parity, what is the 1-year forward quote ($/FCU)? Round to six decimals.",
+    "options": [
+      "$0.006324/FCU",
+      "$0.006321/FCU",
+      "$0.006081/FCU",
+      "$0.006200/FCU"
+    ],
+    "correct": 1,
+    "explanation": "F = S × (1+i_US)/(1+i_FCU) = 0.0062 × 1.04500/1.02500 = $0.006321/FCU.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "4a9e0e8887184f88be7cf22355f2029d",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Hard",
+    "question": "The spot quote is $0.0064 per foreign-currency unit (FCU). One-year USD interest is 4.80% and FCU interest is 2.70%. Under covered interest parity, what is the 1-year forward quote ($/FCU)? Round to six decimals.",
+    "options": [
+      "$0.006400/FCU",
+      "$0.006534/FCU",
+      "$0.006531/FCU",
+      "$0.006272/FCU"
+    ],
+    "correct": 2,
+    "explanation": "F = S × (1+i_US)/(1+i_FCU) = 0.0064 × 1.04800/1.02700 = $0.006531/FCU.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "80fc78a6115797b2bdfd37f279ecd1b6",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Hard",
+    "question": "The spot quote is $0.0066 per foreign-currency unit (FCU). One-year USD interest is 5.10% and FCU interest is 2.90%. Under covered interest parity, what is the 1-year forward quote ($/FCU)? Round to six decimals.",
+    "options": [
+      "$0.006462/FCU",
+      "$0.006600/FCU",
+      "$0.006745/FCU",
+      "$0.006741/FCU"
+    ],
+    "correct": 3,
+    "explanation": "F = S × (1+i_US)/(1+i_FCU) = 0.0066 × 1.05100/1.02900 = $0.006741/FCU.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "d56aef620e6eef0a6ed2bc236cdd9dea",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Hard",
+    "question": "The spot quote is $0.0068 per foreign-currency unit (FCU). One-year USD interest is 5.40% and FCU interest is 3.10%. Under covered interest parity, what is the 1-year forward quote ($/FCU)? Round to six decimals.",
+    "options": [
+      "$0.006952/FCU",
+      "$0.006652/FCU",
+      "$0.006800/FCU",
+      "$0.006956/FCU"
+    ],
+    "correct": 0,
+    "explanation": "F = S × (1+i_US)/(1+i_FCU) = 0.0068 × 1.05400/1.03100 = $0.006952/FCU.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "2ac84e5846c2a3cc51f263d7c8fce680",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Hard",
+    "question": "The spot quote is $0.0070 per foreign-currency unit (FCU). One-year USD interest is 5.70% and FCU interest is 3.30%. Under covered interest parity, what is the 1-year forward quote ($/FCU)? Round to six decimals.",
+    "options": [
+      "$0.007168/FCU",
+      "$0.007163/FCU",
+      "$0.006841/FCU",
+      "$0.007000/FCU"
+    ],
+    "correct": 1,
+    "explanation": "F = S × (1+i_US)/(1+i_FCU) = 0.0070 × 1.05700/1.03300 = $0.007163/FCU.",
+    "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
   }
 ]
