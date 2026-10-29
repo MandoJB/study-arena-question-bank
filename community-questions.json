@@ -1,0 +1,642 @@
+[
+  {
+    "id": "a7d71299768056730bb3cc61748fefc2",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Easy",
+    "question": "Which interest rate measures the change in purchasing power after accounting for inflation?",
+    "options": [
+      "Nominal interest rate",
+      "Real interest rate",
+      "Coupon rate",
+      "Forward exchange rate"
+    ],
+    "correct": 1,
+    "explanation": "The real interest rate adjusts nominal returns for inflation.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "672fddb8a001eabb6a40a6d3633f71d0",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Medium",
+    "question": "A one-year investment has a 7.50% nominal return and expected inflation of 3.00%. Using the exact Fisher relation, what is the implied real interest rate? Round to two decimals.",
+    "options": [
+      "4.50%",
+      "4.37%",
+      "4.64%",
+      "10.73%"
+    ],
+    "correct": 1,
+    "explanation": "(1.075/1.03)-1 = 4.3689%, or 4.37%.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "19474489087d3aa8fa6b87f3c0923935",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Easy",
+    "question": "If expected inflation rises while the real interest rate is unchanged, the Fisher effect predicts that the nominal interest rate will generally:",
+    "options": [
+      "Decrease",
+      "Remain unchanged",
+      "Increase",
+      "Become negative"
+    ],
+    "correct": 2,
+    "explanation": "The nominal rate incorporates expected inflation under the Fisher relationship.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "bd18aac0818b92efffc1d0b87f7906e6",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Medium",
+    "question": "A nominal Treasury yields 4.80%, and a same-maturity TIPS yields 1.70%. What is the approximate breakeven inflation rate?",
+    "options": [
+      "6.50%",
+      "3.10%",
+      "2.82%",
+      "1.70%"
+    ],
+    "correct": 1,
+    "explanation": "Approximate breakeven inflation = nominal Treasury yield minus TIPS real yield = 4.80% − 1.70% = 3.10%.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "1e8032b067f978176d405a62cbcbf7f1",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Medium",
+    "question": "A TIPS bond has an original principal of $1,000 and a 2.00% annual coupon rate. Its inflation-adjusted principal rises to $1,040. What is its next annual coupon payment?",
+    "options": [
+      "$20.00",
+      "$20.40",
+      "$20.80",
+      "$40.00"
+    ],
+    "correct": 2,
+    "explanation": "Coupon = 2.00% × $1,040 inflation-adjusted principal = $20.80.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "7274a72e52138c4305dfd6133a3f65fb",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Easy",
+    "question": "An unexpected surge in inflation on an existing fixed-rate loan generally:",
+    "options": [
+      "Benefits the lender by raising real payments",
+      "Benefits the borrower by reducing the real value of payments",
+      "Leaves both sides unaffected",
+      "Raises the contracted nominal coupon automatically"
+    ],
+    "correct": 1,
+    "explanation": "Unanticipated inflation reduces the purchasing power of fixed nominal repayments, benefiting borrowers relative to lenders.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "99ec901ce61f9c33d89bf28d1bef4697",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Medium",
+    "question": "Under loanable funds theory, holding demand constant, an increase in the supply of loanable funds tends to:",
+    "options": [
+      "Raise the equilibrium real rate",
+      "Lower the equilibrium real rate",
+      "Raise inflation automatically by the same amount",
+      "Eliminate the need for borrowing"
+    ],
+    "correct": 1,
+    "explanation": "More loanable funds supplied at each rate push the equilibrium interest rate downward, other things equal.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "4c4ffe4f2d9f00fcc41fcf4a8790ed44",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Hard",
+    "question": "A market quotes the spot exchange rate as $0.0080 per yen. One-year U.S. interest is 5% and Japanese interest is 2%. Using covered interest parity, what is the one-year forward rate in dollars per yen? Round to six decimals.",
+    "options": [
+      "$0.008235",
+      "$0.007771",
+      "$0.008000",
+      "$0.008480"
+    ],
+    "correct": 0,
+    "explanation": "F = S × (1+i_US)/(1+i_JP) = 0.008 × 1.05/1.02 = 0.008235294, or $0.008235 per yen.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "3dbc4eead6b7011c418f82628a50a45a",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Medium",
+    "question": "What best describes interest rate parity?",
+    "options": [
+      "Bond prices equal par value in every country",
+      "Forward exchange rates adjust for differences in comparable interest rates under covered no-arbitrage",
+      "Inflation is identical in all currencies",
+      "Spot and forward rates must always equal"
+    ],
+    "correct": 1,
+    "explanation": "Covered interest parity relates forward premiums or discounts to interest-rate differences.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "03627a50591c0987dfa4b32281379d1d",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Easy",
+    "question": "A floating-rate bond resets its coupon to a reference interest rate. Compared with an otherwise similar fixed-rate bond, it typically has:",
+    "options": [
+      "Greater price sensitivity to changes in benchmark interest rates",
+      "Lower price sensitivity around reset dates",
+      "No credit risk",
+      "A permanently fixed coupon"
+    ],
+    "correct": 1,
+    "explanation": "Periodic coupon resets usually reduce the floating-rate bond’s exposure to interest rate changes.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "bf75057d2a9b13c36fb0c4f148dd859f",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Hard",
+    "question": "The expected real interest rate is 2.5% and expected inflation is 4.0%. Using the exact Fisher equation, what is the nominal rate?",
+    "options": [
+      "6.50%",
+      "6.60%",
+      "1.46%",
+      "6.40%"
+    ],
+    "correct": 1,
+    "explanation": "(1.025)(1.04) − 1 = 0.066 = 6.60%.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "b178fc9dbcfd6191f15b172f3d35be89",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Medium",
+    "question": "Which statement about nominal and real interest rates is most accurate?",
+    "options": [
+      "The nominal rate adjusts automatically for realized inflation",
+      "The nominal rate is the quoted rate; real rate reflects purchasing-power change",
+      "Real rates are always positive",
+      "Nominal and real rates coincide only when no bonds are issued"
+    ],
+    "correct": 1,
+    "explanation": "The observed or quoted rate is nominal; the real rate adjusts for inflation.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "6c69964d64e5c8124061a114a633dba8",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Hard",
+    "question": "Assume the spot rate is $0.7500 per foreign currency unit, U.S. one-year rate 4%, and foreign one-year rate 6%. Under interest rate parity, what forward rate should prevail? Round to four decimals.",
+    "options": [
+      "$0.7642",
+      "$0.7358",
+      "$0.7500",
+      "$0.7788"
+    ],
+    "correct": 1,
+    "explanation": "F = 0.75 × 1.04/1.06 = 0.73584906, or $0.7358.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "960bcff8f075d2168900ac39755e07ed",
+    "course": "FIN421",
+    "chapter": "4",
+    "difficulty": "Medium",
+    "question": "Which observation is most consistent with a higher demand for loanable funds while supply remains fixed?",
+    "options": [
+      "Lower equilibrium interest rates and more funds lent",
+      "Higher equilibrium interest rates and more funds lent",
+      "Lower rates and less lending",
+      "No change in equilibrium rates"
+    ],
+    "correct": 1,
+    "explanation": "An outward shift in demand increases the equilibrium real interest rate and quantity lent.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "baa38dbb5dfcb991baf5feb4630549ff",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Easy",
+    "question": "A bond pays an annual coupon of $60 on $1,000 face value. Its coupon rate is:",
+    "options": [
+      "5%",
+      "6%",
+      "6.4%",
+      "60%"
+    ],
+    "correct": 1,
+    "explanation": "Annual coupon rate = $60/$1,000 = 6%.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "3b1fc1eb021dcf621caba8ff951ad711",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Medium",
+    "question": "A $1,000 face-value bond has a 5% annual coupon and yield to maturity of 7%. Its market price should be:",
+    "options": [
+      "Exactly $1,000",
+      "Above $1,000",
+      "Below $1,000",
+      "Exactly $950 in every maturity"
+    ],
+    "correct": 2,
+    "explanation": "A bond whose coupon rate is below its required yield sells at a discount.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "3950f185839664bf0001c0eedf0689de",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "Price a $1,000 face-value bond with 3 years remaining, 6% ANNUAL coupons, and 8% annual yield. Round to cents.",
+    "options": [
+      "$948.46",
+      "$1,000.00",
+      "$951.54",
+      "$1,051.54"
+    ],
+    "correct": 0,
+    "explanation": "P = 60/1.08 + 60/1.08² + 1,060/1.08³ = $948.46.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "2deeac1d03cd4d9ca08f95e564f5f46f",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Medium",
+    "question": "A $1,000 face-value bond pays 8% coupons semiannually. What is each coupon payment?",
+    "options": [
+      "$80",
+      "$40",
+      "$8",
+      "$160"
+    ],
+    "correct": 1,
+    "explanation": "Each six-month coupon = $1,000 × 8% / 2 = $40.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "37e1a985b58b2561bf24f6ccdf1af30c",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "Find the price of a $1,000 face-value 2-year bond paying 8% coupons SEMIANNUALLY with an annual quoted YTM of 6%, compounded semiannually. Round to cents.",
+    "options": [
+      "$1,037.17",
+      "$1,000.00",
+      "$1,034.65",
+      "$965.35"
+    ],
+    "correct": 0,
+    "explanation": "Four coupons of $40 are discounted at 3% per six months: 40×(1−1.03^−4)/0.03 + 1,000/1.03⁴ = $1,037.17.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "f89b6000e9b851550d7bef5d6cb9fdb4",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Easy",
+    "question": "When market yields rise unexpectedly, the price of an existing fixed-rate bond generally:",
+    "options": [
+      "Rises",
+      "Falls",
+      "Stays at face value",
+      "Becomes equal to its coupon"
+    ],
+    "correct": 1,
+    "explanation": "Discounting fixed future cash flows at higher yields reduces their present value.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "aa19a22135760742f7daba4ab30aead9",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "A zero-coupon bond pays $1,000 at maturity in 5 years. If its annual yield is 6%, what is its price today? Round to cents.",
+    "options": [
+      "$747.26",
+      "$1,300.00",
+      "$792.09",
+      "$943.40"
+    ],
+    "correct": 0,
+    "explanation": "P = 1,000/(1.06)^5 = $747.26.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "df102a874b1f5ca1e007e00c8aeec98f",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Medium",
+    "question": "Which bond ordinarily has greater interest-rate sensitivity, all else equal?",
+    "options": [
+      "A 3-year zero-coupon bond",
+      "A 15-year zero-coupon bond",
+      "A 3-year high-coupon bond",
+      "A floating-rate note that resets tomorrow"
+    ],
+    "correct": 1,
+    "explanation": "A longer maturity zero-coupon bond has greater duration and typically greater price sensitivity.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "e87e086507a286639f59141ff8dba9d4",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Medium",
+    "question": "What is the Macaulay duration of a 7-year ZERO-COUPON bond?",
+    "options": [
+      "Zero years",
+      "Less than one year",
+      "Seven years",
+      "Fourteen years"
+    ],
+    "correct": 2,
+    "explanation": "A zero-coupon bond has one payment at maturity, so Macaulay duration equals its maturity.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "7e7f5dc388ce6fc1930219263d9b8af3",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "A bond has Macaulay duration of 6 years and annual yield of 5%. What is its modified duration under annual compounding? Round to four decimals.",
+    "options": [
+      "6.3000",
+      "5.7143",
+      "6.0000",
+      "5.9500"
+    ],
+    "correct": 1,
+    "explanation": "Modified duration = 6/(1.05) = 5.7142857, or 5.7143.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "fcc5c24da72d4e4b85cde2c90eb9172e",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Medium",
+    "question": "A portfolio manager wants to reduce the sensitivity of assets and liabilities to changes in interest rates. Which technique is most directly related?",
+    "options": [
+      "Duration matching",
+      "Increasing bid-ask spreads",
+      "Ignoring bond maturity",
+      "Buying only low-rated bonds"
+    ],
+    "correct": 0,
+    "explanation": "Duration matching aligns asset and liability sensitivity to yield changes.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "5aff781d0065cc93df4fd961573f5883",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Medium",
+    "question": "A callable bond can be redeemed early by the issuer. The investor is particularly exposed to which risk when market rates decline?",
+    "options": [
+      "Greater certainty of receiving all future coupons",
+      "Reinvestment risk after a call",
+      "Guaranteed capital gains",
+      "Elimination of interest-rate risk"
+    ],
+    "correct": 1,
+    "explanation": "The issuer may call an expensive coupon bond, forcing the investor to reinvest at lower prevailing rates.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "578a51092f45a66acab34e1d4ece11b7",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Hard",
+    "question": "A bond is priced at $940 and pays a $1,000 face value plus a $50 coupon in one year. What is its one-year yield to maturity? Round to two decimals.",
+    "options": [
+      "5.32%",
+      "11.70%",
+      "6.38%",
+      "10.00%"
+    ],
+    "correct": 1,
+    "explanation": "YTM = ($1,050/$940) − 1 = 11.7021%, or 11.70%.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "86d66bb521fb712db0557ed4cce20c7c",
+    "course": "FIN421",
+    "chapter": "5",
+    "difficulty": "Medium",
+    "question": "Why does positive convexity generally matter for ordinary noncallable bonds?",
+    "options": [
+      "It means bond price moves up when yields rise",
+      "The price-yield relationship is curved; duration-only estimates become less precise for larger yield changes",
+      "It guarantees zero default risk",
+      "It makes duration equal maturity for coupon bonds"
+    ],
+    "correct": 1,
+    "explanation": "Positive convexity means the price-yield curve bends; second-order effects become important for larger rate moves.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "885a75a547bd1c0d2498cd26a11808de",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Easy",
+    "question": "What does a yield curve principally show?",
+    "options": [
+      "Bond yield versus maturity for otherwise comparable securities",
+      "Corporate earnings versus sales",
+      "Spot exchange rates against foreign rates",
+      "Coupon rate versus bond rating for one issuer"
+    ],
+    "correct": 0,
+    "explanation": "The term structure plots yields against maturity with other bond characteristics held comparable.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "f9dbb3be7994ac2c7eedde26698b6c63",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Medium",
+    "question": "An inverted Treasury yield curve commonly suggests:",
+    "options": [
+      "Higher long-term than short-term yields",
+      "Possible slower economic activity or recession expectations",
+      "No relationship to market expectations",
+      "All Treasury securities are in default"
+    ],
+    "correct": 1,
+    "explanation": "Inverted curves often accompany expectations of lower future short-term rates and slower economic growth.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "525b44bc7f193801a382447f1bed6057",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Easy",
+    "question": "Under the pure expectations theory, long-term yields are related to:",
+    "options": [
+      "Expected future short-term rates",
+      "Only expected issuer default",
+      "Only current stock dividends",
+      "Only bond trading fees"
+    ],
+    "correct": 0,
+    "explanation": "Expectations theory connects longer rates to expected sequences of future short rates.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "9172f27f42e96bd619279b6e8680fce2",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Medium",
+    "question": "What is the main distinction of liquidity premium theory relative to pure expectations theory?",
+    "options": [
+      "Long-term rates include a maturity/liquidity premium in addition to expected short-term rates",
+      "Future short-term rates never matter",
+      "Term premiums must be negative",
+      "The yield curve must always be inverted"
+    ],
+    "correct": 0,
+    "explanation": "Liquidity premium theory allows an extra positive return for holding less-liquid or longer-term bonds.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "b135577fbbfbf2ac1d9f6d39a745ef57",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Hard",
+    "question": "The 1-year spot rate is 4% and the 2-year spot rate is 5%, with annual compounding. What 1-year forward rate starts one year from now? Round to two decimals.",
+    "options": [
+      "5.00%",
+      "6.01%",
+      "4.50%",
+      "9.00%"
+    ],
+    "correct": 1,
+    "explanation": "f1,1 = (1.05²/1.04)−1 = 6.009615%, or 6.01%.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "1d4018deffa58d482e3e14de18ade3f5",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Hard",
+    "question": "A 2-year spot yield is 3% and a 3-year spot yield is 4%, annually compounded. What is the implied 1-year forward rate beginning two years from today? Round to two decimals.",
+    "options": [
+      "5.00%",
+      "6.03%",
+      "4.67%",
+      "3.50%"
+    ],
+    "correct": 1,
+    "explanation": "f2,1 = 1.04³/1.03² − 1 = 6.029220%, or 6.03%.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "deef0a53168f4ee8419ee0dae49acbe1",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Hard",
+    "question": "The 1-year spot rate is 3%, the 1-year forward rate one year from now is 4%, and the 1-year forward rate two years from now is 5%. What is the 3-year spot rate? Round to two decimals.",
+    "options": [
+      "3.85%",
+      "4.00%",
+      "12.00%",
+      "3.50%"
+    ],
+    "correct": 1,
+    "explanation": "3-year spot = (1.03 × 1.04 × 1.05)^(1/3) − 1 = 3.99679477%, or 4.00%.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "f0882d1fd33f7ba063e1434bdb82ec6b",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Medium",
+    "question": "Compared with a Treasury bond of similar maturity, why might a lower-rated corporate bond yield more?",
+    "options": [
+      "It has a lower chance of default",
+      "Investors require compensation for greater credit risk",
+      "The coupon rate always equals the inflation rate",
+      "Lower ratings imply lower required returns"
+    ],
+    "correct": 1,
+    "explanation": "Higher default risk typically commands a credit spread over comparable Treasuries.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "7e313b8cd7565d7acbe66901b242cd99",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Medium",
+    "question": "Which statement about bond ratings is most accurate?",
+    "options": [
+      "They estimate credit/default risk, not the exact future path of market yields",
+      "They guarantee principal will be repaid",
+      "They measure only interest-rate duration",
+      "They indicate a bond can never be downgraded"
+    ],
+    "correct": 0,
+    "explanation": "Ratings are opinions about creditworthiness and default risk, not guarantees.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "a59b1a3ff5c76765e082fbbea231f069",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Easy",
+    "question": "A flat Treasury yield curve indicates:",
+    "options": [
+      "Yields are roughly similar across different maturities",
+      "Long maturities always offer negative rates",
+      "Bond prices cannot change",
+      "All future short rates are exactly known"
+    ],
+    "correct": 0,
+    "explanation": "A flat curve has approximately equal yields across the plotted maturities.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "1236dbccdaa460d67b031916e7933170",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Medium",
+    "question": "Holding issuer and other characteristics fixed, which is a primary determinant of a bond yield spread?",
+    "options": [
+      "Maturity, tax treatment, marketability, and embedded options",
+      "The bond certificate font",
+      "The number of shares outstanding in an index",
+      "The investor’s brokerage app color"
+    ],
+    "correct": 0,
+    "explanation": "The class notes list maturity, default risk, taxation, marketability, and options among influences on yields.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  },
+  {
+    "id": "b9439c85d4a900ed1a33bbba4dedbc69",
+    "course": "FIN421",
+    "chapter": "6",
+    "difficulty": "Hard",
+    "question": "A 1-year zero-coupon Treasury yields 4% and a 2-year zero-coupon Treasury yields 4.5% annually. What is the implied 1-year forward rate beginning in one year? Round to two decimals.",
+    "options": [
+      "5.00%",
+      "4.50%",
+      "4.00%",
+      "5.50%"
+    ],
+    "correct": 0,
+    "explanation": "((1.045)^2/1.04)−1 = 5.0024%, which rounds to 5.00%.",
+    "source": "Original practice based on FIN421 Exam 2 study guide, slides, and formula sheet"
+  }
+]
