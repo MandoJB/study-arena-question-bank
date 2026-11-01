@@ -6414,5 +6414,1605 @@
     "correct": 0,
     "explanation": "P/E=(P/B)/ROE=2.40/0.15=16.00.",
     "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "346126a2071fd7fd9ad1a779655034db",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "For EVA comparison 3, ROC is 18% and WACC is 8%. How much EVA is generated per $1 of invested capital?",
+    "options": [
+      "0.10 per $1",
+      "0.11 per $1",
+      "0.12 per $1",
+      "0.09 per $1"
+    ],
+    "correct": 0,
+    "explanation": "EVA per dollar of invested capital=ROC−WACC=18%−8%=$0.10.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "d3c13836eeb41927bf71f1a2c74952c5",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "One-step call hedge 7: stock now $142, up-state $172, down-state $112, exercise price $137. What is the option hedge ratio (three decimals)?",
+    "options": [
+      "0.743",
+      "0.503",
+      "0.583",
+      "0.663"
+    ],
+    "correct": 2,
+    "explanation": "Up call payoff=$35; down payoff=$0. Hedge ratio=(payoff up−payoff down)/(stock up−stock down)=(35−0)/(172−112)=0.583.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "2922ba001473628cd63aa02eafe4ab13",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Trading payoff scenario 4: buy one standard 100-share put option contract, strike $84, premium $6 per share. At expiration the stock trades at $73. What is the position profit, after premium?",
+    "options": [
+      "$+1,700",
+      "$+1,100",
+      "$-500",
+      "$+500"
+    ],
+    "correct": 3,
+    "explanation": "Net contract profit = [max(X−S,0)−premium]×100=(11−6)×100=$+500.",
+    "source": "New variation based on FIN427 Exam 2 practice screenshots"
+  },
+  {
+    "id": "1be5a8d3b7c8cbb3ba3679bc37f90c60",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "Three-factor DuPont application 2: net profit margin=6.8%, asset turnover=1.8, equity multiplier=1.7. Compute ROE.",
+    "options": [
+      "23.81%",
+      "22.31%",
+      "20.81%",
+      "19.31%"
+    ],
+    "correct": 2,
+    "explanation": "ROE=net margin×asset turnover×equity multiplier=0.068×1.8×1.7=20.81%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "a7488a90186c823e9fe6bf5de85c57c2",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Five-factor DuPont case 1: tax burden=0.7, interest burden=0.6, EBIT/sales=10%, sales/assets=2, assets/equity=1.35. Estimate ROE.",
+    "options": [
+      "13.74%",
+      "12.54%",
+      "10.14%",
+      "11.34%"
+    ],
+    "correct": 3,
+    "explanation": "ROE=tax burden×interest burden×operating margin×asset turnover×leverage=0.7×0.6×0.1×2×1.35=11.34%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "6a00df0f3e16ac1835c551ca9166ee5b",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Valuation multiples case 1: a firm has an ROE of 20% and a market-to-book ratio of 3.00. Determine its P/E ratio.",
+    "options": [
+      "19.00 times",
+      "15.00 times",
+      "17.00 times",
+      "13.00 times"
+    ],
+    "correct": 1,
+    "explanation": "P/E=(P/B)/(earnings/book equity)=3/0.2=15.00.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "f7f8c6e6c04cb310d2e3754edb36f205",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Leverage return case 1: Operating ROA is 8%, D/E equals 2.2, the tax rate is 20%, and debt costs 9%. What is ROE?",
+    "options": [
+      "4.64%",
+      "6.04%",
+      "5.34%",
+      "3.94%"
+    ],
+    "correct": 0,
+    "explanation": "ROE=(1−0.20)×[8%+(8%−9%)×2.2]=4.64%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "f53e3fa73cf56e6aafedcf5907bde1bd",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "Financial statements mini-case 1: net income=$680m, common equity=$4200m. What is reported return on equity?",
+    "options": [
+      "19.59%",
+      "16.19%",
+      "14.49%",
+      "17.89%"
+    ],
+    "correct": 1,
+    "explanation": "ROE=net income/equity=680/4200=16.19%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "672bce982039a634798eaf042fe56398",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "EVA scenario 5: equity=$260 million, debt=$90 million, return on capital=12%, and cost of capital=7%. Find annual economic value added in $ millions.",
+    "options": [
+      "17.50 million",
+      "14.00 million",
+      "24.50 million",
+      "21.00 million"
+    ],
+    "correct": 0,
+    "explanation": "EVA=(ROC−cost of capital)×(equity+debt)=(5%)×$350m=$17.50m.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "2ed7766e6f6a67b4f23f29f3d6525255",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Which statement is correct for an American put compared with an otherwise identical European put?",
+    "options": [
+      "The American put is always worth less",
+      "The European put can be exercised before expiration",
+      "The American put can be exercised before expiration",
+      "The American put must always be exercised immediately"
+    ],
+    "correct": 2,
+    "explanation": "The American-style exercise right includes early exercise.",
+    "source": "New/modified conceptual question based on Chapter 16 slides and screenshots"
+  },
+  {
+    "id": "ddbbad976840c380bf53fcdce8561015",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "In a one-period replication approach, what discount factor is appropriate for a certain hedged payoff if 1+r=1.12?",
+    "options": [
+      "Multiply the payoff by 1.12",
+      "Divide the payoff by 0.12",
+      "Apply stock-state subjective probabilities without discounting",
+      "Divide the payoff by 1.12"
+    ],
+    "correct": 3,
+    "explanation": "A riskless terminal payoff is discounted at the risk-free gross growth factor 1+r.",
+    "source": "New/modified conceptual question based on Chapter 16 slides and screenshots"
+  },
+  {
+    "id": "6f8fc705bcd35655c71263a769285988",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "Common book equity case 3: 800 cumulative 10% preferred shares ($ 100 par), 20,000 common shares ($ 25 par), opening retained earnings $2,500,000, income $200,000, and no dividends paid. What is book value per common share after accounting for current preferred dividend arrears?",
+    "options": [
+      "158.10 per share",
+      "162.60 per share",
+      "159.60 per share",
+      "161.10 per share"
+    ],
+    "correct": 2,
+    "explanation": "Common book equity=common par capital+opening retained earnings+income−preferred dividend in arrears= $500,000+$2,500,000+$200,000−$8,000=$3,192,000; divide by 20,000 common shares.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "bc8f483993753bd117eb1b53a23cdbd4",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "Option premium study 3: a call has stock price $70, strike $79, and quoted premium $1.50. What is its intrinsic value per share?",
+    "options": [
+      "4.50 per share",
+      "0.00 per share",
+      "3.00 per share",
+      "1.50 per share"
+    ],
+    "correct": 1,
+    "explanation": "Call intrinsic=max(S−X,0)=$0.00. Time value=premium−intrinsic=$1.50−$0.00=$1.50.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "006f2ce8c7ed06465becd98bf8e81f7d",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Trading payoff scenario 3: buy one standard 100-share call option contract, strike $76, premium $5 per share. At expiration the stock trades at $90. What is the position profit, after premium?",
+    "options": [
+      "$+900",
+      "$+1,400",
+      "$-900",
+      "$+1,900"
+    ],
+    "correct": 0,
+    "explanation": "Net contract profit = [max(S−X,0)−premium]×100=(14−5)×100=$+900.",
+    "source": "New variation based on FIN427 Exam 2 practice screenshots"
+  },
+  {
+    "id": "fb1cc359f2f86b8a0cb22a5746ab907d",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "Three-factor DuPont application 3: net profit margin=9.1%, asset turnover=1.4, equity multiplier=2.2. Compute ROE.",
+    "options": [
+      "31.03%",
+      "29.53%",
+      "28.03%",
+      "26.53%"
+    ],
+    "correct": 2,
+    "explanation": "ROE=net margin×asset turnover×equity multiplier=0.091×1.4×2.2=28.03%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "f518a6b569b3966afab8231511b7ef59",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Option premium study 10: a put has stock price $85, strike $90, and quoted premium $7.25. What is its time value per share?",
+    "options": [
+      "0.75 per share",
+      "3.75 per share",
+      "5.25 per share",
+      "2.25 per share"
+    ],
+    "correct": 3,
+    "explanation": "Put intrinsic=max(X−S,0)=$5.00. Time value=premium−intrinsic=$7.25−$5.00=$2.25.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "571dc2bf85c085d8532333e2cf895440",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "Two-state call pricing 6: S0=$135, possible next prices $175 and $108, X=$140, gross risk-free return 1+r=1.04. Find the no-arbitrage call value today (two decimals).",
+    "options": [
+      "20.47 per option",
+      "16.27 per option",
+      "18.37 per option",
+      "14.17 per option"
+    ],
+    "correct": 1,
+    "explanation": "Payoffs up/down: $35/$0. Hedge ratio h=(35−0)/(175−108)=0.52238806. One share-equivalent hedge has equal terminal payoff h×108−0=56.41791045. Discount by 1.04: h×S0−option=56.41791045/1.04. Option=h×135−(56.41791045/1.04)=$16.27.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "6db6acbe7a45596b2146db86e174b9c7",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "Option premium study 11: a call has stock price $66, strike $60, and quoted premium $10.10. What is its intrinsic value per share?",
+    "options": [
+      "6.00 per share",
+      "4.50 per share",
+      "9.00 per share",
+      "7.50 per share"
+    ],
+    "correct": 0,
+    "explanation": "Call intrinsic=max(S−X,0)=$6.00. Time value=premium−intrinsic=$10.10−$6.00=$4.10.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "5776649e8b1e11a7b77b1c2658b8dcd6",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "Option premium study 12: a put has stock price $42, strike $48, and quoted premium $7.50. What is its time value per share?",
+    "options": [
+      "4.50 per share",
+      "1.50 per share",
+      "0.00 per share",
+      "3.00 per share"
+    ],
+    "correct": 1,
+    "explanation": "Put intrinsic=max(X−S,0)=$6.00. Time value=premium−intrinsic=$7.50−$6.00=$1.50.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "cbf2c03948e1e8c0a050b88f9556605a",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "Two-state put pricing 14: S0=$191, possible next prices $226 and $164, X=$196, gross risk-free return 1+r=1.10. Find the no-arbitrage put value today (two decimals).",
+    "options": [
+      "5.36 per option",
+      "7.46 per option",
+      "9.56 per option",
+      "11.66 per option"
+    ],
+    "correct": 1,
+    "explanation": "Payoffs up/down: $0/$32. Hedge ratio h=(0−32)/(226−164)=-0.51612903. One share-equivalent hedge has equal terminal payoff h×164−32=-116.64516129. Discount by 1.1: h×S0−option=-116.64516129/1.1. Option=h×191−(-116.64516129/1.1)=$7.46.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "586764c35b4aeab9e15c77cfc8baf740",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "EVA scenario 7: equity=$420 million, debt=$80 million, return on capital=11%, and cost of capital=8%. Find annual economic value added in $ millions.",
+    "options": [
+      "22.00 million",
+      "11.50 million",
+      "18.50 million",
+      "15.00 million"
+    ],
+    "correct": 3,
+    "explanation": "EVA=(ROC−cost of capital)×(equity+debt)=(3%)×$500m=$15.00m.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "2c74fd59f4b60c8e4c22b3b8b9a0cce9",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "For a two-state call hedge, which expression gives the call hedge ratio?",
+    "options": [
+      "Call premium divided by exercise price",
+      "(Stock up − stock down)/(Call payoff up − call payoff down)",
+      "(Call payoff up − call payoff down)/(Stock up − stock down)",
+      "(Call payoff up + call payoff down)/(Stock up + stock down)"
+    ],
+    "correct": 2,
+    "explanation": "The hedge ratio is the change in call value divided by the change in underlying stock value.",
+    "source": "New/modified conceptual question based on Chapter 16 slides and screenshots"
+  },
+  {
+    "id": "d2f534c54d7da75f6cc8691912c04d68",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "Three-factor DuPont application 4: net profit margin=3.5%, asset turnover=2.5, equity multiplier=1.6. Compute ROE.",
+    "options": [
+      "14.00%",
+      "15.50%",
+      "17.00%",
+      "12.50%"
+    ],
+    "correct": 0,
+    "explanation": "ROE=net margin×asset turnover×equity multiplier=0.035×2.5×1.6=14.00%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "0f57c8d29a2984db2797a95ca4dac3a5",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Operating-return analysis 3: A company reports ROE of 7%, debt-to-equity of 0.80, tax rate 25%, and borrowing cost 9%. Find its operating ROA (percentage, two decimals).",
+    "options": [
+      "9.19",
+      "8.59",
+      "10.39",
+      "9.79"
+    ],
+    "correct": 0,
+    "explanation": "ROE=(1−tax)[ROA+(ROA−interest rate)(D/E)]. Solve ROA=[ROE/(1−tax)+interest rate×D/E]/(1+D/E)=9.19%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "60145d92c784e7dfc2b2cb0aecf57709",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "Two-state call pricing 9: S0=$156, possible next prices $196 and $132, X=$151, gross risk-free return 1+r=1.10. Find the no-arbitrage call value today (two decimals).",
+    "options": [
+      "27.41 per option",
+      "29.51 per option",
+      "25.31 per option",
+      "23.21 per option"
+    ],
+    "correct": 2,
+    "explanation": "Payoffs up/down: $45/$0. Hedge ratio h=(45−0)/(196−132)=0.70312500. One share-equivalent hedge has equal terminal payoff h×132−0=92.81250000. Discount by 1.1: h×S0−option=92.81250000/1.1. Option=h×156−(92.81250000/1.1)=$25.31.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "9693128589c1d4660c974c1c22e67335",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "Option premium study 2: a call has stock price $82, strike $67, and quoted premium $15.20. What is its time value per share?",
+    "options": [
+      "3.20 per share",
+      "4.70 per share",
+      "0.20 per share",
+      "1.70 per share"
+    ],
+    "correct": 2,
+    "explanation": "Call intrinsic=max(S−X,0)=$15.00. Time value=premium−intrinsic=$15.20−$15.00=$0.20.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "62885669b179456024a7e8e1a94ac6f7",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Trading payoff scenario 2: buy one standard 100-share put option contract, strike $68, premium $4 per share. At expiration the stock trades at $59. What is the position profit, after premium?",
+    "options": [
+      "$+500",
+      "$+1,300",
+      "$+900",
+      "$-500"
+    ],
+    "correct": 0,
+    "explanation": "Net contract profit = [max(X−S,0)−premium]×100=(9−4)×100=$+500.",
+    "source": "New variation based on FIN427 Exam 2 practice screenshots"
+  },
+  {
+    "id": "544ca4f5099b2c42c3d624cbc04b2833",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "One-step put hedge 13: stock now $184, up-state $214, down-state $160, exercise price $179. What is the option hedge ratio (three decimals)?",
+    "options": [
+      "-0.272",
+      "-0.432",
+      "-0.352",
+      "-0.192"
+    ],
+    "correct": 2,
+    "explanation": "Up put payoff=$0; down payoff=$19. Hedge ratio=(payoff up−payoff down)/(stock up−stock down)=(0−19)/(214−160)=-0.352.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "cf45c85d5a3f399a1952a36acfb1cf9c",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "Two-state call pricing 12: S0=$177, possible next prices $217 and $144, X=$182, gross risk-free return 1+r=1.06. Find the no-arbitrage call value today (two decimals).",
+    "options": [
+      "17.63 per option",
+      "19.73 per option",
+      "23.93 per option",
+      "21.83 per option"
+    ],
+    "correct": 1,
+    "explanation": "Payoffs up/down: $35/$0. Hedge ratio h=(35−0)/(217−144)=0.47945205. One share-equivalent hedge has equal terminal payoff h×144−0=69.04109589. Discount by 1.06: h×S0−option=69.04109589/1.06. Option=h×177−(69.04109589/1.06)=$19.73.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "fff368b350268b894e7605a4382de6ac",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "Common book equity case 2: 1,200 cumulative 10% preferred shares ($ 80 par), 30,000 common shares ($ 10 par), opening retained earnings $3,700,000, income $160,000, and no dividends paid. What is book value per common share after accounting for current preferred dividend arrears?",
+    "options": [
+      "136.85 per share",
+      "138.35 per share",
+      "141.35 per share",
+      "139.85 per share"
+    ],
+    "correct": 1,
+    "explanation": "Common book equity=common par capital+opening retained earnings+income−preferred dividend in arrears= $300,000+$3,700,000+$160,000−$9,600=$4,150,400; divide by 30,000 common shares.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "d41e0d9d8476d7fa30d1f18355914924",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "Option premium study 9: a call has stock price $113, strike $100, and quoted premium $16.50. What is its intrinsic value per share?",
+    "options": [
+      "13.00 per share",
+      "16.00 per share",
+      "11.50 per share",
+      "14.50 per share"
+    ],
+    "correct": 0,
+    "explanation": "Call intrinsic=max(S−X,0)=$13.00. Time value=premium−intrinsic=$16.50−$13.00=$3.50.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "6870be1a9a3eed42ae7bfb415777e887",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Option premium study 4: a put has stock price $70, strike $79, and quoted premium $15.20. What is its time value per share?",
+    "options": [
+      "4.70 per share",
+      "9.20 per share",
+      "7.70 per share",
+      "6.20 per share"
+    ],
+    "correct": 3,
+    "explanation": "Put intrinsic=max(X−S,0)=$9.00. Time value=premium−intrinsic=$15.20−$9.00=$6.20.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "f00414764f822b9abb770410d1238757",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "One-step call hedge 10: stock now $163, up-state $193, down-state $136, exercise price $168. What is the option hedge ratio (three decimals)?",
+    "options": [
+      "0.359",
+      "0.519",
+      "0.599",
+      "0.439"
+    ],
+    "correct": 3,
+    "explanation": "Up call payoff=$25; down payoff=$0. Hedge ratio=(payoff up−payoff down)/(stock up−stock down)=(25−0)/(193−136)=0.439.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "05915015f138c1a9756562f37d92909f",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "One-step put hedge 16: stock now $205, up-state $235, down-state $172, exercise price $210. What is the option hedge ratio (three decimals)?",
+    "options": [
+      "-0.603",
+      "-0.683",
+      "-0.523",
+      "-0.443"
+    ],
+    "correct": 0,
+    "explanation": "Up put payoff=$0; down payoff=$38. Hedge ratio=(payoff up−payoff down)/(stock up−stock down)=(0−38)/(235−172)=-0.603.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "07ff37a02f70683375166add14e24069",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Trading payoff scenario 1: buy one standard 100-share call option contract, strike $60, premium $3 per share. At expiration the stock trades at $72. What is the position profit, after premium?",
+    "options": [
+      "$+900",
+      "$+1,500",
+      "$-900",
+      "$+1,200"
+    ],
+    "correct": 0,
+    "explanation": "Net contract profit = [max(S−X,0)−premium]×100=(12−3)×100=$+900.",
+    "source": "New variation based on FIN427 Exam 2 practice screenshots"
+  },
+  {
+    "id": "c6fb602101a2f9f9919ed2f61cd624c8",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "One-step put hedge 19: stock now $226, up-state $256, down-state $196, exercise price $221. What is the option hedge ratio (three decimals)?",
+    "options": [
+      "-0.257",
+      "-0.417",
+      "-0.497",
+      "-0.337"
+    ],
+    "correct": 1,
+    "explanation": "Up put payoff=$0; down payoff=$25. Hedge ratio=(payoff up−payoff down)/(stock up−stock down)=(0−25)/(256−196)=-0.417.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "adfc41872f138d2a23f129c73bec4e39",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "Common book equity case 4: 2,000 cumulative 10% preferred shares ($ 50 par), 40,000 common shares ($ 10 par), opening retained earnings $6,000,000, income $350,000, and no dividends paid. What is book value per common share after accounting for current preferred dividend arrears?",
+    "options": [
+      "171.50 per share",
+      "168.50 per share",
+      "170.00 per share",
+      "167.00 per share"
+    ],
+    "correct": 1,
+    "explanation": "Common book equity=common par capital+opening retained earnings+income−preferred dividend in arrears= $400,000+$6,000,000+$350,000−$10,000=$6,740,000; divide by 40,000 common shares.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "055bf629c7ce9dfd82098bcd7eeaa76d",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "Two-state call pricing 11: S0=$170, possible next prices $205 and $140, X=$165, gross risk-free return 1+r=1.04. Find the no-arbitrage call value today (two decimals).",
+    "options": [
+      "19.68 per option",
+      "21.78 per option",
+      "23.88 per option",
+      "25.98 per option"
+    ],
+    "correct": 1,
+    "explanation": "Payoffs up/down: $40/$0. Hedge ratio h=(40−0)/(205−140)=0.61538462. One share-equivalent hedge has equal terminal payoff h×140−0=86.15384615. Discount by 1.04: h×S0−option=86.15384615/1.04. Option=h×170−(86.15384615/1.04)=$21.78.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "3d744efc3c122b4929fe3d65d449cee7",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "EVA scenario 3: equity=$180 million, debt=$180 million, return on capital=14%, and cost of capital=8%. Find annual economic value added in $ millions.",
+    "options": [
+      "21.60 million",
+      "28.60 million",
+      "25.10 million",
+      "18.10 million"
+    ],
+    "correct": 0,
+    "explanation": "EVA=(ROC−cost of capital)×(equity+debt)=(6%)×$360m=$21.60m.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "b0d3f34c42e89634e9f037fbe701373d",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "Common book equity case 1: 1,500 cumulative 10% preferred shares ($ 100 par), 25,000 common shares ($ 20 par), opening retained earnings $5,350,000, income $75,000, and no dividends paid. What is book value per common share after accounting for current preferred dividend arrears?",
+    "options": [
+      "239.40 per share",
+      "236.40 per share",
+      "234.90 per share",
+      "237.90 per share"
+    ],
+    "correct": 1,
+    "explanation": "Common book equity=common par capital+opening retained earnings+income−preferred dividend in arrears= $500,000+$5,350,000+$75,000−$15,000=$5,910,000; divide by 25,000 common shares.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "194e072ccf7c17e2269d7dfb64b90b53",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "With all else held fixed, higher underlying stock volatility generally has what effect on the value of an ordinary call?",
+    "options": [
+      "Raises or does not lower its value",
+      "Makes intrinsic value exceed the share price",
+      "Always lowers its value",
+      "Makes time value negative"
+    ],
+    "correct": 0,
+    "explanation": "An option benefits from upside dispersion without being forced to accept downside below zero.",
+    "source": "New/modified conceptual question based on Chapter 16 slides and screenshots"
+  },
+  {
+    "id": "3b3fa949fafde81040f8300fbb70fa28",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "Option premium study 6: a call has stock price $50, strike $55, and quoted premium $4.20. What is its time value per share?",
+    "options": [
+      "5.70 per share",
+      "4.20 per share",
+      "7.20 per share",
+      "2.70 per share"
+    ],
+    "correct": 1,
+    "explanation": "Call intrinsic=max(S−X,0)=$0.00. Time value=premium−intrinsic=$4.20−$0.00=$4.20.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "33a4df9598b6cdd6bbdc9bd9f79d911a",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "Two-state call pricing 5: S0=$128, possible next prices $163 and $104, X=$123, gross risk-free return 1+r=1.12. Find the no-arbitrage call value today (two decimals).",
+    "options": [
+      "28.03 per option",
+      "23.83 per option",
+      "25.93 per option",
+      "21.73 per option"
+    ],
+    "correct": 1,
+    "explanation": "Payoffs up/down: $40/$0. Hedge ratio h=(40−0)/(163−104)=0.67796610. One share-equivalent hedge has equal terminal payoff h×104−0=70.50847458. Discount by 1.12: h×S0−option=70.50847458/1.12. Option=h×128−(70.50847458/1.12)=$23.83.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "582405ab5aaf2b617f8c1fd4493274fc",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Operating-return analysis 1: A company reports ROE of 4%, debt-to-equity of 0.50, tax rate 35%, and borrowing cost 8%. Find its operating ROA (percentage, two decimals).",
+    "options": [
+      "6.77",
+      "7.37",
+      "6.17",
+      "7.97"
+    ],
+    "correct": 0,
+    "explanation": "ROE=(1−tax)[ROA+(ROA−interest rate)(D/E)]. Solve ROA=[ROE/(1−tax)+interest rate×D/E]/(1+D/E)=6.77%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "6dea21a1802dcb7d3c6663751cbb7ff9",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Leverage return case 5: Operating ROA is 14%, D/E equals 0.4, the tax rate is 24%, and debt costs 8%. What is ROE?",
+    "options": [
+      "13.86%",
+      "11.76%",
+      "13.16%",
+      "12.46%"
+    ],
+    "correct": 3,
+    "explanation": "ROE=(1−0.24)×[14%+(14%−8%)×0.4]=12.46%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "552330cd72a375ad6f44010d70495285",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "Two-state put pricing 18: S0=$219, possible next prices $259 and $192, X=$224, gross risk-free return 1+r=1.08. Find the no-arbitrage put value today (two decimals).",
+    "options": [
+      "7.84 per option",
+      "9.94 per option",
+      "12.04 per option",
+      "14.14 per option"
+    ],
+    "correct": 1,
+    "explanation": "Payoffs up/down: $0/$32. Hedge ratio h=(0−32)/(259−192)=-0.47761194. One share-equivalent hedge has equal terminal payoff h×192−32=-123.70149254. Discount by 1.08: h×S0−option=-123.70149254/1.08. Option=h×219−(-123.70149254/1.08)=$9.94.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "6e59f757475cf0758b1a40ec99bc4cde",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Five-factor DuPont case 4: tax burden=0.75, interest burden=0.7, EBIT/sales=15%, sales/assets=2.2, assets/equity=1.4. Estimate ROE.",
+    "options": [
+      "26.65%",
+      "24.25%",
+      "25.45%",
+      "23.05%"
+    ],
+    "correct": 1,
+    "explanation": "ROE=tax burden×interest burden×operating margin×asset turnover×leverage=0.75×0.7×0.15×2.2×1.4=24.25%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "1457d6b9f518c3afec54b4d2422f76da",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Option premium study 7: a call has stock price $94, strike $80, and quoted premium $18.75. What is its intrinsic value per share?",
+    "options": [
+      "14.00 per share",
+      "17.00 per share",
+      "15.50 per share",
+      "12.50 per share"
+    ],
+    "correct": 0,
+    "explanation": "Call intrinsic=max(S−X,0)=$14.00. Time value=premium−intrinsic=$18.75−$14.00=$4.75.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "b99d165746c2d2b0bb4f819469870cb2",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Five-factor DuPont case 6: tax burden=0.85, interest burden=0.65, EBIT/sales=18%, sales/assets=1.5, assets/equity=2.3. Estimate ROE.",
+    "options": [
+      "35.51%",
+      "34.31%",
+      "36.71%",
+      "33.11%"
+    ],
+    "correct": 1,
+    "explanation": "ROE=tax burden×interest burden×operating margin×asset turnover×leverage=0.85×0.65×0.18×1.5×2.3=34.31%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "5d45c626e445fe72fc24946db77e42df",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Five-factor DuPont case 5: tax burden=0.9, interest burden=0.8, EBIT/sales=8%, sales/assets=2.4, assets/equity=1.7. Estimate ROE.",
+    "options": [
+      "25.90%",
+      "24.70%",
+      "22.30%",
+      "23.50%"
+    ],
+    "correct": 3,
+    "explanation": "ROE=tax burden×interest burden×operating margin×asset turnover×leverage=0.9×0.8×0.08×2.4×1.7=23.50%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "bec1f829c3f6a3ef3b97abe04c2661f5",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "Financial statements mini-case 4: net income=$390m, common equity=$2600m. What is reported return on equity?",
+    "options": [
+      "18.40%",
+      "16.70%",
+      "13.30%",
+      "15.00%"
+    ],
+    "correct": 3,
+    "explanation": "ROE=net income/equity=390/2600=15.00%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "9441b88753dc88587bb13a60a7792f8d",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Operating-return analysis 7: A company reports ROE of 5%, debt-to-equity of 1.40, tax rate 32%, and borrowing cost 9%. Find its operating ROA (percentage, two decimals).",
+    "options": [
+      "8.91",
+      "7.71",
+      "9.51",
+      "8.31"
+    ],
+    "correct": 3,
+    "explanation": "ROE=(1−tax)[ROA+(ROA−interest rate)(D/E)]. Solve ROA=[ROE/(1−tax)+interest rate×D/E]/(1+D/E)=8.31%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "428460cbb8181255d58a540d0e6f8381",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "An option premium equals $9.80 and its immediately exercisable payoff equals $6.25. What is the additional component of premium called?",
+    "options": [
+      "Exercise price",
+      "Stock volatility",
+      "Intrinsic value",
+      "Time value"
+    ],
+    "correct": 3,
+    "explanation": "Time value=option price−intrinsic value.",
+    "source": "New/modified conceptual question based on Chapter 16 slides and screenshots"
+  },
+  {
+    "id": "e69f3bd9d3bce86ec87656837ea36452",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Option premium study 1: a call has stock price $91, strike $72, and quoted premium $22.40. What is its intrinsic value per share?",
+    "options": [
+      "20.50 per share",
+      "19.00 per share",
+      "22.00 per share",
+      "17.50 per share"
+    ],
+    "correct": 1,
+    "explanation": "Call intrinsic=max(S−X,0)=$19.00. Time value=premium−intrinsic=$22.40−$19.00=$3.40.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "9b86dd435d83ce8e78c896136dc3fdf6",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "Two-state put pricing 17: S0=$212, possible next prices $247 and $188, X=$207, gross risk-free return 1+r=1.06. Find the no-arbitrage put value today (two decimals).",
+    "options": [
+      "8.87 per option",
+      "10.97 per option",
+      "6.77 per option",
+      "4.67 per option"
+    ],
+    "correct": 2,
+    "explanation": "Payoffs up/down: $0/$19. Hedge ratio h=(0−19)/(247−188)=-0.32203390. One share-equivalent hedge has equal terminal payoff h×188−19=-79.54237288. Discount by 1.06: h×S0−option=-79.54237288/1.06. Option=h×212−(-79.54237288/1.06)=$6.77.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "64aed4d3377b329c67e822eef4d0612f",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Trading payoff scenario 7: buy one standard 100-share call option contract, strike $108, premium $9 per share. At expiration the stock trades at $126. What is the position profit, after premium?",
+    "options": [
+      "$+1,800",
+      "$+900",
+      "$-900",
+      "$+2,700"
+    ],
+    "correct": 1,
+    "explanation": "Net contract profit = [max(S−X,0)−premium]×100=(18−9)×100=$+900.",
+    "source": "New variation based on FIN427 Exam 2 practice screenshots"
+  },
+  {
+    "id": "17becce7a8d6f5f256a2ad1739e4ecae",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "EVA scenario 1: equity=$210 million, debt=$50 million, return on capital=15%, and cost of capital=9%. Find annual economic value added in $ millions.",
+    "options": [
+      "15.60 million",
+      "19.10 million",
+      "12.10 million",
+      "22.60 million"
+    ],
+    "correct": 0,
+    "explanation": "EVA=(ROC−cost of capital)×(equity+debt)=(6%)×$260m=$15.60m.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "60d22f342073a5e49b8beb158d693eb4",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "Option premium study 8: a put has stock price $101, strike $120, and quoted premium $22.40. What is its time value per share?",
+    "options": [
+      "6.40 per share",
+      "3.40 per share",
+      "1.90 per share",
+      "4.90 per share"
+    ],
+    "correct": 1,
+    "explanation": "Put intrinsic=max(X−S,0)=$19.00. Time value=premium−intrinsic=$22.40−$19.00=$3.40.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "abb387163093f326e63e451c0bf574fb",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Trading payoff scenario 8: buy one standard 100-share put option contract, strike $116, premium $10 per share. At expiration the stock trades at $101. What is the position profit, after premium?",
+    "options": [
+      "$+1,500",
+      "$+2,500",
+      "$+500",
+      "$-500"
+    ],
+    "correct": 2,
+    "explanation": "Net contract profit = [max(X−S,0)−premium]×100=(15−10)×100=$+500.",
+    "source": "New variation based on FIN427 Exam 2 practice screenshots"
+  },
+  {
+    "id": "ea145947ed4b14ee83273e6e0a9c00f6",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "Two-state call pricing 8: S0=$149, possible next prices $184 and $116, X=$154, gross risk-free return 1+r=1.08. Find the no-arbitrage call value today (two decimals).",
+    "options": [
+      "16.25 per option",
+      "20.45 per option",
+      "18.35 per option",
+      "22.55 per option"
+    ],
+    "correct": 2,
+    "explanation": "Payoffs up/down: $30/$0. Hedge ratio h=(30−0)/(184−116)=0.44117647. One share-equivalent hedge has equal terminal payoff h×116−0=51.17647059. Discount by 1.08: h×S0−option=51.17647059/1.08. Option=h×149−(51.17647059/1.08)=$18.35.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "cbbc7c97e4758592f5c6e552029ec35a",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "An out-of-the-money call that still has several months until expiration has which typical combination of intrinsic and time values?",
+    "options": [
+      "Positive intrinsic value; zero time value",
+      "Zero intrinsic value; potentially positive time value",
+      "Negative intrinsic value; positive time value",
+      "Positive intrinsic value; negative time value"
+    ],
+    "correct": 1,
+    "explanation": "Call intrinsic value cannot be negative, and future opportunity can produce positive time value.",
+    "source": "New/modified conceptual question based on Chapter 16 slides and screenshots"
+  },
+  {
+    "id": "eb6e842483f5c04036c44d011d1744b1",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Operating-return analysis 5: A company reports ROE of 6%, debt-to-equity of 0.30, tax rate 21%, and borrowing cost 10%. Find its operating ROA (percentage, two decimals).",
+    "options": [
+      "8.15",
+      "9.35",
+      "8.75",
+      "7.55"
+    ],
+    "correct": 0,
+    "explanation": "ROE=(1−tax)[ROA+(ROA−interest rate)(D/E)]. Solve ROA=[ROE/(1−tax)+interest rate×D/E]/(1+D/E)=8.15%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "c3174ce2f6303eefc689b302205efa50",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "Financial statements mini-case 2: net income=$440m, common equity=$3100m. What is reported return on equity?",
+    "options": [
+      "14.19%",
+      "15.89%",
+      "17.59%",
+      "12.49%"
+    ],
+    "correct": 0,
+    "explanation": "ROE=net income/equity=440/3100=14.19%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "d2a2314a062cddfac52017c475f6081e",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "A put is in the money if which condition holds?",
+    "options": [
+      "Time to maturity equals zero",
+      "Stock price exceeds exercise price",
+      "Option premium equals zero",
+      "Exercise price exceeds the stock price"
+    ],
+    "correct": 3,
+    "explanation": "A put can be exercised profitably when X>S.",
+    "source": "New/modified conceptual question based on Chapter 16 slides and screenshots"
+  },
+  {
+    "id": "4254bacb2c95d72396f0fc1d51168c05",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Valuation multiples case 3: a firm has an ROE of 15% and a market-to-book ratio of 3.60. Determine its P/E ratio.",
+    "options": [
+      "26.00 times",
+      "24.00 times",
+      "28.00 times",
+      "22.00 times"
+    ],
+    "correct": 1,
+    "explanation": "P/E=(P/B)/(earnings/book equity)=3.6/0.15=24.00.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "a237489a683b2c3ceaaafe8742efc875",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "Which valuation procedure assumes a stock moves to one of two possible values in each short period?",
+    "options": [
+      "Capital asset pricing model",
+      "Residual income valuation",
+      "Binomial option-pricing model",
+      "Constant-growth dividend model"
+    ],
+    "correct": 2,
+    "explanation": "A binomial tree assigns up and down states.",
+    "source": "New/modified conceptual question based on Chapter 16 slides and screenshots"
+  },
+  {
+    "id": "403b5fb04b194803f13e5e7681307166",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Leverage return case 2: Operating ROA is 9%, D/E equals 0.6, the tax rate is 25%, and debt costs 6%. What is ROE?",
+    "options": [
+      "8.10%",
+      "8.80%",
+      "7.40%",
+      "9.50%"
+    ],
+    "correct": 0,
+    "explanation": "ROE=(1−0.25)×[9%+(9%−6%)×0.6]=8.10%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "ae87436af43cc94a0f8ae528d5a7f627",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "Financial statements mini-case 3: net income=$720m, common equity=$5300m. What is reported return on equity?",
+    "options": [
+      "13.58%",
+      "16.98%",
+      "11.88%",
+      "15.28%"
+    ],
+    "correct": 0,
+    "explanation": "ROE=net income/equity=720/5300=13.58%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "e8c782bd6c2a33400a5f17f8da372f5f",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "EVA scenario 4: equity=$370 million, debt=$140 million, return on capital=18%, and cost of capital=9%. Find annual economic value added in $ millions.",
+    "options": [
+      "42.40 million",
+      "52.90 million",
+      "49.40 million",
+      "45.90 million"
+    ],
+    "correct": 3,
+    "explanation": "EVA=(ROC−cost of capital)×(equity+debt)=(9%)×$510m=$45.90m.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "6d08a44ece5faaac0892c2cb28f82e4f",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "Two-state put pricing 15: S0=$198, possible next prices $238 and $168, X=$193, gross risk-free return 1+r=1.12. Find the no-arbitrage put value today (two decimals).",
+    "options": [
+      "9.38 per option",
+      "5.18 per option",
+      "3.08 per option",
+      "7.28 per option"
+    ],
+    "correct": 1,
+    "explanation": "Payoffs up/down: $0/$25. Hedge ratio h=(0−25)/(238−168)=-0.35714286. One share-equivalent hedge has equal terminal payoff h×168−25=-85.00000000. Discount by 1.12: h×S0−option=-85.00000000/1.12. Option=h×198−(-85.00000000/1.12)=$5.18.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "ff0c5a1bd7d4e096760b445d2ee553a5",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "Two-state call pricing 3: S0=$114, possible next prices $154 and $84, X=$109, gross risk-free return 1+r=1.08. Find the no-arbitrage call value today (two decimals).",
+    "options": [
+      "23.29 per option",
+      "21.19 per option",
+      "27.49 per option",
+      "25.39 per option"
+    ],
+    "correct": 0,
+    "explanation": "Payoffs up/down: $45/$0. Hedge ratio h=(45−0)/(154−84)=0.64285714. One share-equivalent hedge has equal terminal payoff h×84−0=54.00000000. Discount by 1.08: h×S0−option=54.00000000/1.08. Option=h×114−(54.00000000/1.08)=$23.29.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "6c943941134054c92e70c4545a768695",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "Three-factor DuPont application 1: net profit margin=5.2%, asset turnover=2.1, equity multiplier=2.4. Compute ROE.",
+    "options": [
+      "27.71%",
+      "29.21%",
+      "26.21%",
+      "24.71%"
+    ],
+    "correct": 2,
+    "explanation": "ROE=net margin×asset turnover×equity multiplier=0.052×2.1×2.4=26.21%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "fcc0418dfba39e8275b2c56fec8b29e8",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "For EVA comparison 2, ROC is 13% and WACC is 10%. How much EVA is generated per $1 of invested capital?",
+    "options": [
+      "0.02 per $1",
+      "0.04 per $1",
+      "0.05 per $1",
+      "0.03 per $1"
+    ],
+    "correct": 3,
+    "explanation": "EVA per dollar of invested capital=ROC−WACC=13%−10%=$0.03.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "e5f7a6164c3b0672bc43e2fe1c97fbfe",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A stock-and-short-calls portfolio is riskless over two states when which condition holds?",
+    "options": [
+      "The option premium is zero",
+      "The stock has identical prices in both states",
+      "The call expires in the money in both states",
+      "The portfolio has the same terminal payoff in both stock-price states"
+    ],
+    "correct": 3,
+    "explanation": "State-independent terminal payoff allows discounting at the risk-free rate.",
+    "source": "New/modified conceptual question based on Chapter 16 slides and screenshots"
+  },
+  {
+    "id": "e5249a6362a6ce156286eec4013880f6",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Trading payoff scenario 9: buy one standard 100-share call option contract, strike $124, premium $11 per share. At expiration the stock trades at $144. What is the position profit, after premium?",
+    "options": [
+      "$+2,000",
+      "$+3,100",
+      "$+900",
+      "$-900"
+    ],
+    "correct": 2,
+    "explanation": "Net contract profit = [max(S−X,0)−premium]×100=(20−11)×100=$+900.",
+    "source": "New variation based on FIN427 Exam 2 practice screenshots"
+  },
+  {
+    "id": "a02108b8efc860a026214af3aabd20ea",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "Operating-return analysis 2: A company reports ROE of 5%, debt-to-equity of 0.60, tax rate 30%, and borrowing cost 8%. Find its operating ROA (percentage, two decimals).",
+    "options": [
+      "6.86",
+      "8.66",
+      "8.06",
+      "7.46"
+    ],
+    "correct": 3,
+    "explanation": "ROE=(1−tax)[ROA+(ROA−interest rate)(D/E)]. Solve ROA=[ROE/(1−tax)+interest rate×D/E]/(1+D/E)=7.46%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "c8da4aac74dd5ac7877d7031b3d12d8c",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Valuation multiples case 2: a firm has an ROE of 12% and a market-to-book ratio of 2.40. Determine its P/E ratio.",
+    "options": [
+      "22.00 times",
+      "18.00 times",
+      "20.00 times",
+      "24.00 times"
+    ],
+    "correct": 2,
+    "explanation": "P/E=(P/B)/(earnings/book equity)=2.4/0.12=20.00.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "0b4bcf1c3d6cae02ad95ee846fe9b2bf",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "One-step call hedge 4: stock now $121, up-state $151, down-state $88, exercise price $126. What is the option hedge ratio (three decimals)?",
+    "options": [
+      "0.317",
+      "0.397",
+      "0.557",
+      "0.477"
+    ],
+    "correct": 1,
+    "explanation": "Up call payoff=$25; down payoff=$0. Hedge ratio=(payoff up−payoff down)/(stock up−stock down)=(25−0)/(151−88)=0.397.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "0732c3f860222af9c41a49bf05dfed96",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "For EVA comparison 4, ROC is 11% and WACC is 7%. How much EVA is generated per $1 of invested capital?",
+    "options": [
+      "0.05 per $1",
+      "0.03 per $1",
+      "0.04 per $1",
+      "0.06 per $1"
+    ],
+    "correct": 2,
+    "explanation": "EVA per dollar of invested capital=ROC−WACC=11%−7%=$0.04.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "5d928577bbed042703c77a36fdc7b236",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "Operating-return analysis 8: A company reports ROE of 9%, debt-to-equity of 0.60, tax rate 24%, and borrowing cost 7%. Find its operating ROA (percentage, two decimals).",
+    "options": [
+      "10.03",
+      "11.23",
+      "10.63",
+      "9.43"
+    ],
+    "correct": 0,
+    "explanation": "ROE=(1−tax)[ROA+(ROA−interest rate)(D/E)]. Solve ROA=[ROE/(1−tax)+interest rate×D/E]/(1+D/E)=10.03%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "df353c604812e0d2eacfac1b7cbe58b0",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Valuation multiples case 5: a firm has an ROE of 18% and a market-to-book ratio of 2.70. Determine its P/E ratio.",
+    "options": [
+      "13.00 times",
+      "15.00 times",
+      "17.00 times",
+      "19.00 times"
+    ],
+    "correct": 1,
+    "explanation": "P/E=(P/B)/(earnings/book equity)=2.7/0.18=15.00.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "34d59c2af1f39e5991321437a273e6ff",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "One-step call hedge 1: stock now $100, up-state $130, down-state $76, exercise price $95. What is the option hedge ratio (three decimals)?",
+    "options": [
+      "0.728",
+      "0.808",
+      "0.568",
+      "0.648"
+    ],
+    "correct": 3,
+    "explanation": "Up call payoff=$35; down payoff=$0. Hedge ratio=(payoff up−payoff down)/(stock up−stock down)=(35−0)/(130−76)=0.648.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "97911c4c863213b34acac2389ee5c092",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "Operating-return analysis 6: A company reports ROE of 8%, debt-to-equity of 0.70, tax rate 26%, and borrowing cost 6%. Find its operating ROA (percentage, two decimals).",
+    "options": [
+      "10.03",
+      "8.83",
+      "8.23",
+      "9.43"
+    ],
+    "correct": 1,
+    "explanation": "ROE=(1−tax)[ROA+(ROA−interest rate)(D/E)]. Solve ROA=[ROE/(1−tax)+interest rate×D/E]/(1+D/E)=8.83%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "cb96393a467199edfa4ccadc775b430e",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Trading payoff scenario 6: buy one standard 100-share put option contract, strike $100, premium $8 per share. At expiration the stock trades at $87. What is the position profit, after premium?",
+    "options": [
+      "$-500",
+      "$+500",
+      "$+2,100",
+      "$+1,300"
+    ],
+    "correct": 1,
+    "explanation": "Net contract profit = [max(X−S,0)−premium]×100=(13−8)×100=$+500.",
+    "source": "New variation based on FIN427 Exam 2 practice screenshots"
+  },
+  {
+    "id": "7e5bf4a55e8919ead97e5ad45f44fbdb",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "EVA scenario 2: equity=$310 million, debt=$100 million, return on capital=13%, and cost of capital=10%. Find annual economic value added in $ millions.",
+    "options": [
+      "15.80 million",
+      "19.30 million",
+      "12.30 million",
+      "8.80 million"
+    ],
+    "correct": 2,
+    "explanation": "EVA=(ROC−cost of capital)×(equity+debt)=(3%)×$410m=$12.30m.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "21efd98f702cecd22596f0b988a9d28d",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Leverage return case 4: Operating ROA is 6%, D/E equals 1.2, the tax rate is 30%, and debt costs 5%. What is ROE?",
+    "options": [
+      "5.04%",
+      "5.74%",
+      "4.34%",
+      "6.44%"
+    ],
+    "correct": 0,
+    "explanation": "ROE=(1−0.30)×[6%+(6%−5%)×1.2]=5.04%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "12713231bb9f0587853e7ab25562c175",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "Operating-return analysis 4: A company reports ROE of 11%, debt-to-equity of 1.10, tax rate 28%, and borrowing cost 7%. Find its operating ROA (percentage, two decimals).",
+    "options": [
+      "12.14",
+      "10.34",
+      "11.54",
+      "10.94"
+    ],
+    "correct": 3,
+    "explanation": "ROE=(1−tax)[ROA+(ROA−interest rate)(D/E)]. Solve ROA=[ROE/(1−tax)+interest rate×D/E]/(1+D/E)=10.94%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "c17d4dca2f304002b494a35722d98e20",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "Which term means the maximum of stock price minus exercise price and zero for a call?",
+    "options": [
+      "Call intrinsic value",
+      "Call time value",
+      "Put intrinsic value",
+      "Exercise premium"
+    ],
+    "correct": 0,
+    "explanation": "A call has intrinsic value max(S−X,0).",
+    "source": "New/modified conceptual question based on Chapter 16 slides and screenshots"
+  },
+  {
+    "id": "169074b119da25ff1ec388b58cd309c8",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Valuation multiples case 4: a firm has an ROE of 8% and a market-to-book ratio of 1.80. Determine its P/E ratio.",
+    "options": [
+      "24.50 times",
+      "26.50 times",
+      "20.50 times",
+      "22.50 times"
+    ],
+    "correct": 3,
+    "explanation": "P/E=(P/B)/(earnings/book equity)=1.8/0.08=22.50.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "394843058b33e2867d9933cd86af5bff",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "Three-factor DuPont application 5: net profit margin=7.7%, asset turnover=2.0, equity multiplier=1.9. Compute ROE.",
+    "options": [
+      "27.76%",
+      "32.26%",
+      "29.26%",
+      "30.76%"
+    ],
+    "correct": 2,
+    "explanation": "ROE=net margin×asset turnover×equity multiplier=0.077×2.0×1.9=29.26%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "d1d7568e98d9496e34251c446f21d3f7",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "Two-state call pricing 2: S0=$107, possible next prices $142 and $80, X=$112, gross risk-free return 1+r=1.06. Find the no-arbitrage call value today (two decimals).",
+    "options": [
+      "19.46 per option",
+      "15.26 per option",
+      "17.36 per option",
+      "13.16 per option"
+    ],
+    "correct": 1,
+    "explanation": "Payoffs up/down: $30/$0. Hedge ratio h=(30−0)/(142−80)=0.48387097. One share-equivalent hedge has equal terminal payoff h×80−0=38.70967742. Discount by 1.06: h×S0−option=38.70967742/1.06. Option=h×107−(38.70967742/1.06)=$15.26.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "05e0d3c1f58411e45c017fc7c92f94a7",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Five-factor DuPont case 2: tax burden=0.8, interest burden=0.75, EBIT/sales=12%, sales/assets=1.8, assets/equity=1.6. Estimate ROE.",
+    "options": [
+      "19.54%",
+      "21.94%",
+      "20.74%",
+      "23.14%"
+    ],
+    "correct": 2,
+    "explanation": "ROE=tax burden×interest burden×operating margin×asset turnover×leverage=0.8×0.75×0.12×1.8×1.6=20.74%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "cb74893fd2d22913b0cd20bdd9ec77f5",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Leverage return case 6: Operating ROA is 10%, D/E equals 1.8, the tax rate is 28%, and debt costs 6%. What is ROE?",
+    "options": [
+      "11.68%",
+      "13.08%",
+      "13.78%",
+      "12.38%"
+    ],
+    "correct": 3,
+    "explanation": "ROE=(1−0.28)×[10%+(10%−6%)×1.8]=12.38%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "89adc350365a82bc0c90cc97bb672ee7",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Trading payoff scenario 5: buy one standard 100-share call option contract, strike $92, premium $7 per share. At expiration the stock trades at $108. What is the position profit, after premium?",
+    "options": [
+      "$-900",
+      "$+900",
+      "$+1,600",
+      "$+2,300"
+    ],
+    "correct": 1,
+    "explanation": "Net contract profit = [max(S−X,0)−premium]×100=(16−7)×100=$+900.",
+    "source": "New variation based on FIN427 Exam 2 practice screenshots"
+  },
+  {
+    "id": "d3ced381070e345586d3d6c273b6ae38",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Five-factor DuPont case 3: tax burden=0.65, interest burden=0.9, EBIT/sales=20%, sales/assets=1.3, assets/equity=2.1. Estimate ROE.",
+    "options": [
+      "31.94%",
+      "34.34%",
+      "33.14%",
+      "30.74%"
+    ],
+    "correct": 0,
+    "explanation": "ROE=tax burden×interest burden×operating margin×asset turnover×leverage=0.65×0.9×0.2×1.3×2.1=31.94%.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "07716c35d97885aa6874957998dfb1f0",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "For EVA comparison 1, ROC is 15% and WACC is 9%. How much EVA is generated per $1 of invested capital?",
+    "options": [
+      "0.08 per $1",
+      "0.06 per $1",
+      "0.07 per $1",
+      "0.05 per $1"
+    ],
+    "correct": 1,
+    "explanation": "EVA per dollar of invested capital=ROC−WACC=15%−9%=$0.06.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "66ec098bb9230828aa815b4bc21d418d",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "Two-state put pricing 20: S0=$233, possible next prices $268 and $200, X=$238, gross risk-free return 1+r=1.12. Find the no-arbitrage put value today (two decimals).",
+    "options": [
+      "1.41 per option",
+      "3.51 per option",
+      "5.61 per option",
+      "7.71 per option"
+    ],
+    "correct": 1,
+    "explanation": "Payoffs up/down: $0/$38. Hedge ratio h=(0−38)/(268−200)=-0.55882353. One share-equivalent hedge has equal terminal payoff h×200−38=-149.76470588. Discount by 1.12: h×S0−option=-149.76470588/1.12. Option=h×233−(-149.76470588/1.12)=$3.51.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "5fe1c4bb28f9ff3e579283876bdb86d7",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "Option premium study 5: a put has stock price $50, strike $55, and quoted premium $8.00. What is its intrinsic value per share?",
+    "options": [
+      "8.00 per share",
+      "3.50 per share",
+      "6.50 per share",
+      "5.00 per share"
+    ],
+    "correct": 3,
+    "explanation": "Put intrinsic=max(X−S,0)=$5.00. Time value=premium−intrinsic=$8.00−$5.00=$3.00.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "b673e57d7ba98a44d009a0180d810a18",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "EVA scenario 6: equity=$145 million, debt=$105 million, return on capital=17%, and cost of capital=11%. Find annual economic value added in $ millions.",
+    "options": [
+      "15.00 million",
+      "18.50 million",
+      "11.50 million",
+      "22.00 million"
+    ],
+    "correct": 0,
+    "explanation": "EVA=(ROC−cost of capital)×(equity+debt)=(6%)×$250m=$15.00m.",
+    "source": "New numerical variation based on professor practice"
+  },
+  {
+    "id": "6123ffa0fcf16723d41509d61262a0c3",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Leverage return case 3: Operating ROA is 12%, D/E equals 1.5, the tax rate is 22%, and debt costs 7%. What is ROE?",
+    "options": [
+      "15.21%",
+      "16.61%",
+      "15.91%",
+      "14.51%"
+    ],
+    "correct": 0,
+    "explanation": "ROE=(1−0.22)×[12%+(12%−7%)×1.5]=15.21%.",
+    "source": "New numerical variation based on professor practice"
   }
 ]
