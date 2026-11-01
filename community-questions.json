@@ -3214,5 +3214,1605 @@
     "correct": 1,
     "explanation": "F = S × (1+i_US)/(1+i_FCU) = 0.0070 × 1.05700/1.03300 = $0.007163/FCU.",
     "source": "FIN421 Exam 2 study guide, slides and formula sheet; original professor-style practice"
+  },
+  {
+    "id": "c36d83683019d4be41f5dca498ddb541",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "Which instrument most directly locks in the exchange rate for a known foreign-currency payment due in 90 days?",
+    "options": [
+      "Currency forward contract",
+      "Foreign currency warrant",
+      "Unhedged spot purchase at maturity",
+      "Equity index option"
+    ],
+    "correct": 0,
+    "explanation": "A forward fixes the exchange rate today for settlement in 90 days.",
+    "source": "FIN481 Exam 2 Preparation, original multiple-choice Q1"
+  },
+  {
+    "id": "a7ee4d3c83b8e77653a668e44694b917",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "A U.S. exporter will receive Canadian dollars in three months. Which forward position offsets the exchange-rate risk?",
+    "options": [
+      "Buy Canadian dollars forward",
+      "Sell Canadian dollars forward",
+      "Buy U.S. dollars spot and hold them",
+      "Buy Canadian equity futures"
+    ],
+    "correct": 1,
+    "explanation": "Sell the foreign-currency receivable forward to lock in U.S. dollars.",
+    "source": "FIN481 Exam 2 Preparation, original multiple-choice Q2"
+  },
+  {
+    "id": "ea6c69d639e8abf351ed4c15da555e41",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "A U.S. importer must pay Japanese yen in six months. Which is a valid money-market hedge?",
+    "options": [
+      "Borrow yen now and convert them to dollars",
+      "Buy yen now and invest them in a yen deposit until payment is due",
+      "Sell yen forward",
+      "Wait until maturity to buy yen"
+    ],
+    "correct": 1,
+    "explanation": "Buy the present value of the yen obligation today and invest yen until maturity.",
+    "source": "FIN481 Exam 2 Preparation, original multiple-choice Q3"
+  },
+  {
+    "id": "506f632e3a7e0ed838a31e7e4a8a5998",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "What is the primary objective of a hedge designed to offset a currency exposure?",
+    "options": [
+      "Earn gains on both the exposure and hedge",
+      "Reduce uncertainty by making hedge gains offset exposure losses",
+      "Guarantee a profit on the underlying sale",
+      "Eliminate all business risk"
+    ],
+    "correct": 1,
+    "explanation": "Hedges aim to offset exchange-rate losses, not guarantee commercial profitability.",
+    "source": "FIN481 Exam 2 Preparation, original multiple-choice Q4"
+  },
+  {
+    "id": "000163ae4c47df3b5b1bc8515b5efa45",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "Under covered interest rate parity, which comparison is most relevant when choosing between a forward hedge and a money-market hedge?",
+    "options": [
+      "The forward rate versus the rate implied by spot exchange and borrowing/deposit rates",
+      "Stock dividend yields only",
+      "The inflation rate alone",
+      "The company beta alone"
+    ],
+    "correct": 0,
+    "explanation": "Money-market financing produces a synthetic forward rate that can be compared with the quoted forward.",
+    "source": "FIN481 Exam 2 Preparation, original multiple-choice Q5"
+  },
+  {
+    "id": "c5a48e4308302da62dbca67f094ccc48",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "Transaction exposure arises when a company has",
+    "options": [
+      "Contractual foreign-currency cash flows whose domestic-currency values can change",
+      "Only consolidated statements translated into dollars",
+      "A shift in its long-run competitive position with no contracts",
+      "Domestic-currency cash flows only"
+    ],
+    "correct": 0,
+    "explanation": "Transaction exposure applies to contracted foreign-currency receipts/payments.",
+    "source": "FIN481 Exam 2 Preparation, original multiple-choice Q6"
+  },
+  {
+    "id": "e2fd7dc341239b4c2888b0ed4e8bbc94",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Why does international capital budgeting matter?",
+    "options": [
+      "Foreign projects commit capital for multiple years",
+      "The decision affects productive capacity",
+      "Project outcomes influence firm value",
+      "All of the above"
+    ],
+    "correct": 3,
+    "explanation": "All three considerations motivate analysis of long-lived foreign investments.",
+    "source": "FIN481 Exam 2 Preparation, original multiple-choice Q7"
+  },
+  {
+    "id": "379d698ab240a839644b5bdd56a441d5",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "A euro-denominated invoice that a U.S. company must pay next quarter creates primarily",
+    "options": [
+      "Translation exposure",
+      "Transaction exposure",
+      "Only economic exposure",
+      "No exposure until payment day"
+    ],
+    "correct": 1,
+    "explanation": "A contracted euro payable exposes its dollar cost to exchange-rate changes.",
+    "source": "FIN481 Exam 2 Preparation, original multiple-choice Q8"
+  },
+  {
+    "id": "4b5cfc557f517f7f112509ba643ea5ff",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "A currency futures contract is trading below its theoretical price based on covered interest parity. Ignoring costs and basis risk, which futures position would be part of an arbitrage strategy?",
+    "options": [
+      "Buy the underpriced futures",
+      "Sell the underpriced futures",
+      "Sell both currencies forward",
+      "Take no position because mispricing cannot occur"
+    ],
+    "correct": 0,
+    "explanation": "Buying the underpriced future is the long side of the convergence trade.",
+    "source": "FIN481 Exam 2 Preparation, original multiple-choice Q9"
+  },
+  {
+    "id": "13353f5cec17fbf4a3e23e55b44d1558",
+    "course": "FIN481",
+    "chapter": "Cost of Capital",
+    "difficulty": "Medium",
+    "question": "A company has an equity beta of 1.40. If the risk-free rate is 3.5% and expected market risk premium is 6.0%, what is its cost of equity using CAPM?",
+    "options": [
+      "7.10%",
+      "9.50%",
+      "11.90%",
+      "14.00%"
+    ],
+    "correct": 2,
+    "explanation": "CAPM: 3.5% + 1.40 × 6.0% = 11.90%.",
+    "source": "FIN481 Exam 2 Preparation, original multiple-choice Q10"
+  },
+  {
+    "id": "db9786f11b3a8b43ba14630c0b1ad4b9",
+    "course": "FIN481",
+    "chapter": "Cost of Capital",
+    "difficulty": "Medium",
+    "question": "Using the 11.90% cost of equity from Q10, assume the firm targets 40% debt and 60% equity. Its pretax borrowing rate is 7.0%, and its corporate tax rate is 25%. What is WACC?",
+    "options": [
+      "8.24%",
+      "9.24%",
+      "10.34%",
+      "11.90%"
+    ],
+    "correct": 1,
+    "explanation": "WACC = 0.60(11.90%) + 0.40(7%)(1−0.25) = 9.24%.",
+    "source": "FIN481 Exam 2 Preparation, original multiple-choice Q11"
+  },
+  {
+    "id": "7e71bb39adab5822ba7c083aa891db72",
+    "course": "FIN481",
+    "chapter": "Parity",
+    "difficulty": "Medium",
+    "question": "The spot rate is $1.10 per euro. Expected inflation next year is 4% in the U.S. and 2% in the euro area. Using relative PPP, what is the expected dollar-per-euro spot rate in one year?",
+    "options": [
+      "$1.0788 per euro",
+      "$1.1000 per euro",
+      "$1.1216 per euro",
+      "$1.1440 per euro"
+    ],
+    "correct": 2,
+    "explanation": "$1.10 × 1.04/1.02 = $1.1215686, or $1.1216/EUR.",
+    "source": "FIN481 Exam 2 Preparation, original multiple-choice Q12"
+  },
+  {
+    "id": "2278cdca22a2d10b125460ff12b0ceb4",
+    "course": "FIN481",
+    "chapter": "Parity",
+    "difficulty": "Medium",
+    "question": "Today the spot rate is 150 Japanese yen per U.S. dollar. Expected annual inflation is 5% in Japan and 2% in the U.S. Using relative PPP, what is the expected yen-per-dollar rate in three years?",
+    "options": [
+      "137.53 yen/$",
+      "150.00 yen/$",
+      "163.63 yen/$",
+      "173.64 yen/$"
+    ],
+    "correct": 2,
+    "explanation": "JPY/USD = 150 × (1.05/1.02)^3 = 163.63 yen per dollar.",
+    "source": "FIN481 Exam 2 Preparation, original multiple-choice Q13"
+  },
+  {
+    "id": "522afbec872d8927bfd5731a1fd78a10",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "Which statement correctly distinguishes a forward contract from a currency option?",
+    "options": [
+      "Both require exercise regardless of the exchange rate",
+      "A forward creates an obligation; an option grants its buyer a right but not an obligation",
+      "Only forwards can be used to hedge",
+      "An option has no premium or cost"
+    ],
+    "correct": 1,
+    "explanation": "Forward participants are obligated to exchange; an option buyer has a right and generally pays a premium.",
+    "source": "FIN481 Exam 2 Preparation, original multiple-choice Q14"
+  },
+  {
+    "id": "c0dea92d381c6bf27b0d302e9b7f852e",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "A U.S. firm expects a foreign-currency receivable. What is its principal exchange-rate risk?",
+    "options": [
+      "The dollar depreciates relative to the foreign currency",
+      "The foreign currency depreciates before collection",
+      "The foreign currency appreciates before collection",
+      "The contract is invoiced in dollars instead"
+    ],
+    "correct": 1,
+    "explanation": "Receivable dollars fall if the foreign currency depreciates.",
+    "source": "FIN481 Chapter 8 lecture PDF, concept/application"
+  },
+  {
+    "id": "fc1e0565abe99eaa083125fcfca9c904",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Easy",
+    "question": "A U.S. firm has a foreign-currency payable. What adverse exchange-rate move raises its dollar cost?",
+    "options": [
+      "The spot rate remains unchanged",
+      "The invoicing currency appreciates against the dollar",
+      "The invoicing currency depreciates against the dollar",
+      "The dollar appreciates against the invoicing currency"
+    ],
+    "correct": 1,
+    "explanation": "A stronger payable currency requires more dollars.",
+    "source": "FIN481 Chapter 8 lecture PDF, concept/application"
+  },
+  {
+    "id": "01f053738ac5862b245ab78e4b6e620b",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "Which characteristic distinguishes currency futures from tailored OTC forwards?",
+    "options": [
+      "No possibility of basis or timing mismatch",
+      "Standardized contracts with margin and daily settlement",
+      "Negotiated custom maturity without clearing",
+      "An unconditional right to decline settlement"
+    ],
+    "correct": 1,
+    "explanation": "Futures are exchange traded and marked to market.",
+    "source": "FIN481 Chapter 8 lecture PDF, concept/application"
+  },
+  {
+    "id": "dec75c46aa897083660daef79b7306de",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Easy",
+    "question": "An exporter hedging an expected yen receipt with an option should normally purchase which instrument?",
+    "options": [
+      "A call option on U.S. dollars priced in yen with no specified exposure",
+      "A yen futures position that requires delivery",
+      "A call option on yen",
+      "A put option on yen"
+    ],
+    "correct": 3,
+    "explanation": "A put provides a minimum sale price for the yen while retaining favorable upside.",
+    "source": "FIN481 Chapter 8 lecture PDF, concept/application"
+  },
+  {
+    "id": "b6b02ad48573519258804dadebc3a2c6",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Hard",
+    "question": "An importer who must buy euros later and wants exchange-rate upside should normally buy what?",
+    "options": [
+      "A call option on euros",
+      "A short euro futures position",
+      "A put option on euros",
+      "A forward sale of euros"
+    ],
+    "correct": 0,
+    "explanation": "A euro call protects against appreciation while allowing cheap spot purchase if euros weaken.",
+    "source": "FIN481 Chapter 8 lecture PDF, concept/application"
+  },
+  {
+    "id": "1d1119685faad16130c2426ae0e70707",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Easy",
+    "question": "For a euro receivable, what is the basic sequence of a money-market hedge?",
+    "options": [
+      "Sell dollars spot and hold euro cash",
+      "Borrow euros, convert to dollars, and invest dollars",
+      "Borrow euros and reinvest euros",
+      "Borrow dollars, convert to euros, and deposit euros"
+    ],
+    "correct": 1,
+    "explanation": "Borrow foreign present value now and repay the foreign loan from the receipt.",
+    "source": "FIN481 Chapter 8 lecture PDF, concept/application"
+  },
+  {
+    "id": "0b2abea380d49e6a76b07b13879568d8",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "Which sequence is appropriate for a U.S. firm hedging a future euro payable via money markets?",
+    "options": [
+      "Borrow euros now and convert to dollars",
+      "Buy and deposit enough euros today to grow to the payable",
+      "Sell euros forward and invest dollars",
+      "Buy a euro put and leave proceeds unhedged"
+    ],
+    "correct": 1,
+    "explanation": "Deposit the euro present value so its maturity value pays the invoice.",
+    "source": "FIN481 Chapter 8 lecture PDF, concept/application"
+  },
+  {
+    "id": "35865126718c0c25e3558a23289d4b89",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "A forward hedge is preferred when a manager primarily seeks what?",
+    "options": [
+      "No counterparty or contract obligations",
+      "Zero interest-rate exposure in every situation",
+      "A predictable home-currency cash flow",
+      "Unlimited gains from favorable currency changes"
+    ],
+    "correct": 2,
+    "explanation": "A forward fixes the exchange rate but sacrifices favorable moves.",
+    "source": "FIN481 Chapter 8 lecture PDF, concept/application"
+  },
+  {
+    "id": "b1c7492225912306cbbc8d02d37d48c5",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Hard",
+    "question": "What is the principal trade-off when hedging a payable with a currency call?",
+    "options": [
+      "Unlimited losses even if the call is exercised",
+      "No premium but mandatory exercise",
+      "A fixed future spot exchange rate regardless of exercise",
+      "Premium cost in exchange for protection and favorable-rate participation"
+    ],
+    "correct": 3,
+    "explanation": "The option premium pays for an asymmetric payoff.",
+    "source": "FIN481 Chapter 8 lecture PDF, concept/application"
+  },
+  {
+    "id": "5bfca3e0a17e563b881a10c3f5eefc07",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "Exposure netting most directly reduces the amount hedged by doing what?",
+    "options": [
+      "Hedging every gross receivable separately",
+      "Borrowing all foreign currency liabilities immediately",
+      "Offsetting same-currency inflows against outflows",
+      "Combining all currencies without conversion or risk"
+    ],
+    "correct": 2,
+    "explanation": "The net position, rather than gross flows, determines hedging need.",
+    "source": "FIN481 Chapter 8 lecture PDF, concept/application"
+  },
+  {
+    "id": "9d063bc9db6abd4098a90d8a7827840c",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "What is cross-hedging?",
+    "options": [
+      "Hedging with a different but correlated currency",
+      "Removing all currency risk without contracts",
+      "Matching foreign receivables to identical foreign payables",
+      "Exchanging spot and forward contracts in the same currency"
+    ],
+    "correct": 0,
+    "explanation": "It substitutes a correlated currency when a direct hedge is unavailable.",
+    "source": "FIN481 Chapter 8 lecture PDF, concept/application"
+  },
+  {
+    "id": "cbecd0395cbd9131e63b38e1626670b0",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "Why is cross-hedging imperfect?",
+    "options": [
+      "All derivatives are legally prohibited across currencies",
+      "The proxy always trades at the same exchange rate",
+      "The correlation between the proxy and exposed currency can break down",
+      "The hedge never has a maturity date"
+    ],
+    "correct": 2,
+    "explanation": "Correlation risk remains.",
+    "source": "FIN481 Chapter 8 lecture PDF, concept/application"
+  },
+  {
+    "id": "eb34a663487b702cfe2d296767d0c126",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Easy",
+    "question": "What does leading a foreign-currency payment mean?",
+    "options": [
+      "Accelerating the date of payment",
+      "Delaying the date of payment",
+      "Changing the payable to a forward receivable",
+      "Translating foreign financial statements early"
+    ],
+    "correct": 0,
+    "explanation": "Leading speeds up the cash flow.",
+    "source": "FIN481 Chapter 8 lecture PDF, concept/application"
+  },
+  {
+    "id": "b94f16042e807fb0a9e608183baa5381",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "What does lagging a foreign-currency collection mean?",
+    "options": [
+      "Accelerating the receipt date",
+      "Changing the invoice amount after settlement",
+      "Delaying the receipt date",
+      "Converting the receivable to cash immediately"
+    ],
+    "correct": 2,
+    "explanation": "Lagging postpones a cash flow.",
+    "source": "FIN481 Chapter 8 lecture PDF, concept/application"
+  },
+  {
+    "id": "f8280faf29f37de368a54b21cb47dd68",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "Which situation is best described as operational hedging?",
+    "options": [
+      "Purchasing a short-dated euro put with no operating change",
+      "Matching euro revenues with euro-denominated costs",
+      "Using only a euro forward contract",
+      "Taking a speculative long euro futures position"
+    ],
+    "correct": 1,
+    "explanation": "Matching revenues and expenses creates a natural currency offset.",
+    "source": "FIN481 Chapter 8 lecture PDF, concept/application"
+  },
+  {
+    "id": "7e427753fff32dcf155b6d54f7e3034e",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "How does the quote $1.24/EUR affect the dollar valuation of a EUR 50,000 receivable?",
+    "options": [
+      "Divide 50,000 by 1.24",
+      "Multiply 50,000 by 1.24",
+      "Multiply 50,000 by 1/1.24 and divide by 100",
+      "Subtract 1.24 from 50,000"
+    ],
+    "correct": 1,
+    "explanation": "The quote is dollars per euro; dollars = euros × dollars/euro.",
+    "source": "FIN481 Chapter 8 lecture PDF, concept/application"
+  },
+  {
+    "id": "c0b95c380442827fa4c31272f85ebb21",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Easy",
+    "question": "What practical mismatch may weaken a currency futures hedge?",
+    "options": [
+      "Contract size or settlement date differs from the exposure",
+      "A currency future is always exercised voluntarily",
+      "A future exactly replicates any cash-flow amount",
+      "Exchange-traded futures eliminate every price risk"
+    ],
+    "correct": 0,
+    "explanation": "Standardization can create basis and maturity mismatch.",
+    "source": "FIN481 Chapter 8 lecture PDF, concept/application"
+  },
+  {
+    "id": "49faf4b933bbd00ee4e5dab66b1f30bf",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "Which statement about the hedging objective is consistent with Chapter 8?",
+    "options": [
+      "Risk reduction may mean giving up a favorable currency movement",
+      "The hedge must earn positive profits at settlement",
+      "The firm must maximize profits in every realized exchange-rate state",
+      "Successful hedging eliminates all operating risks"
+    ],
+    "correct": 0,
+    "explanation": "Hedging reduces cash-flow uncertainty rather than ensuring the best outcome.",
+    "source": "FIN481 Chapter 8 lecture PDF, concept/application"
+  },
+  {
+    "id": "e947bdd72efd7d246629e2d21e4b39bf",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Easy",
+    "question": "A business has no foreign-currency invoices but loses demand when a competitor benefits from currency depreciation. What exposure is illustrated?",
+    "options": [
+      "Only translation exposure",
+      "Economic exposure",
+      "A fixed contractual payable",
+      "Only interest-rate risk"
+    ],
+    "correct": 1,
+    "explanation": "Economic exposure can occur without foreign currency invoices.",
+    "source": "FIN481 Chapter 9 lecture PDF, concept/application"
+  },
+  {
+    "id": "1b6f29be9ea597f01e511e70009712be",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Easy",
+    "question": "Why is economic exposure generally harder to hedge than transaction exposure?",
+    "options": [
+      "Future sales volumes, prices, and horizons are uncertain",
+      "It can always be hedged perfectly with one short forward",
+      "All future exchange rates are known",
+      "Only accounting entries are affected"
+    ],
+    "correct": 0,
+    "explanation": "Future operating effects are uncertain and require strategic responses.",
+    "source": "FIN481 Chapter 9 lecture PDF, concept/application"
+  },
+  {
+    "id": "78c9aceacb9bdc94329ba0c4072a39b3",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Hard",
+    "question": "Which chain best illustrates a currency shock affecting enterprise value?",
+    "options": [
+      "Exchange rate → historical book value → cash balance only → firm value",
+      "Exchange rate → shareholder count → coupon → tax rate → firm value",
+      "Exchange rate → relative prices → demand → margin → firm value",
+      "Exchange rate → depreciation expense → fixed bond coupon → firm value"
+    ],
+    "correct": 2,
+    "explanation": "Relative price competitiveness influences demand, profitability, and value.",
+    "source": "FIN481 Chapter 9 lecture PDF, concept/application"
+  },
+  {
+    "id": "bad86bdfd6fcae7985b5a5540d3b84dc",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Medium",
+    "question": "A U.S. retailer sources merchandise in Japan. What is a likely effect of yen appreciation, all else equal?",
+    "options": [
+      "An immediate reduction in fixed dollar liabilities",
+      "Lower dollar input costs",
+      "Higher dollar input costs",
+      "Lower costs independent of pricing"
+    ],
+    "correct": 2,
+    "explanation": "Each yen now costs more dollars.",
+    "source": "FIN481 Chapter 9 lecture PDF, concept/application"
+  },
+  {
+    "id": "4050c2624ebd0da7db5fdedf492a4241",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Medium",
+    "question": "Which operating structure creates a natural hedge?",
+    "options": [
+      "Local-currency sales matched with local-currency operating expenses",
+      "Uncertain sales with a fixed zero-coupon bond",
+      "Local-currency sales with all costs in a strongly different currency",
+      "Revenues solely in dollars and costs solely in yen"
+    ],
+    "correct": 0,
+    "explanation": "Same-currency revenue and expenses make net cash flow less sensitive.",
+    "source": "FIN481 Chapter 9 lecture PDF, concept/application"
+  },
+  {
+    "id": "1b5b1f5d494d5e939f0947baa5c6a7f2",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Easy",
+    "question": "In a regression of cash-flow changes on exchange-rate changes, what does the slope coefficient estimate?",
+    "options": [
+      "The risk-free interest rate",
+      "The tax rate implied by equity cost",
+      "A guaranteed causal effect in every period",
+      "Cash-flow sensitivity to exchange-rate changes"
+    ],
+    "correct": 3,
+    "explanation": "Beta is estimated association and is not automatically causal.",
+    "source": "FIN481 Chapter 9 lecture PDF, concept/application"
+  },
+  {
+    "id": "7184ae2bb786808894579350acc497a5",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Easy",
+    "question": "Before interpreting the sign of exchange-rate regression beta, what must the analyst specify?",
+    "options": [
+      "The corporate tax code of the parent country",
+      "The firm’s historical dividend payout",
+      "How the exchange rate is quoted",
+      "Only the number of shareholders"
+    ],
+    "correct": 2,
+    "explanation": "Quote direction determines which currency strengthens when the rate rises.",
+    "source": "FIN481 Chapter 9 lecture PDF, concept/application"
+  },
+  {
+    "id": "7e626ec9b2e232e1041fb2fc246dc573",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Medium",
+    "question": "Which is a practical strategy to reduce persistent economic exposure?",
+    "options": [
+      "Concentrate every input in one currency",
+      "Always hedge the entire forecast sales volume with a single short forward",
+      "Diversify production and sourcing locations",
+      "Eliminate product differentiation"
+    ],
+    "correct": 2,
+    "explanation": "Sourcing diversity creates flexibility under exchange-rate shocks.",
+    "source": "FIN481 Chapter 9 lecture PDF, concept/application"
+  },
+  {
+    "id": "cd17839307792bb2fed8986113b4d949",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Hard",
+    "question": "How does product differentiation potentially reduce economic exposure?",
+    "options": [
+      "It converts future sales automatically into contractual receivables",
+      "It eliminates foreign competition",
+      "It can reduce customers’ sensitivity to relative price changes",
+      "It fixes every currency spot rate"
+    ],
+    "correct": 2,
+    "explanation": "Customers may tolerate price changes for differentiated products.",
+    "source": "FIN481 Chapter 9 lecture PDF, concept/application"
+  },
+  {
+    "id": "5323574723332665251f38e27f772a05",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Hard",
+    "question": "Which tool best measures consequences of alternative future currency shocks on operating cash flow?",
+    "options": [
+      "The number of shares outstanding",
+      "Scenario analysis",
+      "Only the last reported balance sheet",
+      "A historical amortization schedule"
+    ],
+    "correct": 1,
+    "explanation": "Scenarios model different prices, volumes and margins.",
+    "source": "FIN481 Chapter 9 lecture PDF, concept/application"
+  },
+  {
+    "id": "e960c77f4d60d20b27d1a37d8f36db7e",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Hard",
+    "question": "Why might a long-dated operating exposure persist after a three-month forward hedge expires?",
+    "options": [
+      "Economic exposure is always zero after entering one forward",
+      "The forward permanently eliminates product competition",
+      "The forward fixes all future customer demand",
+      "The forward covers a specific cash flow rather than changing the operating model"
+    ],
+    "correct": 3,
+    "explanation": "A short-term financial hedge does not permanently alter sales and cost sensitivity.",
+    "source": "FIN481 Chapter 9 lecture PDF, concept/application"
+  },
+  {
+    "id": "5e4a0c40fefabb0c047d808c99a6fdd6",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Medium",
+    "question": "What is the benefit of being able to shift manufacturing between countries?",
+    "options": [
+      "Guaranteed identical wages across countries",
+      "Permanent fixation of global exchange rates",
+      "Flexibility to respond to currency-driven cost differences",
+      "Elimination of translation accounting"
+    ],
+    "correct": 2,
+    "explanation": "Operational flexibility lets a firm change sourcing as relative costs move.",
+    "source": "FIN481 Chapter 9 lecture PDF, concept/application"
+  },
+  {
+    "id": "dc94717a024d4a04bd0b153c723954bb",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Medium",
+    "question": "A firm receives euros and pays most production costs in dollars. Relative to paying costs in euros, this creates what?",
+    "options": [
+      "Perfect neutralization of euro exchange risk",
+      "No potential competitiveness effects",
+      "A more effective same-currency natural hedge",
+      "Greater currency mismatch in operating cash flow"
+    ],
+    "correct": 3,
+    "explanation": "Different revenue and cost currencies increase net cash-flow sensitivity.",
+    "source": "FIN481 Chapter 9 lecture PDF, concept/application"
+  },
+  {
+    "id": "f21ef84ec1f510dcdb1ba3a1b16612e2",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Hard",
+    "question": "How should a firm initially assess economic exposure under the lecture decision framework?",
+    "options": [
+      "Translate a single inventory balance only",
+      "Estimate financial statement depreciation only",
+      "Choose a derivative without assessing cash flows",
+      "Map revenues, costs, and competitors by currency"
+    ],
+    "correct": 3,
+    "explanation": "Identify business currency sensitivities before stress testing and choosing responses.",
+    "source": "FIN481 Chapter 9 lecture PDF, concept/application"
+  },
+  {
+    "id": "e80f87cc2262e4700d505b3a606f5f1c",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Medium",
+    "question": "In Chapter 9, financial hedges are described as useful but limited because they primarily cover what?",
+    "options": [
+      "All changes in competitive landscape",
+      "Permanent changes in foreign customer tastes",
+      "Specific forecast foreign-currency cash flows",
+      "All future uncertain sales and cost effects without basis risk"
+    ],
+    "correct": 2,
+    "explanation": "Forwards, futures, and options may protect identifiable forecast flows, not every strategic consequence.",
+    "source": "FIN481 Chapter 9 lecture PDF, concept/application"
+  },
+  {
+    "id": "af4f9dea96769b97f2a78b570f6ed6a1",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Which investment is most clearly foreign direct investment?",
+    "options": [
+      "Building and controlling a manufacturing subsidiary abroad",
+      "Holding a foreign Treasury bill to maturity",
+      "Buying foreign currency for a vacation",
+      "Buying a few foreign shares solely for a diversified portfolio"
+    ],
+    "correct": 0,
+    "explanation": "FDI implies significant control or influence and long-term commitment.",
+    "source": "FIN481 Chapter 16 lecture PDF, concept/application"
+  },
+  {
+    "id": "3b07ffbd14f20da768e46053991d37d9",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A coffee chain opens similar owned stores in another country to serve local customers. This is what type of FDI?",
+    "options": [
+      "A passive bond investment",
+      "A cross-currency swap",
+      "Vertical FDI",
+      "Horizontal FDI"
+    ],
+    "correct": 3,
+    "explanation": "Horizontal FDI replicates similar activities abroad.",
+    "source": "FIN481 Chapter 16 lecture PDF, concept/application"
+  },
+  {
+    "id": "2dee68c062342846bb68eb216ec08c46",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "A carmaker establishes an overseas component plant to feed its home assembly operations. This is what type of FDI?",
+    "options": [
+      "A purely portfolio investment",
+      "A shareholder dividend recapitalization",
+      "Horizontal FDI",
+      "Vertical FDI"
+    ],
+    "correct": 3,
+    "explanation": "Vertical FDI locates different supply-chain stages abroad.",
+    "source": "FIN481 Chapter 16 lecture PDF, concept/application"
+  },
+  {
+    "id": "e56eb97ad40b1ca502d14dd215c71866",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "Which entry mode involves constructing new operations abroad?",
+    "options": [
+      "Cross-border acquisition",
+      "Greenfield investment",
+      "Passive stock-index tracking",
+      "International government-bond purchase"
+    ],
+    "correct": 1,
+    "explanation": "Greenfield creates facilities and operations rather than acquiring an existing company.",
+    "source": "FIN481 Chapter 16 lecture PDF, concept/application"
+  },
+  {
+    "id": "7ba3f53a8fa52fd87abda0ee8f136e75",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "Which entry mode purchases control of an existing foreign business?",
+    "options": [
+      "Holding currency deposits",
+      "Cross-border acquisition",
+      "Greenfield expansion",
+      "Exporting without local assets"
+    ],
+    "correct": 1,
+    "explanation": "A cross-border acquisition buys an existing business.",
+    "source": "FIN481 Chapter 16 lecture PDF, concept/application"
+  },
+  {
+    "id": "d7a193af82326fc0e17f7b22661542ce",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Which statement best characterizes a friendly takeover?",
+    "options": [
+      "Target management opposes the bid",
+      "No change in ownership occurs",
+      "It necessarily involves new plant construction",
+      "Target management supports the agreement"
+    ],
+    "correct": 3,
+    "explanation": "Friendly acquisition has target management approval.",
+    "source": "FIN481 Chapter 16 lecture PDF, concept/application"
+  },
+  {
+    "id": "16cb13105ea8bad6cbbad13b3e089cfc",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "What distinguishes a hostile acquisition?",
+    "options": [
+      "It proceeds without target management’s approval",
+      "It occurs only between companies in the same country",
+      "It always builds new productive facilities",
+      "It always happens without paying target shareholders"
+    ],
+    "correct": 0,
+    "explanation": "Target managers do not approve a hostile bid.",
+    "source": "FIN481 Chapter 16 lecture PDF, concept/application"
+  },
+  {
+    "id": "264ffecafce7b4aaeeab26ff7d98c94d",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "What is a cost synergy in a cross-border acquisition?",
+    "options": [
+      "Selling more units through cross-selling",
+      "Savings from shared operations or economies of scale",
+      "Paying an above-market takeover premium",
+      "Exchange-rate translation of retained earnings"
+    ],
+    "correct": 1,
+    "explanation": "Cost synergies arise when combined operations reduce costs.",
+    "source": "FIN481 Chapter 16 lecture PDF, concept/application"
+  },
+  {
+    "id": "5f4e3ab3b08b7817fad379fa1f940f08",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "What is a revenue synergy from an acquisition?",
+    "options": [
+      "Cross-selling products into the combined customer base",
+      "Paying more than the stand-alone value",
+      "Reducing redundant administrative staff",
+      "Issuing debt exclusively in the acquirer’s country"
+    ],
+    "correct": 0,
+    "explanation": "Combined markets and distribution may raise sales.",
+    "source": "FIN481 Chapter 16 lecture PDF, concept/application"
+  },
+  {
+    "id": "3e0e7e384f1ecde9bf3d7d0819c7feaf",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "In acquisition evaluation, an acquisition premium is what?",
+    "options": [
+      "Amount paid above the target’s market value",
+      "Discount obtained below all expected future cash flows",
+      "Currency translation gain from future sales",
+      "Projected cost reduction from integrating factories"
+    ],
+    "correct": 0,
+    "explanation": "Premium is excess purchase price over market value.",
+    "source": "FIN481 Chapter 16 lecture PDF, concept/application"
+  },
+  {
+    "id": "3fe73003059c0c36eec3ec32c5f59947",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "What is the key valuation test for a proposed foreign acquisition?",
+    "options": [
+      "The highest nominal revenue always creates the most value",
+      "Risk- and FX-adjusted cash-flow value including synergies versus price paid",
+      "The target must have the same currency as the buyer",
+      "The purchase price must exceed all estimated benefits"
+    ],
+    "correct": 1,
+    "explanation": "Compare the risk-adjusted value of combined benefits to acquisition cost.",
+    "source": "FIN481 Chapter 16 lecture PDF, concept/application"
+  },
+  {
+    "id": "57320d1e9c565b3c2c363eb7466909f0",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "Which is a common motivation for undertaking FDI?",
+    "options": [
+      "Avoiding all future exchange-rate exposure",
+      "Eliminating operating costs entirely",
+      "Accessing new markets and specialized resources",
+      "Ensuring all government regulations disappear"
+    ],
+    "correct": 2,
+    "explanation": "Foreign investments may expand markets, access talent/resources and lower costs.",
+    "source": "FIN481 Chapter 16 lecture PDF, concept/application"
+  },
+  {
+    "id": "02a6f85c6d2aea935a4f1cf3d847174a",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "What does internalization theory emphasize?",
+    "options": [
+      "Owning and controlling foreign operations when internal coordination is more efficient",
+      "Licensing everything regardless of transaction costs",
+      "Avoiding foreign operations under all market conditions",
+      "Buying foreign securities solely for coupon income"
+    ],
+    "correct": 0,
+    "explanation": "Internalize when controlling operations is more efficient than contracting in markets.",
+    "source": "FIN481 Chapter 16 lecture PDF, concept/application"
+  },
+  {
+    "id": "3a34516f07dd305b35e2f9f75062dfc8",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "How can government tariffs encourage FDI?",
+    "options": [
+      "Prevent all ownership of local operations",
+      "Guarantee acquisition value without risk adjustment",
+      "Ensure foreign and local goods have identical prices",
+      "Make local production more attractive than exporting"
+    ],
+    "correct": 3,
+    "explanation": "Trade barriers may favor locating production inside the market.",
+    "source": "FIN481 Chapter 16 lecture PDF, concept/application"
+  },
+  {
+    "id": "080a743773d48309b533510ded9b76a5",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Why must currency risk be included when valuing a foreign target?",
+    "options": [
+      "Target cash flows are necessarily denominated in dollars",
+      "Exchange-rate changes affect converted future cash flows",
+      "Currency movements never change home-currency valuation",
+      "An acquisition premium eliminates currency uncertainty"
+    ],
+    "correct": 1,
+    "explanation": "Convert and discount cash flows with exchange-rate exposure and risk in mind.",
+    "source": "FIN481 Chapter 16 lecture PDF, concept/application"
+  },
+  {
+    "id": "e05bef2f33b08fd75f0777d0bbd93650",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Hard",
+    "question": "A U.S. business receives EUR 80,000 in 90 days and hedges with a forward contract at $1.060/EUR. What is the fixed dollar receipt? (Round to nearest dollar; enter amount in USD.)",
+    "options": [
+      "81,600",
+      "75,472",
+      "84,800",
+      "88,000"
+    ],
+    "correct": 2,
+    "explanation": "Fixed dollar cash flow = EUR 80,000 × $1.060/EUR = $84,800.00.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "ccd642baa9dd75ca1639930308e40ea0",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Hard",
+    "question": "A U.S. business owes EUR 97,000 in 90 days and hedges with a forward contract at $1.085/EUR. What is the fixed dollar payment? (Round to nearest dollar; enter amount in USD.)",
+    "options": [
+      "89,401",
+      "109,125",
+      "105,245",
+      "101,365"
+    ],
+    "correct": 2,
+    "explanation": "Fixed dollar cash flow = EUR 97,000 × $1.085/EUR = $105,245.00.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "05e964742483cdeb77f8cb7f916eeae8",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Easy",
+    "question": "A U.S. business receives EUR 114,000 in 90 days and hedges with a forward contract at $1.110/EUR. What is the fixed dollar receipt? (Round to nearest dollar; enter amount in USD.)",
+    "options": [
+      "121,980",
+      "102,703",
+      "131,100",
+      "126,540"
+    ],
+    "correct": 3,
+    "explanation": "Fixed dollar cash flow = EUR 114,000 × $1.110/EUR = $126,540.00.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "ae1ed26fc06befad113818235c1856f4",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Hard",
+    "question": "A U.S. business owes EUR 131,000 in 90 days and hedges with a forward contract at $1.135/EUR. What is the fixed dollar payment? (Round to nearest dollar; enter amount in USD.)",
+    "options": [
+      "153,925",
+      "143,445",
+      "148,685",
+      "115,419"
+    ],
+    "correct": 2,
+    "explanation": "Fixed dollar cash flow = EUR 131,000 × $1.135/EUR = $148,685.00.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "c360187c74c63a72e903d80da38ec939",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "A U.S. business receives EUR 148,000 in 90 days and hedges with a forward contract at $1.160/EUR. What is the fixed dollar receipt? (Round to nearest dollar; enter amount in USD.)",
+    "options": [
+      "177,600",
+      "165,760",
+      "171,680",
+      "127,586"
+    ],
+    "correct": 2,
+    "explanation": "Fixed dollar cash flow = EUR 148,000 × $1.160/EUR = $171,680.00.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "95f242d592d6fe015f528af8bf3c1b54",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Hard",
+    "question": "A U.S. business owes EUR 165,000 in 90 days and hedges with a forward contract at $1.185/EUR. What is the fixed dollar payment? (Round to nearest dollar; enter amount in USD.)",
+    "options": [
+      "195,525",
+      "202,125",
+      "188,925",
+      "139,241"
+    ],
+    "correct": 0,
+    "explanation": "Fixed dollar cash flow = EUR 165,000 × $1.185/EUR = $195,525.00.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "f9cc5fa8c0f4a12a14471bac1daa0d3e",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "A U.S. business receives EUR 182,000 in 90 days and hedges with a forward contract at $1.210/EUR. What is the fixed dollar receipt? (Round to nearest dollar; enter amount in USD.)",
+    "options": [
+      "227,500",
+      "150,413",
+      "220,220",
+      "212,940"
+    ],
+    "correct": 2,
+    "explanation": "Fixed dollar cash flow = EUR 182,000 × $1.210/EUR = $220,220.00.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "49013b8abcabfa04bf798595642f9230",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "A U.S. business owes EUR 199,000 in 90 days and hedges with a forward contract at $1.235/EUR. What is the fixed dollar payment? (Round to nearest dollar; enter amount in USD.)",
+    "options": [
+      "161,134",
+      "245,765",
+      "253,725",
+      "237,805"
+    ],
+    "correct": 1,
+    "explanation": "Fixed dollar cash flow = EUR 199,000 × $1.235/EUR = $245,765.00.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "120dcb0000a67dbba3e95c0fde0c956c",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Easy",
+    "question": "A U.S. importer owes EUR 95,000 in one year. Spot is $1.08/EUR, euro deposit rate 2.0%, and dollar borrowing rate 4.0%. For a money-market hedge, what dollar loan repayment is due in one year? (USD, 2 decimals.)",
+    "options": [
+      "100,588.24",
+      "106,704.00",
+      "102,600.00",
+      "104,611.76"
+    ],
+    "correct": 3,
+    "explanation": "Buy EUR present value 95,000/(1+0.020), convert at $1.08/EUR, borrow those dollars, then repay ×(1+0.040) = $104,611.76.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "0fa0d4d97149f0fdd859f228f830d928",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Easy",
+    "question": "A U.S. importer owes EUR 110,000 in one year. Spot is $1.12/EUR, euro deposit rate 2.5%, and dollar borrowing rate 4.5%. For a money-market hedge, what dollar loan repayment is due in one year? (USD, 2 decimals.)",
+    "options": [
+      "123,200.00",
+      "128,744.00",
+      "120,195.12",
+      "125,603.90"
+    ],
+    "correct": 3,
+    "explanation": "Buy EUR present value 110,000/(1+0.025), convert at $1.12/EUR, borrow those dollars, then repay ×(1+0.045) = $125,603.90.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "2f9e468c013dae01dc8d10dab3eb469f",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Easy",
+    "question": "A U.S. importer owes EUR 125,000 in one year. Spot is $1.16/EUR, euro deposit rate 3.0%, and dollar borrowing rate 5.0%. For a money-market hedge, what dollar loan repayment is due in one year? (USD, 2 decimals.)",
+    "options": [
+      "145,000.00",
+      "147,815.53",
+      "140,776.70",
+      "152,250.00"
+    ],
+    "correct": 1,
+    "explanation": "Buy EUR present value 125,000/(1+0.030), convert at $1.16/EUR, borrow those dollars, then repay ×(1+0.050) = $147,815.53.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "e354ac48bd71ea220509aca09f6a867b",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "A U.S. importer owes EUR 140,000 in one year. Spot is $1.20/EUR, euro deposit rate 3.5%, and dollar borrowing rate 5.5%. For a money-market hedge, what dollar loan repayment is due in one year? (USD, 2 decimals.)",
+    "options": [
+      "162,318.84",
+      "171,246.38",
+      "168,000.00",
+      "177,240.00"
+    ],
+    "correct": 1,
+    "explanation": "Buy EUR present value 140,000/(1+0.035), convert at $1.20/EUR, borrow those dollars, then repay ×(1+0.055) = $171,246.38.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "2e1de60ce7a587f612b93abd4deaafaa",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "A U.S. importer owes EUR 155,000 in one year. Spot is $1.24/EUR, euro deposit rate 4.0%, and dollar borrowing rate 6.0%. For a money-market hedge, what dollar loan repayment is due in one year? (USD, 2 decimals.)",
+    "options": [
+      "184,807.69",
+      "192,200.00",
+      "203,732.00",
+      "195,896.15"
+    ],
+    "correct": 3,
+    "explanation": "Buy EUR present value 155,000/(1+0.040), convert at $1.24/EUR, borrow those dollars, then repay ×(1+0.060) = $195,896.15.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "d6d57c79490b5a383460a4d0f6a4c680",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Hard",
+    "question": "A U.S. importer owes EUR 170,000 in one year. Spot is $1.28/EUR, euro deposit rate 4.5%, and dollar borrowing rate 6.5%. For a money-market hedge, what dollar loan repayment is due in one year? (USD, 2 decimals.)",
+    "options": [
+      "217,600.00",
+      "221,764.59",
+      "208,229.67",
+      "231,744.00"
+    ],
+    "correct": 1,
+    "explanation": "Buy EUR present value 170,000/(1+0.045), convert at $1.28/EUR, borrow those dollars, then repay ×(1+0.065) = $221,764.59.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "bc9106855136e9b1fc1d3b15d0a43a7e",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Easy",
+    "question": "A U.S. firm receives EUR 50,000 and buys a euro put with strike $1.100/EUR and premium $0.018/EUR. At settlement spot is $1.010/EUR. What is the net dollar proceeds including premium? (USD, 2 decimals.)",
+    "options": [
+      "55,000.00",
+      "55,900.00",
+      "50,500.00",
+      "54,100.00"
+    ],
+    "correct": 3,
+    "explanation": "The put determines the favorable effective rate, and premium is deducted from receipts: $54,100.00.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "8e3be7847fdd455bece80577a2c948f7",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "A U.S. firm owes EUR 62,000 and buys a euro call with strike $1.130/EUR and premium $0.020/EUR. At settlement spot is $1.220/EUR. What is the net dollar cost including premium? (USD, 2 decimals.)",
+    "options": [
+      "68,820.00",
+      "71,300.00",
+      "70,060.00",
+      "75,640.00"
+    ],
+    "correct": 1,
+    "explanation": "The call determines the favorable effective rate, and premium is added to payment: $71,300.00.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "9aa09506a03925403bc95baec498f77f",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Medium",
+    "question": "A U.S. firm receives EUR 74,000 and buys a euro put with strike $1.160/EUR and premium $0.022/EUR. At settlement spot is $1.070/EUR. What is the net dollar proceeds including premium? (USD, 2 decimals.)",
+    "options": [
+      "79,180.00",
+      "84,212.00",
+      "85,840.00",
+      "87,468.00"
+    ],
+    "correct": 1,
+    "explanation": "The put determines the favorable effective rate, and premium is deducted from receipts: $84,212.00.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "3d18dc025a47ce880953280c8e8c4102",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Hard",
+    "question": "A U.S. firm owes EUR 86,000 and buys a euro call with strike $1.190/EUR and premium $0.024/EUR. At settlement spot is $1.280/EUR. What is the net dollar cost including premium? (USD, 2 decimals.)",
+    "options": [
+      "102,340.00",
+      "110,080.00",
+      "104,404.00",
+      "100,276.00"
+    ],
+    "correct": 2,
+    "explanation": "The call determines the favorable effective rate, and premium is added to payment: $104,404.00.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "b57b259fe23491767fb49c8ed15eff7f",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Easy",
+    "question": "A U.S. firm receives EUR 98,000 and buys a euro put with strike $1.220/EUR and premium $0.026/EUR. At settlement spot is $1.130/EUR. What is the net dollar proceeds including premium? (USD, 2 decimals.)",
+    "options": [
+      "110,740.00",
+      "117,012.00",
+      "119,560.00",
+      "122,108.00"
+    ],
+    "correct": 1,
+    "explanation": "The put determines the favorable effective rate, and premium is deducted from receipts: $117,012.00.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "8ab67bf34a18bb1b423e955eda1fb58a",
+    "course": "FIN481",
+    "chapter": "8",
+    "difficulty": "Easy",
+    "question": "A U.S. firm owes EUR 110,000 and buys a euro call with strike $1.250/EUR and premium $0.028/EUR. At settlement spot is $1.340/EUR. What is the net dollar cost including premium? (USD, 2 decimals.)",
+    "options": [
+      "137,500.00",
+      "147,400.00",
+      "140,580.00",
+      "134,420.00"
+    ],
+    "correct": 2,
+    "explanation": "The call determines the favorable effective rate, and premium is added to payment: $140,580.00.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "51b37c57f8bef66ce854872a7161bb60",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Easy",
+    "question": "In a currency-stress scenario, sales decline from $10.00 million to $9.30 million, and operating costs rise from $6.60 million to $6.75 million. By how many millions of dollars does operating cash flow decline?",
+    "options": [
+      "0.85",
+      "0.15",
+      "1.35",
+      "0.70"
+    ],
+    "correct": 0,
+    "explanation": "Before shock cash flow = 3.40; after shock = 2.55; decline = 0.85 million.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "04fd00a8b52ee44b0d7085ef1b845ff0",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Hard",
+    "question": "In a currency-stress scenario, sales decline from $11.50 million to $10.70 million, and operating costs rise from $7.70 million to $7.87 million. By how many millions of dollars does operating cash flow decline?",
+    "options": [
+      "0.97",
+      "1.47",
+      "0.80",
+      "0.17"
+    ],
+    "correct": 0,
+    "explanation": "Before shock cash flow = 3.80; after shock = 2.83; decline = 0.97 million.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "5f01d35fa292d11e9aad04512a515f02",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Hard",
+    "question": "In a currency-stress scenario, sales decline from $13.00 million to $12.10 million, and operating costs rise from $8.80 million to $8.99 million. By how many millions of dollars does operating cash flow decline?",
+    "options": [
+      "0.19",
+      "1.09",
+      "1.59",
+      "0.90"
+    ],
+    "correct": 1,
+    "explanation": "Before shock cash flow = 4.20; after shock = 3.11; decline = 1.09 million.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "ecaf2ab1cc949803d32e391a7e054137",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Easy",
+    "question": "In a currency-stress scenario, sales decline from $14.50 million to $13.50 million, and operating costs rise from $9.90 million to $10.11 million. By how many millions of dollars does operating cash flow decline?",
+    "options": [
+      "1.71",
+      "1.21",
+      "0.21",
+      "1.00"
+    ],
+    "correct": 1,
+    "explanation": "Before shock cash flow = 4.60; after shock = 3.39; decline = 1.21 million.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "f4d9da41e9949abdfc1fd5eab38731ca",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Medium",
+    "question": "In a currency-stress scenario, sales decline from $16.00 million to $14.90 million, and operating costs rise from $11.00 million to $11.23 million. By how many millions of dollars does operating cash flow decline?",
+    "options": [
+      "1.10",
+      "0.23",
+      "1.33",
+      "1.83"
+    ],
+    "correct": 2,
+    "explanation": "Before shock cash flow = 5.00; after shock = 3.67; decline = 1.33 million.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "04881ab5fb64d31c7bdc8835f301e887",
+    "course": "FIN481",
+    "chapter": "9",
+    "difficulty": "Medium",
+    "question": "In a currency-stress scenario, sales decline from $17.50 million to $16.30 million, and operating costs rise from $12.10 million to $12.35 million. By how many millions of dollars does operating cash flow decline?",
+    "options": [
+      "1.45",
+      "0.25",
+      "1.95",
+      "1.20"
+    ],
+    "correct": 0,
+    "explanation": "Before shock cash flow = 5.40; after shock = 3.95; decline = 1.45 million.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "e9147142bbaac6b480df7210a510c40d",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A foreign target has a risk-adjusted stand-alone value of $22.0 million, estimated synergy value of $5.0 million, additional integration/FX risk adjustment of $2.0 million (subtract), and an acquisition price of $23.0 million. What is the acquisition net value added in millions?",
+    "options": [
+      "2.00",
+      "6.00",
+      "-1.00",
+      "4.00"
+    ],
+    "correct": 0,
+    "explanation": "Net added value = 22.0 + 5.0 − 2.0 − 23.0 = 2.00 million.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "c4f115f69e55fa9057f96d4d5f963cc0",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "A foreign target has a risk-adjusted stand-alone value of $25.0 million, estimated synergy value of $6.5 million, additional integration/FX risk adjustment of $2.5 million (subtract), and an acquisition price of $27.0 million. What is the acquisition net value added in millions?",
+    "options": [
+      "2.00",
+      "-2.00",
+      "7.00",
+      "4.50"
+    ],
+    "correct": 0,
+    "explanation": "Net added value = 25.0 + 6.5 − 2.5 − 27.0 = 2.00 million.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "41c9025cf03aabde6cdcb890eae239bf",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A foreign target has a risk-adjusted stand-alone value of $28.0 million, estimated synergy value of $8.0 million, additional integration/FX risk adjustment of $3.0 million (subtract), and an acquisition price of $31.0 million. What is the acquisition net value added in millions?",
+    "options": [
+      "2.00",
+      "8.00",
+      "-3.00",
+      "5.00"
+    ],
+    "correct": 0,
+    "explanation": "Net added value = 28.0 + 8.0 − 3.0 − 31.0 = 2.00 million.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "21c03c7306e1bd0ff3637a5ef1d8d7fa",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A foreign target has a risk-adjusted stand-alone value of $31.0 million, estimated synergy value of $9.5 million, additional integration/FX risk adjustment of $3.5 million (subtract), and an acquisition price of $35.0 million. What is the acquisition net value added in millions?",
+    "options": [
+      "-4.00",
+      "2.00",
+      "9.00",
+      "5.50"
+    ],
+    "correct": 1,
+    "explanation": "Net added value = 31.0 + 9.5 − 3.5 − 35.0 = 2.00 million.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "7d3610314163b513cb5a714c3d81ea09",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A foreign target has a risk-adjusted stand-alone value of $34.0 million, estimated synergy value of $11.0 million, additional integration/FX risk adjustment of $4.0 million (subtract), and an acquisition price of $39.0 million. What is the acquisition net value added in millions?",
+    "options": [
+      "10.00",
+      "2.00",
+      "-5.00",
+      "6.00"
+    ],
+    "correct": 1,
+    "explanation": "Net added value = 34.0 + 11.0 − 4.0 − 39.0 = 2.00 million.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "1f12d07a7f3e06ffbf8fd470b3b5858e",
+    "course": "FIN481",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A foreign target has a risk-adjusted stand-alone value of $37.0 million, estimated synergy value of $12.5 million, additional integration/FX risk adjustment of $4.5 million (subtract), and an acquisition price of $43.0 million. What is the acquisition net value added in millions?",
+    "options": [
+      "-6.00",
+      "11.00",
+      "6.50",
+      "2.00"
+    ],
+    "correct": 3,
+    "explanation": "Net added value = 37.0 + 12.5 − 4.5 − 43.0 = 2.00 million.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "f59e5c3895e08d422c1ecc2bef60925b",
+    "course": "FIN481",
+    "chapter": "Parity",
+    "difficulty": "Medium",
+    "question": "Using relative PPP, forecast USD/EUR in 1 year(s) when today’s spot is $1.020/EUR, annual U.S. inflation is 2.5%, and euro-area inflation is 1.0%. (USD/EUR, 4 decimals.)",
+    "options": [
+      "1.0351",
+      "1.0200",
+      "1.0051",
+      "1.0455"
+    ],
+    "correct": 0,
+    "explanation": "Expected USD/EUR = 1.020 × [(1+0.025)/(1+0.010)]^1 = 1.0351.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "949fd56edeb0460647cbf893536e4219",
+    "course": "FIN481",
+    "chapter": "Parity",
+    "difficulty": "Easy",
+    "question": "Using relative PPP, forecast USD/EUR in 2 year(s) when today’s spot is $1.070/EUR, annual U.S. inflation is 3.1%, and euro-area inflation is 1.3%. (USD/EUR, 4 decimals.)",
+    "options": [
+      "1.0330",
+      "1.0700",
+      "1.1084",
+      "1.1374"
+    ],
+    "correct": 2,
+    "explanation": "Expected USD/EUR = 1.070 × [(1+0.031)/(1+0.013)]^2 = 1.1084.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "fea8265651e4c2beb1a6e97f1a091169",
+    "course": "FIN481",
+    "chapter": "Parity",
+    "difficulty": "Medium",
+    "question": "Using relative PPP, forecast USD/EUR in 3 year(s) when today’s spot is $1.120/EUR, annual U.S. inflation is 3.7%, and euro-area inflation is 1.6%. (USD/EUR, 4 decimals.)",
+    "options": [
+      "1.0533",
+      "1.1909",
+      "1.2490",
+      "1.1200"
+    ],
+    "correct": 1,
+    "explanation": "Expected USD/EUR = 1.120 × [(1+0.037)/(1+0.016)]^3 = 1.1909.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "0eb087002408b66174bc0e4806c1428b",
+    "course": "FIN481",
+    "chapter": "Parity",
+    "difficulty": "Medium",
+    "question": "Using relative PPP, forecast USD/EUR in 1 year(s) when today’s spot is $1.170/EUR, annual U.S. inflation is 4.3%, and euro-area inflation is 1.9%. (USD/EUR, 4 decimals.)",
+    "options": [
+      "1.1700",
+      "1.2203",
+      "1.1431",
+      "1.1976"
+    ],
+    "correct": 3,
+    "explanation": "Expected USD/EUR = 1.170 × [(1+0.043)/(1+0.019)]^1 = 1.1976.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "f1a86a15d90adc929119aee314e07a08",
+    "course": "FIN481",
+    "chapter": "Parity",
+    "difficulty": "Easy",
+    "question": "Using relative PPP, forecast USD/EUR in 2 year(s) when today’s spot is $1.220/EUR, annual U.S. inflation is 4.9%, and euro-area inflation is 2.2%. (USD/EUR, 4 decimals.)",
+    "options": [
+      "1.2200",
+      "1.3425",
+      "1.2853",
+      "1.1580"
+    ],
+    "correct": 2,
+    "explanation": "Expected USD/EUR = 1.220 × [(1+0.049)/(1+0.022)]^2 = 1.2853.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "92e1b5705755c25d22ce98c8c9a603ea",
+    "course": "FIN481",
+    "chapter": "Parity",
+    "difficulty": "Hard",
+    "question": "Using relative PPP, forecast USD/EUR in 3 year(s) when today’s spot is $1.270/EUR, annual U.S. inflation is 5.5%, and euro-area inflation is 2.5%. (USD/EUR, 4 decimals.)",
+    "options": [
+      "1.4913",
+      "1.3848",
+      "1.2700",
+      "1.1647"
+    ],
+    "correct": 1,
+    "explanation": "Expected USD/EUR = 1.270 × [(1+0.055)/(1+0.025)]^3 = 1.3848.",
+    "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
   }
 ]
