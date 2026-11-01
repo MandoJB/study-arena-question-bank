@@ -4814,5 +4814,1605 @@
     "correct": 1,
     "explanation": "Expected USD/EUR = 1.270 × [(1+0.055)/(1+0.025)]^3 = 1.3848.",
     "source": "FIN481 Exam 2 lectures and preparation, new quantitative variation"
+  },
+  {
+    "id": "85ecd7f341a2bd254ad256b3c2010f60",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "What is the numerator of the cash ratio?",
+    "options": [
+      "Cash plus inventory",
+      "Cash and marketable securities",
+      "Total current assets",
+      "Current assets minus current liabilities"
+    ],
+    "correct": 1,
+    "explanation": "Cash ratio focuses on cash-like assets.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "6f5039f290f40e8038b9107d89b9a09b",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Windswept Woodworks reports net profit of $946.42 million and equity of $4,538 million. What is ROE (two decimals)?",
+    "options": [
+      "25.13%",
+      "20.86%",
+      "19.45%",
+      "14.51%"
+    ],
+    "correct": 1,
+    "explanation": "ROE=946.42/4538=20.8554%, or 20.86%.",
+    "source": "Professor Chapter 14 practice PDF (adapted to four-choice format)"
+  },
+  {
+    "id": "9930663c42d5f8dfd7fbe9b78a3d0e96",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Which item is generally removed from current assets when computing the quick ratio?",
+    "options": [
+      "Inventory",
+      "Marketable securities",
+      "Accounts receivable",
+      "Cash"
+    ],
+    "correct": 0,
+    "explanation": "The quick ratio excludes less liquid items such as inventories.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "d1007e13015077f87dc39b860723990b",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A trader purchases one put option contract for 100 shares, strike $155, premium $9 per share. Stock at expiration is $145. What is net profit/loss?",
+    "options": [
+      "$-100 net",
+      "$+100 net",
+      "$+1,000 net",
+      "$-900 net"
+    ],
+    "correct": 1,
+    "explanation": "Long put net=[max(155−145,0)−9]×100=$+100.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "6a3cdeca65c159dc663aec867a7713b0",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "A company has ROE 10% and market-to-book of 1.50. Calculate its P/E ratio (two decimals).",
+    "options": [
+      "0.15",
+      "18.00",
+      "0.07",
+      "15.00"
+    ],
+    "correct": 3,
+    "explanation": "P/E=(P/B)/ROE=1.50/0.10=15.00.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "a109a50356d9e681dac201c272ed4045",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "You find that a firm that uses debt has a compound leverage factor less than 1. This tells you that __________.",
+    "options": [
+      "the firm’s use of financial leverage is positively contributing to ROE",
+      "the firm’s use of financial leverage is negatively contributing to ROE",
+      "the firm’s use of operating leverage is positively contributing to ROE",
+      "the firm’s use of operating leverage is negatively contributing to ROE"
+    ],
+    "correct": 1,
+    "explanation": "Compound leverage = interest burden × leverage ratio; below one means the debt-related factors suppress ROE.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "30f8d00f4a3389c27eaf71655acf748a",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A call is priced at $16, the share price is $60, and strike price is $50. Find intrinsic and time values.",
+    "options": [
+      "$6.00 intrinsic and $10.00 time",
+      "$10.00 intrinsic and $16.00 time",
+      "$16.00 intrinsic and $0.00 time",
+      "$10.00 intrinsic and $6.00 time"
+    ],
+    "correct": 3,
+    "explanation": "Intrinsic=max(60−50,0)=$10; time=16−10=$6.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "3b9b77be4d9b90ee66c2a638e9ca5d0e",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "Holding other inputs fixed, what generally happens to call value when the strike rises?",
+    "options": [
+      "It rises",
+      "It falls",
+      "It is unaffected",
+      "It equals the strike"
+    ],
+    "correct": 1,
+    "explanation": "A higher exercise price reduces potential call exercise payoff.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "510ad925da789c4567438e185f1e85c3",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A call is priced at $12, the share price is $50, and strike price is $40. Find intrinsic and time values.",
+    "options": [
+      "$10.00 intrinsic and $12.00 time",
+      "$2.00 intrinsic and $10.00 time",
+      "$10.00 intrinsic and $2.00 time",
+      "$12.00 intrinsic and $0.00 time"
+    ],
+    "correct": 2,
+    "explanation": "Intrinsic=max(50−40,0)=$10; time=12−10=$2.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "97c1471f70a4e9c7653ba134e8d8ff64",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "An American put option gives its holder the right to __________.",
+    "options": [
+      "buy the underlying asset at the exercise price on or before the expiration date",
+      "buy the underlying asset at the exercise price only at the expiration date",
+      "sell the underlying asset at the exercise price on or before the expiration date",
+      "sell the underlying asset at the exercise price only at the expiration date"
+    ],
+    "correct": 2,
+    "explanation": "An American put permits sale at the strike at any time up to and including expiration.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "ad8cd407769f6adae3ff3c92880eefd1",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "The tax burden of the firm is 0.5, the interest burden is 0.55, the profit margin is 0.25, the asset turnover is 1.5, and the leverage ratio is 1.65. What is the ROE of the firm?",
+    "options": [
+      "17.02%",
+      "12.38%",
+      "22.69%",
+      "25.00%"
+    ],
+    "correct": 0,
+    "explanation": "ROE = 0.5 × 0.55 × 0.25 × 1.5 × 1.65 = 0.17015625 ≈ 17.02%.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "38162e2c5b5cb690ead627513df6a1ff",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A call is priced at $8, the share price is $50, and strike price is $45. Find intrinsic and time values.",
+    "options": [
+      "$8.00 intrinsic and $0.00 time",
+      "$5.00 intrinsic and $3.00 time",
+      "$5.00 intrinsic and $8.00 time",
+      "$3.00 intrinsic and $5.00 time"
+    ],
+    "correct": 1,
+    "explanation": "Intrinsic=max(50−45,0)=$5; time=8−5=$3.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "5186c4dcfe78632f1025b7e168ff3098",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "All else being equal, a call option on a stock with a lot of firm-specific risk is worth ____ one on a stock with little firm-specific risk. Assume their betas are equal.",
+    "options": [
+      "more than",
+      "less than",
+      "equal to",
+      "not enough information to compare"
+    ],
+    "correct": 0,
+    "explanation": "Higher total stock-price volatility increases a call option’s value even when systematic betas coincide.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "9e10936f77199be3df1f28175685718a",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "An investor buys one call contract on 100 shares with strike $110 at a premium of $12 per share. At expiration the share price is $115. What is net profit/loss?",
+    "options": [
+      "$+700 net",
+      "$-700 net",
+      "$-1,200 net",
+      "$+500 net"
+    ],
+    "correct": 1,
+    "explanation": "Long call profit=[max(115−110,0)−12]×100=$-700.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "fcc85f26f927ed5b1aeb5d2b8960f537",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Which ratio best indicates the ability to meet current liabilities using current assets?",
+    "options": [
+      "Return on capital",
+      "Current ratio",
+      "Market-to-book ratio",
+      "Fixed-asset turnover"
+    ],
+    "correct": 1,
+    "explanation": "Current ratio = current assets / current liabilities.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "c5b924dede10eb5a160e9924f729a6ac",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "A firm has tax burden 0.85, interest burden 0.80, EBIT/sales 0.16, asset turnover 2.00, and assets/equity 1.20. What is its ROE? (Round to two decimals.)",
+    "options": [
+      "30.72%",
+      "21.76%",
+      "26.11%",
+      "30.03%"
+    ],
+    "correct": 2,
+    "explanation": "ROE=0.85×0.80×0.16×2.00×1.20=26.1120%, rounded 26.11%.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "27d2e9ad4b64e8d2ed6a7751fdffe668",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "Meyer has 25,000 common shares ($20 par), retained earnings of $5,250,000 at beginning of year, and net income of $75,000, with no dividends. What is year-end book value per common share?",
+    "options": [
+      "$236.00",
+      "$20.00",
+      "$233.00",
+      "$230.00"
+    ],
+    "correct": 2,
+    "explanation": "Common equity=25,000×20+5,250,000+75,000=$5,825,000; divide by 25,000 = $233.",
+    "source": "Professor Chapter 14 practice PDF (adapted to four-choice format)"
+  },
+  {
+    "id": "d106c385e4a95b97ae744aa18a07b7a0",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "You purchase one MBI July 124 call contract (100 shares) for a premium of $11 per share. At expiration the stock is $131. What is your net profit or loss?",
+    "options": [
+      "$400 loss",
+      "$400 profit",
+      "$700 profit",
+      "$1,100 loss"
+    ],
+    "correct": 0,
+    "explanation": "Exercise payoff = (131−124)×100 = $700; premium = $1,100; net = −$400.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "728fec45a9ad80280eb28835ee6da6aa",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Which cash flow classification generally includes issuing common stock for cash?",
+    "options": [
+      "Revenue",
+      "Investing",
+      "Financing",
+      "Operating"
+    ],
+    "correct": 2,
+    "explanation": "Share issuance raises financing cash flow.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "9269c911ecf9bf837a13054c4c026ab3",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "A no-dividend stock is $100 today and will be either $120 or $80 in one year. A call has X=$100 and risk-free rate 10% (effective). What is its two-state no-arbitrage value?",
+    "options": [
+      "$13.64",
+      "$10.00",
+      "$9.09",
+      "$20.00"
+    ],
+    "correct": 0,
+    "explanation": "H=(20−0)/(120−80)=0.5. One share minus two calls pays $80 in either state; C=(100−80/1.10)/2=$13.6364.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "7c4449e7ea57864ad55dfc5ee3989098",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "In the DuPont decomposition, what does the asset turnover component measure?",
+    "options": [
+      "EBIT per dollar of sales",
+      "Sales per dollar of assets",
+      "Assets per dollar of equity",
+      "Net income per dollar of sales"
+    ],
+    "correct": 1,
+    "explanation": "Asset turnover = sales / assets.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "dddc7dfbdc7b1fc0da32c47a07930396",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "Which expression is the tax burden ratio in the five-factor DuPont model?",
+    "options": [
+      "EBIT / sales",
+      "Net income / pretax income",
+      "Sales / assets",
+      "Pretax income / EBIT"
+    ],
+    "correct": 1,
+    "explanation": "Tax burden captures the portion of pretax earnings retained after taxes.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "5a81c15c7594f674ab69cdf316cf6aad",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "What is economic value added (EVA) in the chapter’s practice approach?",
+    "options": [
+      "Sales − current liabilities",
+      "ROE × price per share",
+      "Net income / total assets",
+      "(ROC − cost of capital) × invested capital"
+    ],
+    "correct": 3,
+    "explanation": "EVA is the return spread over the capital charge multiplied by invested funds.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "7b661907c20facda020c5a1e1cd56dc1",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Cash flow from investing activities excludes:",
+    "options": [
+      "cash paid for acquisitions.",
+      "cash received from the sale of fixed assets.",
+      "inventory increases due to a new (internally developed) product line.",
+      "All of the choices are correct."
+    ],
+    "correct": 2,
+    "explanation": "Changes in inventory are operating activities, while acquisitions and fixed-asset sales are investing activities.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "5dcbc08aa3abfce71e19477020147c48",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "A firm has tax burden 0.65, interest burden 0.80, EBIT/sales 0.20, asset turnover 1.50, and assets/equity 1.40. What is its ROE? (Round to two decimals.)",
+    "options": [
+      "25.12%",
+      "15.60%",
+      "33.60%",
+      "21.84%"
+    ],
+    "correct": 3,
+    "explanation": "ROE=0.65×0.80×0.20×1.50×1.40=21.8400%, rounded 21.84%.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "efe220160ddcf7c0920252ac828304b4",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "S0=$210, X=$220, up/down outcomes $250/$130, and effective risk-free rate 15%. What is the two-state call value?",
+    "options": [
+      "$24.24",
+      "$22.95",
+      "$30.00",
+      "$13.04"
+    ],
+    "correct": 0,
+    "explanation": "One stock minus four calls pays $130 in both states: 210−4C=130/1.15; C=$24.23913 ≈ $24.24.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "86f83c7f3adbca88d9d6d1244eb54c0c",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "The price-earnings ratio is:",
+    "options": [
+      "Net income / revenue",
+      "Book equity / market equity",
+      "Earnings per share / share price",
+      "Share price / earnings per share"
+    ],
+    "correct": 3,
+    "explanation": "P/E is the number of dollars of share price per dollar of annual EPS.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "4f23aa4a442fa2a73e5bcc66304621c4",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "An investor buys one call contract on 100 shares with strike $90 at a premium of $8 per share. At expiration the share price is $110. What is net profit/loss?",
+    "options": [
+      "$+2,000 net",
+      "$-800 net",
+      "$+1,200 net",
+      "$-1,200 net"
+    ],
+    "correct": 2,
+    "explanation": "Long call profit=[max(110−90,0)−8]×100=$+1,200.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "8e3a767d506d8efb5835d93c9d342a40",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "An analyst calculates market-to-book value as:",
+    "options": [
+      "Market price per share / book value per share",
+      "Total liabilities / total equity",
+      "Earnings per share / stock price",
+      "Dividend / share price"
+    ],
+    "correct": 0,
+    "explanation": "Price-to-book compares market equity valuation to its accounting book value.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "a566f88d230baf0c828aa2b943e31936",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "A company has ROE 20% and market-to-book of 3.00. Calculate its P/E ratio (two decimals).",
+    "options": [
+      "0.60",
+      "15.00",
+      "18.00",
+      "0.07"
+    ],
+    "correct": 1,
+    "explanation": "P/E=(P/B)/ROE=3.00/0.20=15.00.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "38cb29e49059ff5e547c47652a57b17b",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "An investor buys one call contract on 100 shares with strike $70 at a premium of $3 per share. At expiration the share price is $82. What is net profit/loss?",
+    "options": [
+      "$+900 net",
+      "$-900 net",
+      "$-300 net",
+      "$+1,200 net"
+    ],
+    "correct": 0,
+    "explanation": "Long call profit=[max(82−70,0)−3]×100=$+900.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "cc7eecc30192c1f17f8f10658f9f9f10",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "If a firm’s ratio of stockholders’ equity/total assets is lower than the industry average and its ratio of long-term debt/stockholders’ equity is also lower than the industry average, this would suggest that the firm __________.",
+    "options": [
+      "has more current liabilities than the industry average",
+      "has more leased assets than the industry average",
+      "will be less profitable than the industry average",
+      "has more current assets than the industry average"
+    ],
+    "correct": 0,
+    "explanation": "Less equity relative to assets despite less long-term debt relative to equity points toward more other financing, particularly current liabilities.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "73b0934ea532efcb22340d061bac6796",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "The maximum intrinsic value of an out-of-the-money call is:",
+    "options": [
+      "$0",
+      "The stock price",
+      "The strike price",
+      "The current premium"
+    ],
+    "correct": 0,
+    "explanation": "Intrinsic call value is max(S−X,0).",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "f05949022cc4270680af38289b5a1981",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A trader purchases one put option contract for 100 shares, strike $120, premium $9 per share. Stock at expiration is $100. What is net profit/loss?",
+    "options": [
+      "$+1,100 net",
+      "$-1,100 net",
+      "$-900 net",
+      "$+2,000 net"
+    ],
+    "correct": 0,
+    "explanation": "Long put net=[max(120−100,0)−9]×100=$+1,100.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "5e1fc83a04e50550ab9d820ca68304a7",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "For a purchased put, which expiration stock price produces the largest exercise payoff?",
+    "options": [
+      "Any price equally",
+      "Stock price exactly equal to strike",
+      "The highest stock price",
+      "The lowest stock price"
+    ],
+    "correct": 3,
+    "explanation": "Put payoff max(X−S,0) rises as stock price falls.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "77c1b75728b6bf66c0d62fb399aef632",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A trader purchases one put option contract for 100 shares, strike $145, premium $3 per share. Stock at expiration is $135. What is net profit/loss?",
+    "options": [
+      "$-300 net",
+      "$+700 net",
+      "$-700 net",
+      "$+1,000 net"
+    ],
+    "correct": 1,
+    "explanation": "Long put net=[max(145−135,0)−3]×100=$+700.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "6d3de3157fc2a650a8b72d39a6dec25b",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "Tax burden=0.70, leverage=1.35, interest burden=0.60, EBIT/sales=10%, and asset turnover=2.00. What is ROE?",
+    "options": [
+      "11.34%",
+      "18.90%",
+      "9.80%",
+      "14.00%"
+    ],
+    "correct": 0,
+    "explanation": "ROE=0.70×0.60×0.10×2.00×1.35=0.1134.",
+    "source": "Professor Chapter 14 practice PDF (adapted to four-choice format)"
+  },
+  {
+    "id": "0d687efba5a284a7a53a8850460d2774",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "What does a compound leverage factor of 1.20 suggest?",
+    "options": [
+      "Financial leverage amplifies ROE relative to unlevered after-tax operating ROA",
+      "The interest burden exceeds 1.20",
+      "Financial leverage lowers ROE",
+      "The company has no debt"
+    ],
+    "correct": 0,
+    "explanation": "Interest burden × assets/equity greater than one gives favorable leverage contribution.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "b44f919099b1dc8bbb55cd332312c549",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A put has strike $290 and stock outcomes $320 (up) and $200 (down). What is the put hedge ratio?",
+    "options": [
+      "0.75",
+      "−0.25",
+      "−1.33",
+      "−0.75"
+    ],
+    "correct": 3,
+    "explanation": "Pu=0, Pd=90, so H=(0−90)/(320−200)=−0.75.",
+    "source": "Professor Chapter 16 practice PDF (adapted to four-choice format)"
+  },
+  {
+    "id": "856c29b4410afca3e7da1c46b82f75ae",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "A call is at the money when:",
+    "options": [
+      "The call premium is zero",
+      "Stock price exceeds strike price",
+      "The stock has no volatility",
+      "Stock price equals strike price"
+    ],
+    "correct": 3,
+    "explanation": "At the money describes S = X.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "f8ea51f18ab91660706fb591c1ae5555",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "The quick ratio is a measure of a firm’s __________.",
+    "options": [
+      "asset turnover",
+      "market valuation",
+      "liquidity",
+      "interest burden"
+    ],
+    "correct": 2,
+    "explanation": "Quick ratio measures short-term liquidity using liquid current assets relative to current liabilities.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "36d31aff44d96c74ab1d008d10fa83a9",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Which profitability metric uses common shareholders’ equity as denominator?",
+    "options": [
+      "ROC",
+      "ROE",
+      "Fixed-asset turnover",
+      "ROA"
+    ],
+    "correct": 1,
+    "explanation": "Return on equity measures income earned on shareholder book equity.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "31f139d2145734d603af7d6a59a87f8d",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Acme has $200 million equity, $50 million debt, ROC 15% and cost of capital 9%. What is EVA?",
+    "options": [
+      "$15 million",
+      "$12 million",
+      "$37.5 million",
+      "$9 million"
+    ],
+    "correct": 0,
+    "explanation": "EVA=(0.15−0.09)×(200+50)=$15 million.",
+    "source": "Professor Chapter 14 practice PDF (adapted to four-choice format)"
+  },
+  {
+    "id": "7178675e9344406a14369f45482d39c7",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A call is in the money when:",
+    "options": [
+      "Stock price exceeds strike price",
+      "Stock price equals premium",
+      "Strike exceeds stock price",
+      "Premium exceeds stock price"
+    ],
+    "correct": 0,
+    "explanation": "A call has positive immediate exercise payoff when S > X.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "88c5e63de9d3eaf138387d4971103d22",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Before expiration, call option time value equals:",
+    "options": [
+      "Call price plus intrinsic value",
+      "Strike price minus stock price",
+      "Stock price minus call price",
+      "Call price minus intrinsic value"
+    ],
+    "correct": 3,
+    "explanation": "Option premium has intrinsic value and time value components.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "281d6e9d9809d27dca2b6748a2bcbed3",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "You write one MBI July 138 call contract (100 shares) for a premium of $15 per share. At expiration the stock is $148. What is your net profit?",
+    "options": [
+      "$500 profit",
+      "$500 loss",
+      "$1,000 loss",
+      "$1,500 profit"
+    ],
+    "correct": 0,
+    "explanation": "Writer receives $1,500 and pays exercise value (148−138)×100 = $1,000; net = $500.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "de83d7a8ddd17e3d7e0f4c1a35c70729",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "For a call, the two-state hedge ratio is calculated as:",
+    "options": [
+      "(Su−Sd)/(Cu−Cd)",
+      "(Cu−Cd)/(Su+Sd)",
+      "(Cu+Cd)/(Su+Sd)",
+      "(Cu−Cd)/(Su−Sd)"
+    ],
+    "correct": 3,
+    "explanation": "The hedge ratio is the option payoff range divided by the stock payoff range.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "b8075ca9f383b7b96ed2b264a2daa6e4",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Why can a two-state hedged stock-option portfolio be discounted at the risk-free rate?",
+    "options": [
+      "Its expected stock return must equal the risk-free rate",
+      "Its end-of-period payoffs are identical across the two states",
+      "Its payoffs are always zero",
+      "The option has no time value"
+    ],
+    "correct": 1,
+    "explanation": "Equal state payoffs eliminate uncertainty within the model.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "b3854bd7c15b257ce3405af5be08cd0f",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "Which statement separately reports cash flows from operating, investing, and financing activities?",
+    "options": [
+      "Balance sheet",
+      "Income statement",
+      "Statement of changes in equity",
+      "Statement of cash flows"
+    ],
+    "correct": 3,
+    "explanation": "The cash flow statement classifies receipts and payments into three major activities.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "0810c8bf74ce936f2a66d80924460a4e",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "If the interest rate on debt is higher than the operating ROA, then by using debt a firm’s ROE will __________.",
+    "options": [
+      "decrease",
+      "increase",
+      "not change",
+      "change but in an indeterminable manner"
+    ],
+    "correct": 0,
+    "explanation": "Financial leverage reduces ROE when borrowing costs exceed operating ROA.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "39b4ca1627d2e8d3ce33acdff92b46dd",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Which cash flow classification usually includes cash paid to purchase equipment?",
+    "options": [
+      "Operating",
+      "Financing",
+      "Investing",
+      "Noncash adjustment only"
+    ],
+    "correct": 2,
+    "explanation": "Purchases of long-lived productive assets are investing cash flows.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "a5a08c338964e8caed7d9864a9e405ed",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A call is priced at $7, the share price is $75, and strike price is $70. Find intrinsic and time values.",
+    "options": [
+      "$7.00 intrinsic and $0.00 time",
+      "$5.00 intrinsic and $7.00 time",
+      "$2.00 intrinsic and $5.00 time",
+      "$5.00 intrinsic and $2.00 time"
+    ],
+    "correct": 3,
+    "explanation": "Intrinsic=max(75−70,0)=$5; time=7−5=$2.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "5f9fd3640fda00b81eb28625aa6c9b99",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Apex has $300 million equity, $100 million debt, ROC 13% and cost of capital 10%. What is EVA?",
+    "options": [
+      "$15 million",
+      "$9 million",
+      "$40 million",
+      "$12 million"
+    ],
+    "correct": 3,
+    "explanation": "EVA=(0.13−0.10)×(300+100)=$12 million.",
+    "source": "Professor Chapter 14 practice PDF (adapted to four-choice format)"
+  },
+  {
+    "id": "34b2634fdcb386dee02fe6ac0eb1e25a",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "S0=$280, X=$290, future stock prices $320/$200, and rate 10%. What is the two-state put value?",
+    "options": [
+      "$16.36",
+      "$8.18",
+      "$10.00",
+      "$32.73"
+    ],
+    "correct": 1,
+    "explanation": "Three shares plus four puts pay $960 in either state. 840+4P=960/1.1, giving P=$8.1818.",
+    "source": "Professor Chapter 16 practice PDF (adapted to four-choice format)"
+  },
+  {
+    "id": "1592e1f822e11e3db378dcf653bd66b4",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "S0=$200, X=$210, future stock prices $230 and $180, and effective rate 10%. What is the two-state call value?",
+    "options": [
+      "$20.00",
+      "$18.18",
+      "$12.73",
+      "$14.55"
+    ],
+    "correct": 3,
+    "explanation": "Two shares minus five calls pay $360 either way; 400−5C=360/1.10; C=$14.54545.",
+    "source": "Professor Chapter 16 practice PDF (adapted to four-choice format)"
+  },
+  {
+    "id": "1daa2441b7005e417eb98d5f4a964e2a",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "The __________ of the option is the stock price minus exercise price, or the payoff from immediate exercise of an in-the-money call.",
+    "options": [
+      "intrinsic value",
+      "time value",
+      "stated value",
+      "discounted value"
+    ],
+    "correct": 0,
+    "explanation": "Intrinsic value for a call is max(S−X,0).",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "9700d7bb8bba66cde35f351fe1a74391",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "A firm has tax burden 0.75, interest burden 0.80, EBIT/sales 0.20, asset turnover 1.20, and assets/equity 1.40. What is its ROE? (Round to two decimals.)",
+    "options": [
+      "23.18%",
+      "20.16%",
+      "14.40%",
+      "26.88%"
+    ],
+    "correct": 1,
+    "explanation": "ROE=0.75×0.80×0.20×1.20×1.40=20.1600%, rounded 20.16%.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "a87309d0d320bc0f7b23c1074d1f2ba9",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "A company has ROE 15% and market-to-book of 1.80. Calculate its P/E ratio (two decimals).",
+    "options": [
+      "0.08",
+      "14.40",
+      "12.00",
+      "0.27"
+    ],
+    "correct": 2,
+    "explanation": "P/E=(P/B)/ROE=1.80/0.15=12.00.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "d09d676ae3b62df2d4889a7f5d12fe1d",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "When operating ROA exceeds debt interest cost, adding debt tends to:",
+    "options": [
+      "Leave ROE unchanged",
+      "Increase ROE before considering other changes",
+      "Decrease ROE in all cases",
+      "Reduce total assets"
+    ],
+    "correct": 1,
+    "explanation": "Borrowing at a lower rate than operating asset returns produces positive financial leverage.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "34a8997d003e569bea93255ac4a5709a",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "A firm has tax burden 0.80, interest burden 0.75, EBIT/sales 0.16, asset turnover 1.50, and assets/equity 1.20. What is its ROE? (Round to two decimals.)",
+    "options": [
+      "17.28%",
+      "21.60%",
+      "14.40%",
+      "19.87%"
+    ],
+    "correct": 0,
+    "explanation": "ROE=0.80×0.75×0.16×1.50×1.20=17.2800%, rounded 17.28%.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "2d95264ed5d2f862f839a4e7fe8ebac8",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "S0=$200, X=$210, future stock prices $230 and $180. What is the hedge ratio of a call?",
+    "options": [
+      "−0.40",
+      "0.40",
+      "0.25",
+      "0.50"
+    ],
+    "correct": 1,
+    "explanation": "Cu=20; Cd=0; H=20/(230−180)=0.40.",
+    "source": "Professor Chapter 16 practice PDF (adapted to four-choice format)"
+  },
+  {
+    "id": "861b99e6f0234e9996984c62d0a0a317",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Holding other inputs fixed, what generally happens to call value when the risk-free interest rate rises?",
+    "options": [
+      "It rises",
+      "It must equal the stock price",
+      "It falls",
+      "It becomes negative"
+    ],
+    "correct": 0,
+    "explanation": "A higher rate reduces present value of the future exercise price and generally helps call value.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "55f98cdde1b099d835102d5b7cffd9fd",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Holding other inputs fixed, what typically happens to a call value when volatility rises?",
+    "options": [
+      "It rises",
+      "It always equals intrinsic value",
+      "It becomes zero",
+      "It falls"
+    ],
+    "correct": 0,
+    "explanation": "Greater upside potential with limited downside helps option owners.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "ec48dcbecaca2267390a8a3d61ad3b98",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A call is priced at $18, the share price is $75, and strike price is $60. Find intrinsic and time values.",
+    "options": [
+      "$3.00 intrinsic and $15.00 time",
+      "$15.00 intrinsic and $3.00 time",
+      "$18.00 intrinsic and $0.00 time",
+      "$15.00 intrinsic and $18.00 time"
+    ],
+    "correct": 1,
+    "explanation": "Intrinsic=max(75−60,0)=$15; time=18−15=$3.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "06cddf54f82f036d4b6bb3936af34ec4",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "The five-factor DuPont profit margin used in the professor’s slides is:",
+    "options": [
+      "EBIT / sales",
+      "EBIT / total equity",
+      "Net income / sales",
+      "Sales / assets"
+    ],
+    "correct": 0,
+    "explanation": "The decomposition multiplies EBIT/sales by interest and tax burdens to reach net income.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "409c891b4ed79e96301a41fce43752b8",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "A firm has tax burden 0.80, interest burden 0.75, EBIT/sales 0.25, asset turnover 1.20, and assets/equity 1.80. What is its ROE? (Round to two decimals.)",
+    "options": [
+      "40.50%",
+      "32.40%",
+      "37.26%",
+      "18.00%"
+    ],
+    "correct": 1,
+    "explanation": "ROE=0.80×0.75×0.25×1.20×1.80=32.4000%, rounded 32.40%.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "60b23e99941684010449d6416f09089c",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "A firm has an ROE of 20% and a market-to-book ratio of 2.38. Its P/E ratio is __________.",
+    "options": [
+      "11.90",
+      "0.48",
+      "2.58",
+      "47.60"
+    ],
+    "correct": 0,
+    "explanation": "P/E = (market-to-book)/ROE = 2.38/0.20 = 11.90.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "59d852b0d3fac799773176b8821dd3c0",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "For a written (short) call, if stock price rises far above strike at expiration, what happens to the writer’s intrinsic payoff?",
+    "options": [
+      "It stays at zero",
+      "It becomes increasingly negative",
+      "It becomes equal to the premium",
+      "It grows without bound positively"
+    ],
+    "correct": 1,
+    "explanation": "The short call owes max(S−X,0); the premium was collected separately.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "cd27e2b70a5a5f98a0a45bdf1fca164e",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "If a firm has a positive tax rate and a positive operating ROA, and the interest rate on debt is the same as the operating ROA, then operating ROA will be __________.",
+    "options": [
+      "greater than zero, but it is impossible to determine how operating ROA will compare to ROE",
+      "equal to ROE",
+      "greater than ROE",
+      "less than ROE"
+    ],
+    "correct": 2,
+    "explanation": "When borrowing rate equals operating ROA, ROE = operating ROA × (1 − tax rate), so operating ROA is higher.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "a4e5c5b653ffa2c58d035fbcd73edede",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "A firm has tax burden 0.75, interest burden 0.80, EBIT/sales 0.12, asset turnover 0.80, and assets/equity 1.20. What is its ROE? (Round to two decimals.)",
+    "options": [
+      "9.22%",
+      "6.91%",
+      "7.95%",
+      "5.76%"
+    ],
+    "correct": 1,
+    "explanation": "ROE=0.75×0.80×0.12×0.80×1.20=6.9120%, rounded 6.91%.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "32747fc0a24dea252de78b6bf08ae6d7",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Which type of option normally can be exercised only at expiration?",
+    "options": [
+      "Either style at any date",
+      "European option",
+      "American option",
+      "Neither style"
+    ],
+    "correct": 1,
+    "explanation": "European exercise is restricted to expiration.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "c343d7006aaa90926a116bc3fccf07db",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "A non-dividend stock costs $130, pays $155 or $105 next year, X=$130, and rate=8%. Find the two-state call value.",
+    "options": [
+      "$16.39",
+      "$14.81",
+      "$12.50",
+      "$25.00"
+    ],
+    "correct": 0,
+    "explanation": "One share minus two calls pays $105; C=(130−105/1.08)/2=$16.3889.",
+    "source": "Professor Chapter 16 practice PDF (adapted to four-choice format)"
+  },
+  {
+    "id": "30a0bae11293b236c09e7212f84b1d20",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Which expression is the interest burden ratio in the five-factor DuPont model?",
+    "options": [
+      "Net income / pretax income",
+      "Pretax income / EBIT",
+      "EBIT / assets",
+      "Interest expense / debt"
+    ],
+    "correct": 1,
+    "explanation": "Interest burden captures financing cost relative to EBIT.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "7ba6eb403bfde4f1bb86bdc9ac70e01e",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "A put option gives its holder the right, but not the obligation, to:",
+    "options": [
+      "Sell the underlying at the strike",
+      "Borrow shares at the strike",
+      "Buy the underlying at the strike",
+      "Earn the risk-free rate"
+    ],
+    "correct": 0,
+    "explanation": "A put conveys a sale right.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "99f9611cd34ed017d32e347f862df8e9",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "A firm has tax burden 0.65, interest burden 0.90, EBIT/sales 0.08, asset turnover 1.20, and assets/equity 1.60. What is its ROE? (Round to two decimals.)",
+    "options": [
+      "10.33%",
+      "5.62%",
+      "13.82%",
+      "8.99%"
+    ],
+    "correct": 3,
+    "explanation": "ROE=0.65×0.90×0.08×1.20×1.60=8.9856%, rounded 8.99%.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "dcb24b2e2eb9380c23a6b81351061e00",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "A stock is $80, will become $100 or $60, X=$80 and effective risk-free rate 5%. Find the two-state call value.",
+    "options": [
+      "$11.43",
+      "$10.00",
+      "$19.05",
+      "$6.67"
+    ],
+    "correct": 0,
+    "explanation": "H=(20−0)/(100−60)=0.5. Stock minus two calls pays $60; C=(80−60/1.05)/2=$11.4286.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "437ceca7788611c9eb9571a93a894300",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A put is in the money when:",
+    "options": [
+      "Strike price exceeds stock price",
+      "Stock price exceeds strike price",
+      "Stock price exceeds premium",
+      "Premium equals strike price"
+    ],
+    "correct": 0,
+    "explanation": "Put exercise payoff is max(X−S,0).",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "2fb2503e816385c4623379efe1af5e6f",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "A firm has tax burden 0.75, interest burden 0.95, EBIT/sales 0.16, asset turnover 1.50, and assets/equity 1.80. What is its ROE? (Round to two decimals.)",
+    "options": [
+      "30.78%",
+      "41.04%",
+      "35.40%",
+      "17.10%"
+    ],
+    "correct": 0,
+    "explanation": "ROE=0.75×0.95×0.16×1.50×1.80=30.7800%, rounded 30.78%.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "b17a70f35586870b2deaae544523b7f4",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "An investor buys one call contract on 100 shares with strike $130 at a premium of $8 per share. At expiration the share price is $142. What is net profit/loss?",
+    "options": [
+      "$-800 net",
+      "$-400 net",
+      "$+400 net",
+      "$+1,200 net"
+    ],
+    "correct": 2,
+    "explanation": "Long call profit=[max(142−130,0)−8]×100=$+400.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "04d3688ea7a7a721da63c90a6c6eeba0",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "A firm has ROE 3%, debt/equity 0.4, tax rate 35%, and debt interest rate 8%. What is operating ROA?",
+    "options": [
+      "8.00%",
+      "4.62%",
+      "3.00%",
+      "5.58%"
+    ],
+    "correct": 3,
+    "explanation": "0.03=0.65[ROA+(ROA−0.08)×0.4]; ROA=(0.03/0.65+0.032)/1.4=5.58%.",
+    "source": "Professor Chapter 14 practice PDF (adapted to four-choice format)"
+  },
+  {
+    "id": "521b3a8eeb5cb5c311ff0415afba6cfb",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "Holding other inputs fixed, what generally happens to call value as expected dividends rise?",
+    "options": [
+      "It rises",
+      "It doubles",
+      "It becomes stock price minus strike",
+      "It falls"
+    ],
+    "correct": 3,
+    "explanation": "Anticipated dividends reduce expected ex-dividend share value and call attractiveness.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "e8f9ff0a8b035be638e4e90491d0392a",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A call option gives its holder the right, but not the obligation, to:",
+    "options": [
+      "Require the issuer to redeem common stock",
+      "Collect a guaranteed dividend",
+      "Buy the underlying at the strike",
+      "Sell the underlying at the strike"
+    ],
+    "correct": 2,
+    "explanation": "A call conveys a purchase right.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "beee94f328823669fbecbe24ca0dfcfb",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Which financial statement shows a company’s assets, liabilities, and equity at a point in time?",
+    "options": [
+      "Balance sheet",
+      "Income statement",
+      "Cash flow statement",
+      "Sales budget"
+    ],
+    "correct": 0,
+    "explanation": "The balance sheet reports the financial position at one date.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "c609f8b5f6949147943b03c312466418",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Hard",
+    "question": "A call has stock up/down prices of $250/$130 and strike $220. What is its two-state hedge ratio?",
+    "options": [
+      "0.25",
+      "0.40",
+      "0.50",
+      "0.75"
+    ],
+    "correct": 0,
+    "explanation": "Cu=30, Cd=0, and H=(30−0)/(250−130)=0.25.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "741b392fd050ed59d706020c334f103a",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "One-period call with strike $90 has stock outcomes $140 (up) and $50 (down). What is the call hedge ratio (three decimals)?",
+    "options": [
+      "0.556",
+      "-0.556",
+      "1.800",
+      "1.000"
+    ],
+    "correct": 0,
+    "explanation": "Cu=50, Cd=0; H=(50−0)/(140−50)=0.556.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "7d638c79d91793ebcf52a6e7f32f08a4",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Easy",
+    "question": "For a put with normal up/down stock outcomes, the two-state hedge ratio is generally:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Undefined in every case",
+      "Exactly one"
+    ],
+    "correct": 1,
+    "explanation": "Put values usually decline when stock prices rise, so ΔP/ΔS is negative.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "6dc6b76e1acab976d5899e3b311a5f0a",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A call is priced at $11, the share price is $75, and strike price is $70. Find intrinsic and time values.",
+    "options": [
+      "$5.00 intrinsic and $11.00 time",
+      "$6.00 intrinsic and $5.00 time",
+      "$11.00 intrinsic and $0.00 time",
+      "$5.00 intrinsic and $6.00 time"
+    ],
+    "correct": 3,
+    "explanation": "Intrinsic=max(75−70,0)=$5; time=11−5=$6.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "dc6c4f0a123f7ce1051ae3be310c83bf",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "In the two-state replication method, do subjective real-world up/down probabilities have to be 50% to value an option?",
+    "options": [
+      "Yes; otherwise risk-free discounting is impossible",
+      "No; replication and no-arbitrage determine price",
+      "No; option prices must equal their expected raw payoff",
+      "Yes; all options require equal probabilities"
+    ],
+    "correct": 1,
+    "explanation": "A riskless replicating portfolio makes subjective state probabilities unnecessary.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "77087a273bd0425931ec1e8bfa019723",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A call is priced at $17, the share price is $50, and strike price is $35. Find intrinsic and time values.",
+    "options": [
+      "$15.00 intrinsic and $17.00 time",
+      "$15.00 intrinsic and $2.00 time",
+      "$17.00 intrinsic and $0.00 time",
+      "$2.00 intrinsic and $15.00 time"
+    ],
+    "correct": 1,
+    "explanation": "Intrinsic=max(50−35,0)=$15; time=17−15=$2.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "7783d9ffa7a9c38962792d34e4a8418a",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "A company has ROE 20% and market-to-book of 2.00. Calculate its P/E ratio (two decimals).",
+    "options": [
+      "12.00",
+      "10.00",
+      "0.40",
+      "0.10"
+    ],
+    "correct": 1,
+    "explanation": "P/E=(P/B)/ROE=2.00/0.20=10.00.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "ee2612d9392ca5a580cdede80fa8d770",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A trader purchases one put option contract for 100 shares, strike $140, premium $12 per share. Stock at expiration is $130. What is net profit/loss?",
+    "options": [
+      "$+1,000 net",
+      "$-1,200 net",
+      "$+200 net",
+      "$-200 net"
+    ],
+    "correct": 3,
+    "explanation": "Long put net=[max(140−130,0)−12]×100=$-200.",
+    "source": "Original, based on Chapter 16 Part I slides and Exam 2 review"
+  },
+  {
+    "id": "dbd853786bc117074a17a4edb590214a",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "Which financial statement summarizes revenue and expenses over a reporting period?",
+    "options": [
+      "Income statement",
+      "Statement of cash flows",
+      "Balance sheet",
+      "Statement of retained earnings"
+    ],
+    "correct": 0,
+    "explanation": "The income statement measures performance across a period.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "20eef7f5c03af6641d4e6900ce534ce0",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "The value of a call option increases with all of the following except __________.",
+    "options": [
+      "stock price",
+      "time to maturity",
+      "volatility",
+      "dividend yield"
+    ],
+    "correct": 3,
+    "explanation": "Higher dividend payouts generally reduce call value; the other increases generally raise call value.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "f2bb7852604ff96d7096ebd1dceec8ce",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "A firm has tax burden 0.65, interest burden 0.70, EBIT/sales 0.20, asset turnover 2.00, and assets/equity 1.80. What is its ROE? (Round to two decimals.)",
+    "options": [
+      "50.40%",
+      "32.76%",
+      "37.67%",
+      "18.20%"
+    ],
+    "correct": 1,
+    "explanation": "ROE=0.65×0.70×0.20×2.00×1.80=32.7600%, rounded 32.76%.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "087e8731bb81f7652855362deaab4d05",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "What is the DuPont leverage ratio?",
+    "options": [
+      "Equity divided by debt",
+      "Total assets divided by equity",
+      "EBIT divided by interest",
+      "Debt divided by sales"
+    ],
+    "correct": 1,
+    "explanation": "The equity multiplier is assets/equity.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "898122833a8e14ccb6a7edaf20df4cc6",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Hard",
+    "question": "A firm has tax burden 0.75, interest burden 0.90, EBIT/sales 0.20, asset turnover 1.50, and assets/equity 1.40. What is its ROE? (Round to two decimals.)",
+    "options": [
+      "20.25%",
+      "28.35%",
+      "32.60%",
+      "37.80%"
+    ],
+    "correct": 1,
+    "explanation": "ROE=0.75×0.90×0.20×1.50×1.40=28.3500%, rounded 28.35%.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "b2a89780e3ed869ece09a1218bc13f22",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A stock is $40.20, its call option costs $7.30, and the strike is $35.00. What are intrinsic and time values?",
+    "options": [
+      "$5.20 intrinsic; $2.10 time",
+      "$7.30 intrinsic; $0 time",
+      "$2.10 intrinsic; $5.20 time",
+      "$5.20 intrinsic; $7.30 time"
+    ],
+    "correct": 0,
+    "explanation": "Intrinsic = 40.20−35 = $5.20; time value = 7.30−5.20 = $2.10.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "9affcd2b0b513bd349cb7c2d457dcafc",
+    "course": "FIN427",
+    "chapter": "16",
+    "difficulty": "Medium",
+    "question": "A call option with several months until expiration has a strike price of $55 when the stock price is $50. The option has __________ intrinsic value and __________ time value.",
+    "options": [
+      "negative; positive",
+      "positive; negative",
+      "zero; zero",
+      "zero; positive"
+    ],
+    "correct": 3,
+    "explanation": "Out-of-the-money calls have zero intrinsic value but generally positive time value before expiration.",
+    "source": "Professor Exam 2 review PowerPoint (adapted to four-choice format)"
+  },
+  {
+    "id": "d39d19fa301372ec8b6b0ea24ecb4a1b",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Easy",
+    "question": "Which cash flow classification normally reflects an increase in inventory?",
+    "options": [
+      "Operating",
+      "Investing",
+      "Financing",
+      "Other comprehensive income"
+    ],
+    "correct": 0,
+    "explanation": "Inventory changes affect cash from operations through working capital.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
+  },
+  {
+    "id": "e19ab1dbfecd9260b06ec52e46a1a859",
+    "course": "FIN427",
+    "chapter": "14",
+    "difficulty": "Medium",
+    "question": "A company has ROE 15% and market-to-book of 2.40. Calculate its P/E ratio (two decimals).",
+    "options": [
+      "16.00",
+      "0.36",
+      "0.06",
+      "19.20"
+    ],
+    "correct": 0,
+    "explanation": "P/E=(P/B)/ROE=2.40/0.15=16.00.",
+    "source": "Original, based on Chapter 14 slides and Exam 2 review"
   }
 ]
